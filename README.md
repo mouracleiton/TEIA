@@ -10,6 +10,125 @@
 
 ---
 
+## Diagrama da Metodologia
+
+```
+╔══════════════════════════════════════════════════════════════════════════╗
+║                    TEIA FRAMEWORK v3.2 — METODOLOGIA                     ║
+║          Do Problema à Reforma: Pipeline de Investigação Integral        ║
+╚══════════════════════════════════════════════════════════════════════════╝
+
+                              ┌─────────────┐
+                              │  PROBLEMA   │
+                              │  (fenômeno) │
+                              └──────┬──────┘
+                                     │
+                                     ▼
+                    ╔═══════════════════════════════╗
+                    ║   FASE A: MATRIZ DE CONSIST.  ║
+                    ║   (Desenho Metodológico)      ║
+                    ╠═══════════════════════════════╣
+                    ║ 1. Epistemológica (paradigma) ║
+                    ║ 2. Teleológica (objetivos/H0) ║
+                    ║ 3. Metodológica (desenho)     ║
+                    ║ 4. Analítica (triangulação)   ║
+                    ║ 5. Contextual (tempo/espaço)  ║
+                    ║ 6. Ética (fontes/inocência)   ║
+                    ╚═════════════════╤═════════════╝
+                                      │
+                    ┌─────────────────┴─────────────────┐
+                    │                                   │
+                    ▼                                   ▼
+    ╔════════════════════════╗              ╔════════════════════════╗
+    ║  CAMADA 2: DIAGNÓSTICO ║              ║  16 DIMENSÕES ANALÍT. ║
+    ║  (Pipeline Dialético)  ║◄────────────►║  (O que analisar)      ║
+    ╠════════════════════════╣              ╠════════════════════════╣
+    ║ 1. TESE (original)     ║              ║ ECONÔMICA              ║
+    ║ 2. FACT-CHECK (fontes) ║              ║ INSTITUCIONAL          ║
+    ║ 3. REFUTAÇÃO (hostil)  ║              ║ TECNOLÓGICA            ║
+    ║ 4. CONTRA-REFUTAÇÃO    ║              ║ AMBIENTAL              ║
+    ║ 5. SÍNTESE (V4.0)      ║              ║ SOCIAL / CULTURAL      ║
+    ╚══════════╤═════════════╝              ║                        ║
+               │                            ║ + Psicologia (Kahneman)║
+               │                            ║ + Discurso (Framing)   ║
+               │                            ║ + Filosofia (Foucault) ║
+               │                            ║ + Geografia (GIS)      ║
+               │                            ║ + História (Braudel)   ║
+               │                            ║ + Public Choice        ║
+               │                            ║ + Sistemas Complexos   ║
+               │                            ╚════════════════════════╝
+               ▼
+    ╔═══════════════════════════════════════════════╗
+    ║            CAMADA 3: MAPEAMENTO               ║
+    ║           (Quem e como captura)               ║
+    ╠═══════════════════════════════════════════════╣
+    ║                                               ║
+    ║  SOPBRA KERNEL (9 axiomas)                    ║
+    ║  VETO PLAYERS (8 scores por ator)             ║
+    ║  STATE MACHINE (8 estados políticos)          ║
+    ║  3 SISTEMAS DE CAPTURA (financeiro/orçam/comp)║
+    ║  BOMBA DE DRENAGEM TERRITORIAL                ║
+    ╚═══════════════════╤═══════════════════════════╝
+                        │
+                        ▼
+    ╔═══════════════════════════════════════════════╗
+    ║            CAMADA 4: SIMULAÇÃO                 ║
+    ║           (Modelagem Preditiva)                ║
+    ╠═══════════════════════════════════════════════╣
+    ║                                               ║
+    ║  MODELAGEM ESTATÍSTICA:                       ║
+    ║  • Z-score robusto (anomalias)                ║
+    ║  • Isolation Forest (superfaturamento)        ║
+    ║  • Regressão (OLS, ARIMA, DiD)                ║
+    ║  • Kaplan-Meier (sobrevivência política)      ║
+    ║  • Inferência Bayesiana (atualiza P)          ║
+    ║                                               ║
+    ║  SIMULAÇÃO:                                   ║
+    ║  • Monte Carlo (1.260.000 cálculos)           ║
+    ║  • Agent-Based Modeling (513+81 agentes)       ║
+    ║  • Stress Testing (4 cenários)                 ║
+    ║  • Teoria dos Jogos (veto×reforma)             ║
+    ║                                               ║
+    ║  DECISION TREE: Precisa Congresso?            ║
+    ║  ├─ NÃO → Portaria/Resolução/Judiciário       ║
+    ║  └─ SIM → Quem bloqueia? → Via Planalto (87%) ║
+    ║                                               ║
+    ║  + COALITION BUILDER (5 camadas de aliados)   ║
+    ║  + THREAT MODEL (8 ameaças + contramedidas)   ║
+    ╚═══════════════════╤═══════════════════════════╝
+                        │
+                        ▼
+    ╔═══════════════════════════════════════════════╗
+    ║            CAMADA 5: EXECUÇÃO                  ║
+    ║           (Ação Concreta)                      ║
+    ╠═══════════════════════════════════════════════╣
+    ║                                               ║
+    ║  10 DRIVERS (APIs institucionais)              ║
+    ║  10 PACOTES (documentos de ação prontos)       ║
+    ║  7 MECANISMOS DE ACCOUNTABILITY                ║
+    ║  PRODUTOS DE CÓDIGO (dashboard, scraper, grafo)║
+    ╚═══════════════════╤═══════════════════════════╝
+                        │
+                        ▼
+                 ┌──────────────┐
+                 │   REFORMA    │
+                 │ INSTITUCIONAL│
+                 │  (impacto)   │
+                 └──────┬───────┘
+                        │
+                        ▼
+              ┌─────────────────┐
+              │  FEEDBACK LOOP  │
+              │ Reforma gera    │
+              │ novo contexto → │
+              │ novo problema → │
+              │ nova Matriz →   │
+              │ novo ciclo      │
+              └─────────────────┘
+```
+
+---
+
 ## O que é
 
 O TEIA é um repositório de inteligência analítica que mapeia como o sistema econômico-político brasileiro captura recursos públicos e privados, identifica quem lucra com essa captura, quantifica como neutralizá-los, e fornece os documentos de ação prontos para execução.
