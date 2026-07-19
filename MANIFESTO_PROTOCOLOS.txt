@@ -1,0 +1,157 @@
+================================================================================
+MANIFESTO DE PROTOCOLOS — INSTITUTO DE GESTÃO NACIONAL (IGN)
+Data: 19/07/2026
+Total de documentos: 26
+Total versionado: 875,955 bytes (855.4 KB)
+================================================================================
+
+RESUMO DE STATUS:
+  INTERNOS (análise técnica):     17
+  PROTOCOLO PENDENTE (judiciário):4
+  PUBLICAÇÃO PENDENTE (mídia):    4
+  REGISTRO PENDENTE (cartório):   1
+
+DOCUMENTOS POR CATEGORIA:
+----------------------------------------------------------------------------------------------------
+PROTO           VER    STATUS                      KB  TÍTULO                                        DESTINATÁRIO
+----------------------------------------------------------------------------------------------------
+
+  --- 01_ANALISE ---
+  IGN-2026-001  v1.0   INTERNO                  23.9  Fact-Check dos Números do V2.0                Arquivo técnico
+  IGN-2026-002  v1.0   INTERNO                  39.6  Refutação Técnico-Econômica do V2.0           Arquivo técnico
+  IGN-2026-003  v1.0   INTERNO                  30.9  Mapeamento de Veto Players Institucional      Arquivo técnico
+  IGN-2026-004  v1.0   INTERNO                  53.4  Síntese V3.0 — Documento Final Pós-Dialética  Arquivo técnico
+
+  --- 02_MAPEAMENTO ---
+  IGN-2026-005  v1.0   INTERNO                  38.7  Orçamento Secreto e Emendas Parlamentares 2023-2027 Arquivo técnico
+  IGN-2026-006  v1.0   INTERNO                  38.2  Setor Financeiro no Congresso 2023-2027       Arquivo técnico
+  IGN-2026-007  v1.0   INTERNO                  27.9  Indústria da Complexidade — Parlamentares 2023-2027 Arquivo técnico
+  IGN-2026-008  v1.0   INTERNO                  30.1  Mapa Consolidado de Captura Política          Arquivo técnico
+  IGN-2026-009  v1.0   INTERNO                  40.2  Mapa Psicológico — Cooptação e Neutralização  Arquivo técnico
+
+  --- 03_SIMULACAO ---
+  IGN-2026-010  v1.0   INTERNO                  18.7  Simulação Monte Carlo Inicial (840.000 cálculos) Arquivo técnico
+  IGN-2026-011  v2.0   INTERNO                  10.7  Simulação Monte Carlo Final Corrigida (1.260.000 cálculos) Arquivo técnico
+
+  --- 04_PLANO ---
+  IGN-2026-012  v1.0   INTERNO                  31.4  Plano de Execução com Metas SMART             Arquivo técnico
+
+  --- 05_ACAO ---
+  IGN-2026-013  v1.0   PROTOCOLO_PENDENTE       43.2  Dossiê Técnico para Ministério da Fazenda     Min. Fernando Haddad — MF
+  IGN-2026-014  v1.0   PROTOCOLO_PENDENTE       25.0  Petição ao CNJ — Implementação SERP           Presidente do CNJ / Corregedor Nacional
+  IGN-2026-015  v1.0   PROTOCOLO_PENDENTE       29.1  Amicus Curiae — ADPF 854 (STF)                Min. Flávio Dino — STF
+  IGN-2026-016  v1.0   PROTOCOLO_PENDENTE       39.5  Representação à PGR/MPF — Conflito de Interesse Procurador-Geral da República
+  IGN-2026-017  v1.0   PUBLICACAO_PENDENTE      29.6  Dossiê Banco Master — Correlações Temporais   Público (online)
+  IGN-2026-018  v1.0   PUBLICACAO_PENDENTE      25.0  Roteiro Documentário 'O Preço da Selic'       YouTube
+  IGN-2026-019  v1.0   PUBLICACAO_PENDENTE      28.2  Série TikTok 'Contas Públicas' — Lote 1       TikTok/Instagram
+  IGN-2026-020  v1.0   PUBLICACAO_PENDENTE      34.9  Podcast 'Gestão Não Gasto' — Temporada 1      Spotify/YouTube
+  IGN-2026-021  v1.0   REGISTRO_PENDENTE        56.0  Estatuto Social do Instituto de Gestão Nacional Cartório / Junta Comercial
+
+  --- 06_TERRITORIAL ---
+  IGN-2026-022  v1.0   INTERNO                  45.6  Transferências Constitucionais (FPE/FPM/FUNDEB) Arquivo técnico
+  IGN-2026-023  v1.0   INTERNO                  36.2  Emendas Parlamentares — Distribuição Territorial Arquivo técnico
+  IGN-2026-024  v1.0   INTERNO                  35.5  Concentração de Crédito e Renda Territorial   Arquivo técnico
+  IGN-2026-025  v1.0   INTERNO                  20.8  Síntese: Fluxo de Dinheiro no Território Nacional Arquivo técnico
+
+  --- 07_ACCOUNTABILITY ---
+  IGN-2026-026  v1.0   INTERNO                  23.3  Como Fazer o Gestor Público se Comportar Bem  Arquivo técnico
+
+----------------------------------------------------------------------------------------------------
+
+DOCUMENTOS PARA PROTOCOLAR (PRIORIDADE):
+--------------------------------------------------------------------------------
+
+  IGN-2026-013 — Dossiê Técnico para Ministério da Fazenda
+  Arquivo: IGN-2026-013_v1.0_DOSSIE_TECNICO_HADDAD.txt
+  Destinatário: Min. Fernando Haddad — MF
+  Ação: Entregar
+  Hash MD5: ff49193c04975ea395df505e36e94171
+
+  IGN-2026-014 — Petição ao CNJ — Implementação SERP
+  Arquivo: IGN-2026-014_v1.0_peticao_cnj_serp.txt
+  Destinatário: Presidente do CNJ / Corregedor Nacional
+  Ação: Protocolar
+  Hash MD5: 165749e3e6d4da5410f7322a6fabb8f3
+
+  IGN-2026-015 — Amicus Curiae — ADPF 854 (STF)
+  Arquivo: IGN-2026-015_v1.0_amicus_curiae_adpf_854.txt
+  Destinatário: Min. Flávio Dino — STF
+  Ação: Protocolar
+  Hash MD5: 8b3998f6493adc44c37c478e14a36f90
+
+  IGN-2026-016 — Representação à PGR/MPF — Conflito de Interesse
+  Arquivo: IGN-2026-016_v1.0_REPRESENTACAO_PGR_CONFLITO_INTERESSE_PARLAMENTAR.txt
+  Destinatário: Procurador-Geral da República
+  Ação: Protocolar
+  Hash MD5: 9f7dc63d0082885d6b82a770a4a2ba86
+
+
+DOCUMENTOS PARA PUBLICAR:
+--------------------------------------------------------------------------------
+
+  IGN-2026-017 — Dossiê Banco Master — Correlações Temporais
+  Plataforma: Público (online)
+  Hash MD5: 6f1d4de2c82e78a2be4c544372e5b864
+
+  IGN-2026-018 — Roteiro Documentário 'O Preço da Selic'
+  Plataforma: YouTube
+  Hash MD5: 38b0a18523728428e44f19f8fd272856
+
+  IGN-2026-019 — Série TikTok 'Contas Públicas' — Lote 1
+  Plataforma: TikTok/Instagram
+  Hash MD5: a0e4db6ffeeada2dde89deb86c507691
+
+  IGN-2026-020 — Podcast 'Gestão Não Gasto' — Temporada 1
+  Plataforma: Spotify/YouTube
+  Hash MD5: 69391437185d154c3243c29d6b170706
+
+
+DOCUMENTOS PARA REGISTRAR:
+--------------------------------------------------------------------------------
+
+  IGN-2026-021 — Estatuto Social do Instituto de Gestão Nacional
+  Destino: Cartório / Junta Comercial
+  Hash MD5: c9d1e912b81db9f03f64e117241c95c5
+
+
+================================================================================
+TABELA DE INTEGRIDADE (HASHES)
+================================================================================
+PROTO           MD5                                SHA-256 (parcial)   
+----------------------------------------------------------------------
+IGN-2026-001    21578775be670acadee4bc612ccbcf24   f4164609f1bc041a...
+IGN-2026-002    fe49dbab76c4b09a20a9bbae02344597   9bc55e3c37108469...
+IGN-2026-003    120d17e48d54668ef9e268b3aa9cea28   5cef7c17ca20ffd6...
+IGN-2026-004    a0842ae9232eb8806ad86b194c9b5e16   5aa03067c3704110...
+IGN-2026-005    06f88f8e4089f33fcc5b83edc564ff71   0ce80b2757aec376...
+IGN-2026-006    ca5a9c0e441c6c26b9867c13511f364c   9defa8d83d67bb09...
+IGN-2026-007    5b422f74bccdc0a543db27047e0d0cf4   6377898055b419fe...
+IGN-2026-008    5ee7920e04dd27d4a263daca71744e54   7aefcb6d97feae40...
+IGN-2026-009    9e5e7fbd86f901668deaaccd95b0d272   0cbbd5482ae9a72d...
+IGN-2026-010    4b6236543e24b43cf99b654ae6697c00   a8a7aa77b2cc172d...
+IGN-2026-011    238d969dab4f40da2ce9b8db030c7eb2   3e8543c8fc239e1c...
+IGN-2026-012    b0bbe10ec2ea69cdef3b0259462d0c78   989accdb9737f897...
+IGN-2026-013    ff49193c04975ea395df505e36e94171   f241eabf65b51713...
+IGN-2026-014    165749e3e6d4da5410f7322a6fabb8f3   5e8b7f6d2d666e8d...
+IGN-2026-015    8b3998f6493adc44c37c478e14a36f90   ea9dfbeec56d8f5a...
+IGN-2026-016    9f7dc63d0082885d6b82a770a4a2ba86   47359de2736a2196...
+IGN-2026-017    6f1d4de2c82e78a2be4c544372e5b864   de610c0c1f189288...
+IGN-2026-018    38b0a18523728428e44f19f8fd272856   0bcb48f7788fc7aa...
+IGN-2026-019    a0e4db6ffeeada2dde89deb86c507691   97d514ba2a432491...
+IGN-2026-020    69391437185d154c3243c29d6b170706   bbe7bb6a8606ce11...
+IGN-2026-021    c9d1e912b81db9f03f64e117241c95c5   1cacd9704400d6e3...
+IGN-2026-022    27af383eb9534dc7f9a918ec1133af4f   8c07d16252d77c72...
+IGN-2026-023    7987b84e41a7323fd972a92c9c9469bd   d67c7f4aa9c9dfef...
+IGN-2026-024    f16e11bab93f6a16a2c82e8e63efed45   2f645b68f282f53c...
+IGN-2026-025    6e223008bf825e31685e4c876ac829bb   13f68bceb89919dc...
+IGN-2026-026    cf6bddb7d6f3648cc5f28c100e9f6e7f   ec0d5c3f1921451c...
+
+
+================================================================================
+NOTA DE VERSIONAMENTO:
+Cada documento recebe número IGN-AAAA-NNN sequencial.
+Versão v1.0 = entrega inicial. Mudanças menores = v1.1, v1.2...
+Mudanças estruturais = v2.0.
+Hashes garantem integridade e rastreabilidade.
+O dinheiro da reforma virá do trabalho.
+================================================================================
