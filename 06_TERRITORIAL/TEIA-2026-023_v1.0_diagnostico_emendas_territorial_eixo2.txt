@@ -1,5 +1,5 @@
 ================================================================================
-PROTOCOLO IGN: IGN-2026-023
+PROTOCOLO TEIA: TEIA-2026-023
 VERSÃO: v1.0
 CATEGORIA: 06_TERRITORIAL
 TÍTULO: Emendas Parlamentares — Distribuição Territorial
@@ -7,7 +7,7 @@ STATUS: INTERNO
 DESTINATÁRIO: Arquivo técnico
 AÇÃO: Concluído
 DATA: 19/07/2026
-AUTOR: Cleiton Moura (@professorcinza) — Instituto de Gestão Nacional (IGN)
+AUTOR: Cleiton Moura (@professorcinza) — Centro de Estudos em Hacker Cultura Periférica Teia de Aranha (TEIA)
 TAMANHO: 37,082 bytes (36.2 KB)
 HASH MD5: 7987b84e41a7323fd972a92c9c9469bd
 HASH SHA-256: d67c7f4aa9c9dfef19bda7a81263fe7411d4405876b582b87b55f245d6611799

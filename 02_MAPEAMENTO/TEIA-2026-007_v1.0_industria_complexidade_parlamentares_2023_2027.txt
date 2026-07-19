@@ -1,5 +1,5 @@
 ================================================================================
-PROTOCOLO IGN: IGN-2026-007
+PROTOCOLO TEIA: TEIA-2026-007
 VERSÃO: v1.0
 CATEGORIA: 02_MAPEAMENTO
 TÍTULO: Indústria da Complexidade — Parlamentares 2023-2027
@@ -7,7 +7,7 @@ STATUS: INTERNO
 DESTINATÁRIO: Arquivo técnico
 AÇÃO: Concluído
 DATA: 19/07/2026
-AUTOR: Cleiton Moura (@professorcinza) — Instituto de Gestão Nacional (IGN)
+AUTOR: Cleiton Moura (@professorcinza) — Centro de Estudos em Hacker Cultura Periférica Teia de Aranha (TEIA)
 TAMANHO: 28,604 bytes (27.9 KB)
 HASH MD5: 5b422f74bccdc0a543db27047e0d0cf4
 HASH SHA-256: 6377898055b419fe5fbc9df2d016286a69eab582a109c9fd02caa5c5abf5bb3e

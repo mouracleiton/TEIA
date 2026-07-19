@@ -1,5 +1,5 @@
 ================================================================================
-PROTOCOLO IGN: IGN-2026-011
+PROTOCOLO TEIA: TEIA-2026-011
 VERSÃO: v2.0
 CATEGORIA: 03_SIMULACAO
 TÍTULO: Simulação Monte Carlo Final Corrigida (1.260.000 cálculos)
@@ -7,7 +7,7 @@ STATUS: INTERNO
 DESTINATÁRIO: Arquivo técnico
 AÇÃO: Concluído
 DATA: 19/07/2026
-AUTOR: Cleiton Moura (@professorcinza) — Instituto de Gestão Nacional (IGN)
+AUTOR: Cleiton Moura (@professorcinza) — Centro de Estudos em Hacker Cultura Periférica Teia de Aranha (TEIA)
 TAMANHO: 10,953 bytes (10.7 KB)
 HASH MD5: 238d969dab4f40da2ce9b8db030c7eb2
 HASH SHA-256: 3e8543c8fc239e1cc1de7ae62e9953c451c3041fdf3e6363cb4b2d9549ee1e4b

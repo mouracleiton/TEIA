@@ -1,5 +1,5 @@
 ================================================================================
-PROTOCOLO IGN: IGN-2026-016
+PROTOCOLO TEIA: TEIA-2026-016
 VERSÃO: v1.0
 CATEGORIA: 05_ACAO
 TÍTULO: Representação à PGR/MPF — Conflito de Interesse
@@ -7,7 +7,7 @@ STATUS: PROTOCOLO_PENDENTE
 DESTINATÁRIO: Procurador-Geral da República
 AÇÃO: Protocolar
 DATA: 19/07/2026
-AUTOR: Cleiton Moura (@professorcinza) — Instituto de Gestão Nacional (IGN)
+AUTOR: Cleiton Moura (@professorcinza) — Centro de Estudos em Hacker Cultura Periférica Teia de Aranha (TEIA)
 TAMANHO: 40,415 bytes (39.5 KB)
 HASH MD5: 9f7dc63d0082885d6b82a770a4a2ba86
 HASH SHA-256: 47359de2736a219630a7caa4396667b94af4a6259391a4d6526113910dcbfe1a

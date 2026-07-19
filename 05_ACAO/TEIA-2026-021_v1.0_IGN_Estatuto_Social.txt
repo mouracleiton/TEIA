@@ -1,13 +1,13 @@
 ================================================================================
-PROTOCOLO IGN: IGN-2026-021
+PROTOCOLO TEIA: TEIA-2026-021
 VERSÃO: v1.0
 CATEGORIA: 05_ACAO
-TÍTULO: Estatuto Social do Instituto de Gestão Nacional
+TÍTULO: Estatuto Social do Centro de Estudos em Hacker Cultura Periférica Teia de Aranha
 STATUS: REGISTRO_PENDENTE
 DESTINATÁRIO: Cartório / Junta Comercial
 AÇÃO: Registrar
 DATA: 19/07/2026
-AUTOR: Cleiton Moura (@professorcinza) — Instituto de Gestão Nacional (IGN)
+AUTOR: Cleiton Moura (@professorcinza) — Centro de Estudos em Hacker Cultura Periférica Teia de Aranha (TEIA)
 TAMANHO: 57,300 bytes (56.0 KB)
 HASH MD5: c9d1e912b81db9f03f64e117241c95c5
 HASH SHA-256: 1cacd9704400d6e30ee7bedf808a00ef9a388d87c291e125e68b784234e1652e
@@ -15,7 +15,7 @@ HASH SHA-256: 1cacd9704400d6e30ee7bedf808a00ef9a388d87c291e125e68b784234e1652e
 
 ================================================================================
                         ESTATUTO SOCIAL DO
-              INSTITUTO DE GESTÃO NACIONAL (IGN)
+              INSTITUTO DE GESTÃO NACIONAL (TEIA)
 ================================================================================
 
 
@@ -25,7 +25,7 @@ DA CONSTITUIÇÃO, DENOMINAÇÃO, NATUREZA JURÍDICA, SEDE, FORO E PRAZO DE DURA
 CAPÍTULO I
 DA DENOMINAÇÃO, DA NATUREZA JURÍDICA, DA SEDE, DO FORO E DA DURAÇÃO
 
-Art. 1º. O INSTITUTO DE GESTÃO NACIONAL (IGN), doravante denominado simplesmente INSTITUTO, é uma pessoa jurídica de direito privado, sem fins econômicos, de natureza associativa e civil, constituída sob a forma de Organização da Sociedade Civil (OSC), nos termos da Lei nº 13.019, de 31 de julho de 2014 (Marco Legal das Organizações da Sociedade Civil), com as alterações introduzidas pela Lei nº 13.797, de 3 de janeiro de 2019, e dos artigos 44 a 61 da Lei nº 10.406, de 10 de janeiro de 2002 (Código Civil Brasileiro), regendo-se pelo presente Estatuto, pelos princípios da legalidade, impessoalidade, moralidade, publicidade, economicidade, eficiência e demais normas legais aplicáveis.
+Art. 1º. O INSTITUTO DE GESTÃO NACIONAL (TEIA), doravante denominado simplesmente INSTITUTO, é uma pessoa jurídica de direito privado, sem fins econômicos, de natureza associativa e civil, constituída sob a forma de Organização da Sociedade Civil (OSC), nos termos da Lei nº 13.019, de 31 de julho de 2014 (Marco Legal das Organizações da Sociedade Civil), com as alterações introduzidas pela Lei nº 13.797, de 3 de janeiro de 2019, e dos artigos 44 a 61 da Lei nº 10.406, de 10 de janeiro de 2002 (Código Civil Brasileiro), regendo-se pelo presente Estatuto, pelos princípios da legalidade, impessoalidade, moralidade, publicidade, economicidade, eficiência e demais normas legais aplicáveis.
 
 Art. 2º. O INSTITUTO reger-se-á por este Estatuto Social, pelo Regimento Interno, que vier a ser aprovado, e pela legislação federal, estadual e municipal pertinentes, observando, em toda a sua atuação, os princípios da:
    I - legalidade, impessoalidade, moralidade, publicidade, economicidade e eficiência;
@@ -49,7 +49,7 @@ Parágrafo único. O exercício social e o ano financeiro do INSTITUTO coincidir
 CAPÍTULO II
 DA FINALIDADE, DOS OBJETIVOS E DAS ATRIBUIÇÕES
 
-Art. 6º. O INSTITUTO DE GESTÃO NACIONAL (IGN) tem por finalidade precípua promover o desenvolvimento, a difusão e a aplicação de conhecimentos técnicos, científicos e políticos nas áreas de gestão pública, gestão fiscal, economia aplicada, políticas públicas e reforma do Estado, atuando como think tank de referência nacional, com atuação voltada ao interesse público e à construção de uma administração pública eficiente, transparente e republicana.
+Art. 6º. O INSTITUTO DE GESTÃO NACIONAL (TEIA) tem por finalidade precípua promover o desenvolvimento, a difusão e a aplicação de conhecimentos técnicos, científicos e políticos nas áreas de gestão pública, gestão fiscal, economia aplicada, políticas públicas e reforma do Estado, atuando como think tank de referência nacional, com atuação voltada ao interesse público e à construção de uma administração pública eficiente, transparente e republicana.
 
 Art. 7º. Constituem objetivos institucionais do INSTITUTO, observada a legislação vigente:
    I - produzir, fomentar, articular e difundir estudos, pesquisas técnicas, diagnósticos, pareceres, publicações, indicadores, metodologias e análises nas áreas de gestão pública, gestão fiscal, gestão econômica, orçamento público, tributação, contabilidade governamental e políticas públicas;
@@ -513,12 +513,12 @@ Art. 58. O presente Estatuto, após aprovação pela Assembleia Geral de Constit
 CAPÍTULO IX
 DA APROVAÇÃO
 
-APROVADO e promulgado pela Assembleia Geral de Constituição do INSTITUTO DE GESTÃO NACIONAL (IGN), realizada em __ de ____________ de _____, nesta cidade de ____________________, Estado de _____________, lavrando-se a respectiva ata, que será assinada por todos os associados fundadores presentes, em cuja folha de presença constam as respectivas assinaturas.
+APROVADO e promulgado pela Assembleia Geral de Constituição do INSTITUTO DE GESTÃO NACIONAL (TEIA), realizada em __ de ____________ de _____, nesta cidade de ____________________, Estado de _____________, lavrando-se a respectiva ata, que será assinada por todos os associados fundadores presentes, em cuja folha de presença constam as respectivas assinaturas.
 
 
                                  ____________________________________
                                        PRESIDENTE DO INSTITUTO
-                                       de Gestão Nacional (IGN)
+                                       de Gestão Nacional (TEIA)
 
                                  ____________________________________
                                        VICE-PRESIDENTE

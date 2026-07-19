@@ -1,5 +1,5 @@
 ================================================================================
-PROTOCOLO IGN: IGN-2026-017
+PROTOCOLO TEIA: TEIA-2026-017
 VERSÃO: v1.0
 CATEGORIA: 05_ACAO
 TÍTULO: Dossiê Banco Master — Correlações Temporais
@@ -7,7 +7,7 @@ STATUS: PUBLICACAO_PENDENTE
 DESTINATÁRIO: Público (online)
 AÇÃO: Publicar
 DATA: 19/07/2026
-AUTOR: Cleiton Moura (@professorcinza) — Instituto de Gestão Nacional (IGN)
+AUTOR: Cleiton Moura (@professorcinza) — Centro de Estudos em Hacker Cultura Periférica Teia de Aranha (TEIA)
 TAMANHO: 30,276 bytes (29.6 KB)
 HASH MD5: 6f1d4de2c82e78a2be4c544372e5b864
 HASH SHA-256: de610c0c1f18928813f3be64c2d3927f91dc73f8a78ea62c64df9c2aab559b60

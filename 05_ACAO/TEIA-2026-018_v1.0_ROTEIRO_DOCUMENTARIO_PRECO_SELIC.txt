@@ -1,5 +1,5 @@
 ================================================================================
-PROTOCOLO IGN: IGN-2026-018
+PROTOCOLO TEIA: TEIA-2026-018
 VERSÃO: v1.0
 CATEGORIA: 05_ACAO
 TÍTULO: Roteiro Documentário 'O Preço da Selic'
@@ -7,7 +7,7 @@ STATUS: PUBLICACAO_PENDENTE
 DESTINATÁRIO: YouTube
 AÇÃO: Produzir/Publicar
 DATA: 19/07/2026
-AUTOR: Cleiton Moura (@professorcinza) — Instituto de Gestão Nacional (IGN)
+AUTOR: Cleiton Moura (@professorcinza) — Centro de Estudos em Hacker Cultura Periférica Teia de Aranha (TEIA)
 TAMANHO: 25,605 bytes (25.0 KB)
 HASH MD5: 38b0a18523728428e44f19f8fd272856
 HASH SHA-256: 0bcb48f7788fc7aae8cff628ccd8e77f2fd3de749864a595dde7193d55a3154d

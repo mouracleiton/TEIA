@@ -1,5 +1,5 @@
 ================================================================================
-PROTOCOLO IGN: IGN-2026-020
+PROTOCOLO TEIA: TEIA-2026-020
 VERSÃO: v1.0
 CATEGORIA: 05_ACAO
 TÍTULO: Podcast 'Gestão Não Gasto' — Temporada 1
@@ -7,7 +7,7 @@ STATUS: PUBLICACAO_PENDENTE
 DESTINATÁRIO: Spotify/YouTube
 AÇÃO: Produzir/Publicar
 DATA: 19/07/2026
-AUTOR: Cleiton Moura (@professorcinza) — Instituto de Gestão Nacional (IGN)
+AUTOR: Cleiton Moura (@professorcinza) — Centro de Estudos em Hacker Cultura Periférica Teia de Aranha (TEIA)
 TAMANHO: 35,704 bytes (34.9 KB)
 HASH MD5: 69391437185d154c3243c29d6b170706
 HASH SHA-256: bbe7bb6a8606ce112ffc89772679ce74c792655f63348658a9b5846189ef119a

@@ -1,5 +1,5 @@
 ================================================================================
-PROTOCOLO IGN: IGN-2026-010
+PROTOCOLO TEIA: TEIA-2026-010
 VERSÃO: v1.0
 CATEGORIA: 03_SIMULACAO
 TÍTULO: Simulação Monte Carlo Inicial (840.000 cálculos)
@@ -7,7 +7,7 @@ STATUS: INTERNO
 DESTINATÁRIO: Arquivo técnico
 AÇÃO: Concluído
 DATA: 19/07/2026
-AUTOR: Cleiton Moura (@professorcinza) — Instituto de Gestão Nacional (IGN)
+AUTOR: Cleiton Moura (@professorcinza) — Centro de Estudos em Hacker Cultura Periférica Teia de Aranha (TEIA)
 TAMANHO: 19,118 bytes (18.7 KB)
 HASH MD5: 4b6236543e24b43cf99b654ae6697c00
 HASH SHA-256: a8a7aa77b2cc172df16d4fed1d377c7191cddd51740dd7cbd85473336a08791f

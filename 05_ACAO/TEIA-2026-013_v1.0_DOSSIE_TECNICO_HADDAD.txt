@@ -1,5 +1,5 @@
 ================================================================================
-PROTOCOLO IGN: IGN-2026-013
+PROTOCOLO TEIA: TEIA-2026-013
 VERSÃO: v1.0
 CATEGORIA: 05_ACAO
 TÍTULO: Dossiê Técnico para Ministério da Fazenda
@@ -7,7 +7,7 @@ STATUS: PROTOCOLO_PENDENTE
 DESTINATÁRIO: Min. Fernando Haddad — MF
 AÇÃO: Entregar
 DATA: 19/07/2026
-AUTOR: Cleiton Moura (@professorcinza) — Instituto de Gestão Nacional (IGN)
+AUTOR: Cleiton Moura (@professorcinza) — Centro de Estudos em Hacker Cultura Periférica Teia de Aranha (TEIA)
 TAMANHO: 44,213 bytes (43.2 KB)
 HASH MD5: ff49193c04975ea395df505e36e94171
 HASH SHA-256: f241eabf65b51713b9d62307715fb127334ffb44f5c01d561504afe67c9ed6a3
@@ -22,7 +22,7 @@ disponíveis ao Poder Executivo — sem necessidade de aprovação legislativa.
 Destinatário: Excelentíssimo Senhor Ministro de Estado da Fazenda,
               Dr. Fernando Haddad
 
-Remetente: Instituto de Gestão Nacional (IGN) — articulação técnica
+Remetente: Centro de Estudos em Hacker Cultura Periférica Teia de Aranha (TEIA) — articulação técnica
 Data: Agosto/2026
 Classificação: Documento técnico para apreciação do Ministério da Fazenda
 ================================================================================
@@ -937,7 +937,7 @@ Documento técnico de inteligência fiscal e financeira.
 Todos os dados verificados contra fontes primárias em julho/2026.
 Disponível para consulta, réplica e auditoria metodológica.
 
-Instituto de Gestão Nacional (IGN) — articulação técnica para
+Centro de Estudos em Hacker Cultura Periférica Teia de Aranha (TEIA) — articulação técnica para
 modernização da gestão pública brasileira.
 
 O dinheiro da reforma virá do trabalho.

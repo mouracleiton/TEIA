@@ -1,5 +1,5 @@
 ================================================================================
-PROTOCOLO IGN: IGN-2026-019
+PROTOCOLO TEIA: TEIA-2026-019
 VERSÃO: v1.0
 CATEGORIA: 05_ACAO
 TÍTULO: Série TikTok 'Contas Públicas' — Lote 1
@@ -7,7 +7,7 @@ STATUS: PUBLICACAO_PENDENTE
 DESTINATÁRIO: TikTok/Instagram
 AÇÃO: Produzir/Publicar
 DATA: 19/07/2026
-AUTOR: Cleiton Moura (@professorcinza) — Instituto de Gestão Nacional (IGN)
+AUTOR: Cleiton Moura (@professorcinza) — Centro de Estudos em Hacker Cultura Periférica Teia de Aranha (TEIA)
 TAMANHO: 28,886 bytes (28.2 KB)
 HASH MD5: a0e4db6ffeeada2dde89deb86c507691
 HASH SHA-256: 97d514ba2a4324913af6d89325fab332af5043065e95ab3a6b0b9ee4f80cdd71

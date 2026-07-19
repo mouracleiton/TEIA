@@ -1,5 +1,5 @@
 ================================================================================
-PROTOCOLO IGN: IGN-2026-025
+PROTOCOLO TEIA: TEIA-2026-025
 VERSÃO: v1.0
 CATEGORIA: 06_TERRITORIAL
 TÍTULO: Síntese: Fluxo de Dinheiro no Território Nacional
@@ -7,7 +7,7 @@ STATUS: INTERNO
 DESTINATÁRIO: Arquivo técnico
 AÇÃO: Concluído
 DATA: 19/07/2026
-AUTOR: Cleiton Moura (@professorcinza) — Instituto de Gestão Nacional (IGN)
+AUTOR: Cleiton Moura (@professorcinza) — Centro de Estudos em Hacker Cultura Periférica Teia de Aranha (TEIA)
 TAMANHO: 21,297 bytes (20.8 KB)
 HASH MD5: 6e223008bf825e31685e4c876ac829bb
 HASH SHA-256: 13f68bceb89919dcdb7f9efd34aaf8fb25436b64ac6012bdf5f8fdfda84d1e83

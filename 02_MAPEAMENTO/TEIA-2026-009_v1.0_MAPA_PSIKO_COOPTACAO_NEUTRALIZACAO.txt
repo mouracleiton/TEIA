@@ -1,5 +1,5 @@
 ================================================================================
-PROTOCOLO IGN: IGN-2026-009
+PROTOCOLO TEIA: TEIA-2026-009
 VERSÃO: v1.0
 CATEGORIA: 02_MAPEAMENTO
 TÍTULO: Mapa Psicológico — Cooptação e Neutralização
@@ -7,7 +7,7 @@ STATUS: INTERNO
 DESTINATÁRIO: Arquivo técnico
 AÇÃO: Concluído
 DATA: 19/07/2026
-AUTOR: Cleiton Moura (@professorcinza) — Instituto de Gestão Nacional (IGN)
+AUTOR: Cleiton Moura (@professorcinza) — Centro de Estudos em Hacker Cultura Periférica Teia de Aranha (TEIA)
 TAMANHO: 41,127 bytes (40.2 KB)
 HASH MD5: 9e5e7fbd86f901668deaaccd95b0d272
 HASH SHA-256: 0cbbd5482ae9a72d18f53c23f279b8135b6ad41513328377857e8f8d58719144

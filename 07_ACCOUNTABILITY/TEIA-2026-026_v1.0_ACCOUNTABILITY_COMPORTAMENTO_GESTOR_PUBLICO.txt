@@ -1,5 +1,5 @@
 ================================================================================
-PROTOCOLO IGN: IGN-2026-026
+PROTOCOLO TEIA: TEIA-2026-026
 VERSÃO: v1.0
 CATEGORIA: 07_ACCOUNTABILITY
 TÍTULO: Como Fazer o Gestor Público se Comportar Bem
@@ -7,7 +7,7 @@ STATUS: INTERNO
 DESTINATÁRIO: Arquivo técnico
 AÇÃO: Concluído
 DATA: 19/07/2026
-AUTOR: Cleiton Moura (@professorcinza) — Instituto de Gestão Nacional (IGN)
+AUTOR: Cleiton Moura (@professorcinza) — Centro de Estudos em Hacker Cultura Periférica Teia de Aranha (TEIA)
 TAMANHO: 23,827 bytes (23.3 KB)
 HASH MD5: cf6bddb7d6f3648cc5f28c100e9f6e7f
 HASH SHA-256: ec0d5c3f1921451cab9f131c1dda7e2d9fd8eef593048ecca55040d37bc6f1a6

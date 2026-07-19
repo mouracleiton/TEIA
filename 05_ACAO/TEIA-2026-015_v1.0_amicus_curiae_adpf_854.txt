@@ -1,5 +1,5 @@
 ================================================================================
-PROTOCOLO IGN: IGN-2026-015
+PROTOCOLO TEIA: TEIA-2026-015
 VERSÃO: v1.0
 CATEGORIA: 05_ACAO
 TÍTULO: Amicus Curiae — ADPF 854 (STF)
@@ -7,7 +7,7 @@ STATUS: PROTOCOLO_PENDENTE
 DESTINATÁRIO: Min. Flávio Dino — STF
 AÇÃO: Protocolar
 DATA: 19/07/2026
-AUTOR: Cleiton Moura (@professorcinza) — Instituto de Gestão Nacional (IGN)
+AUTOR: Cleiton Moura (@professorcinza) — Centro de Estudos em Hacker Cultura Periférica Teia de Aranha (TEIA)
 TAMANHO: 29,836 bytes (29.1 KB)
 HASH MD5: 8b3998f6493adc44c37c478e14a36f90
 HASH SHA-256: ea9dfbeec56d8f5a5be063a08519aabf66ca8f1ee896b083e047251c04d3c518
@@ -25,7 +25,7 @@ PEDIDO DE INTERVENÇÃO COMO AMIGO DA CORTE
 ADPF Nº 854 / DF
 
 Cleiton Moura, brasileiro, analista geopolítico e econômico, atuante no
-âmbito do Instituto de Gestão Nacional (IGN), instituição voltada ao estudo, ao
+âmbito do Centro de Estudos em Hacker Cultura Periférica Teia de Aranha (TEIA), instituição voltada ao estudo, ao
 debate e à promoção de reformas institucionais, da transparência pública e do
 aprimoramento da gestão da coisa pública, qualificado na forma adiante exposta,
 vem, com o devido acatamento, à presença de Vossa Excelência, na condição de
@@ -43,11 +43,11 @@ I. QUALIFICAÇÃO DO PETICIONÁRIO E PRESSUPOSTOS DA INTERVENÇÃO
 1. O peticionário, Cleiton Moura, é analista geopolítico e econômico, com
 atuação dedicada ao monitoramento de políticas públicas, à análise de processos
 orçamentários e ao estudo da accountability institucional no Brasil. Integra o
-quadro técnico do Instituto de Gestão Nacional (IGN), entidade de natureza civil,
+quadro técnico do Centro de Estudos em Hacker Cultura Periférica Teia de Aranha (TEIA), entidade de natureza civil,
 apartidária e sem fins lucrativos, dedicada à produção de conhecimento aplicado
 sobre gestão pública, transparência orçamentária, integridade e controle social.
 
-2. O Instituto de Gestão Nacional tem por finalidade institucional, entre outras,
+2. O Centro de Estudos em Hacker Cultura Periférica Teia de Aranha tem por finalidade institucional, entre outras,
 a promoção de estudos, pareceres técnicos e propostas voltadas ao
 aperfeiçoamento dos mecanismos de controle social e à maior abertura dos atos de
 governo, com especial ênfase sobre o ciclo orçamentário da União. Nessas
@@ -417,7 +417,7 @@ São Paulo (SP), 19 de julho de 2026.
 ___________________________________________________
 CLEITON MOURA
 Analista Geopolítico e Econômico
-Instituto de Gestão Nacional (IGN)
+Centro de Estudos em Hacker Cultura Periférica Teia de Aranha (TEIA)
 amicus curiae
 
 ================================================================================

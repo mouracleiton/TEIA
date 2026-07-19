@@ -1,5 +1,5 @@
 ================================================================================
-PROTOCOLO IGN: IGN-2026-004
+PROTOCOLO TEIA: TEIA-2026-004
 VERSÃO: v1.0
 CATEGORIA: 01_ANALISE
 TÍTULO: Síntese V3.0 — Documento Final Pós-Dialética
@@ -7,7 +7,7 @@ STATUS: INTERNO
 DESTINATÁRIO: Arquivo técnico
 AÇÃO: Concluído
 DATA: 19/07/2026
-AUTOR: Cleiton Moura (@professorcinza) — Instituto de Gestão Nacional (IGN)
+AUTOR: Cleiton Moura (@professorcinza) — Centro de Estudos em Hacker Cultura Periférica Teia de Aranha (TEIA)
 TAMANHO: 54,658 bytes (53.4 KB)
 HASH MD5: a0842ae9232eb8806ad86b194c9b5e16
 HASH SHA-256: 5aa03067c3704110f88cf75229ef5a7c874c66c97f0d647581d17c357f58da8e

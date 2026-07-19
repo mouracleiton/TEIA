@@ -1,5 +1,5 @@
 ================================================================================
-PROTOCOLO IGN: IGN-2026-006
+PROTOCOLO TEIA: TEIA-2026-006
 VERSÃO: v1.0
 CATEGORIA: 02_MAPEAMENTO
 TÍTULO: Setor Financeiro no Congresso 2023-2027
@@ -7,7 +7,7 @@ STATUS: INTERNO
 DESTINATÁRIO: Arquivo técnico
 AÇÃO: Concluído
 DATA: 19/07/2026
-AUTOR: Cleiton Moura (@professorcinza) — Instituto de Gestão Nacional (IGN)
+AUTOR: Cleiton Moura (@professorcinza) — Centro de Estudos em Hacker Cultura Periférica Teia de Aranha (TEIA)
 TAMANHO: 39,109 bytes (38.2 KB)
 HASH MD5: ca5a9c0e441c6c26b9867c13511f364c
 HASH SHA-256: 9defa8d83d67bb092064cfe3432c117f530997ba23e26164ef0352d1d1df5aaa

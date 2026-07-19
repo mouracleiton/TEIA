@@ -1,5 +1,5 @@
 ================================================================================
-PROTOCOLO IGN: IGN-2026-014
+PROTOCOLO TEIA: TEIA-2026-014
 VERSÃO: v1.0
 CATEGORIA: 05_ACAO
 TÍTULO: Petição ao CNJ — Implementação SERP
@@ -7,7 +7,7 @@ STATUS: PROTOCOLO_PENDENTE
 DESTINATÁRIO: Presidente do CNJ / Corregedor Nacional
 AÇÃO: Protocolar
 DATA: 19/07/2026
-AUTOR: Cleiton Moura (@professorcinza) — Instituto de Gestão Nacional (IGN)
+AUTOR: Cleiton Moura (@professorcinza) — Centro de Estudos em Hacker Cultura Periférica Teia de Aranha (TEIA)
 TAMANHO: 25,571 bytes (25.0 KB)
 HASH MD5: 165749e3e6d4da5410f7322a6fabb8f3
 HASH SHA-256: 5e8b7f6d2d666e8dba2b95308b20d3d8793d18a77c54ebcf6badc879204e26bb

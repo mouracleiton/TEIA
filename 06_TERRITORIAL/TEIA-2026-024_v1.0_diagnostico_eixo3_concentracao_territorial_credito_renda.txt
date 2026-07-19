@@ -1,5 +1,5 @@
 ================================================================================
-PROTOCOLO IGN: IGN-2026-024
+PROTOCOLO TEIA: TEIA-2026-024
 VERSÃO: v1.0
 CATEGORIA: 06_TERRITORIAL
 TÍTULO: Concentração de Crédito e Renda Territorial
@@ -7,7 +7,7 @@ STATUS: INTERNO
 DESTINATÁRIO: Arquivo técnico
 AÇÃO: Concluído
 DATA: 19/07/2026
-AUTOR: Cleiton Moura (@professorcinza) — Instituto de Gestão Nacional (IGN)
+AUTOR: Cleiton Moura (@professorcinza) — Centro de Estudos em Hacker Cultura Periférica Teia de Aranha (TEIA)
 TAMANHO: 36,382 bytes (35.5 KB)
 HASH MD5: f16e11bab93f6a16a2c82e8e63efed45
 HASH SHA-256: 2f645b68f282f53c46e0bca9ad41c5c4a6557854218ccd6dccca2a6bb7dc3967

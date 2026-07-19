@@ -1,5 +1,5 @@
 ================================================================================
-PROTOCOLO IGN: IGN-2026-008
+PROTOCOLO TEIA: TEIA-2026-008
 VERSÃO: v1.0
 CATEGORIA: 02_MAPEAMENTO
 TÍTULO: Mapa Consolidado de Captura Política
@@ -7,7 +7,7 @@ STATUS: INTERNO
 DESTINATÁRIO: Arquivo técnico
 AÇÃO: Concluído
 DATA: 19/07/2026
-AUTOR: Cleiton Moura (@professorcinza) — Instituto de Gestão Nacional (IGN)
+AUTOR: Cleiton Moura (@professorcinza) — Centro de Estudos em Hacker Cultura Periférica Teia de Aranha (TEIA)
 TAMANHO: 30,862 bytes (30.1 KB)
 HASH MD5: 5ee7920e04dd27d4a263daca71744e54
 HASH SHA-256: 7aefcb6d97feae40620e7a7c5389ce2860ae17233e206c4678736ddc5412a2a6

@@ -1,5 +1,5 @@
 ================================================================================
-PROTOCOLO IGN: IGN-2026-003
+PROTOCOLO TEIA: TEIA-2026-003
 VERSÃO: v1.0
 CATEGORIA: 01_ANALISE
 TÍTULO: Mapeamento de Veto Players Institucional
@@ -7,7 +7,7 @@ STATUS: INTERNO
 DESTINATÁRIO: Arquivo técnico
 AÇÃO: Concluído
 DATA: 19/07/2026
-AUTOR: Cleiton Moura (@professorcinza) — Instituto de Gestão Nacional (IGN)
+AUTOR: Cleiton Moura (@professorcinza) — Centro de Estudos em Hacker Cultura Periférica Teia de Aranha (TEIA)
 TAMANHO: 31,642 bytes (30.9 KB)
 HASH MD5: 120d17e48d54668ef9e268b3aa9cea28
 HASH SHA-256: 5cef7c17ca20ffd6ae065fa3562970b0bb2597e9e93d893ab3ec6dd9bf46af6b

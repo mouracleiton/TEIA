@@ -1,5 +1,5 @@
 ================================================================================
-PROTOCOLO IGN: IGN-2026-012
+PROTOCOLO TEIA: TEIA-2026-012
 VERSÃO: v1.0
 CATEGORIA: 04_PLANO
 TÍTULO: Plano de Execução com Metas SMART
@@ -7,7 +7,7 @@ STATUS: INTERNO
 DESTINATÁRIO: Arquivo técnico
 AÇÃO: Concluído
 DATA: 19/07/2026
-AUTOR: Cleiton Moura (@professorcinza) — Instituto de Gestão Nacional (IGN)
+AUTOR: Cleiton Moura (@professorcinza) — Centro de Estudos em Hacker Cultura Periférica Teia de Aranha (TEIA)
 TAMANHO: 32,124 bytes (31.4 KB)
 HASH MD5: b0bbe10ec2ea69cdef3b0259462d0c78
 HASH SHA-256: 989accdb9737f897ea7cbf4a88437b5424b23486e5099ba64444400d54a5464a
@@ -351,7 +351,7 @@ BLOCO 6 — INSTITUCIONAL (THINK TANK HÍBRIDO)
 ------------------------------------------------------------------------
 AÇÃO 6.1 — CONSTITUIÇÃO FORMAL DO INSTITUTO
 ------------------------------------------------------------------------
-AÇÃO: Registrar formalmente o Instituto de Gestão Nacional (IGN) como
+AÇÃO: Registrar formalmente o Centro de Estudos em Hacker Cultura Periférica Teia de Aranha (TEIA) como
       organização da sociedade civil (OSC) com:
   - Conselho técnico (5 economistas/analistas)
   - Conselho político (3 articuladores)

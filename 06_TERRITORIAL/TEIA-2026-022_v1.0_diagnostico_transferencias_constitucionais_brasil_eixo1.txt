@@ -1,5 +1,5 @@
 ================================================================================
-PROTOCOLO IGN: IGN-2026-022
+PROTOCOLO TEIA: TEIA-2026-022
 VERSÃO: v1.0
 CATEGORIA: 06_TERRITORIAL
 TÍTULO: Transferências Constitucionais (FPE/FPM/FUNDEB)
@@ -7,7 +7,7 @@ STATUS: INTERNO
 DESTINATÁRIO: Arquivo técnico
 AÇÃO: Concluído
 DATA: 19/07/2026
-AUTOR: Cleiton Moura (@professorcinza) — Instituto de Gestão Nacional (IGN)
+AUTOR: Cleiton Moura (@professorcinza) — Centro de Estudos em Hacker Cultura Periférica Teia de Aranha (TEIA)
 TAMANHO: 46,687 bytes (45.6 KB)
 HASH MD5: 27af383eb9534dc7f9a918ec1133af4f
 HASH SHA-256: 8c07d16252d77c7232423994d51304884882e504350a0daf9d49640fa302fa84
