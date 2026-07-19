@@ -1,157 +1,246 @@
 ================================================================================
-MANIFESTO DE PROTOCOLOS — INSTITUTO DE GESTÃO NACIONAL (TEIA)
-Data: 19/07/2026
-Total de documentos: 26
-Total versionado: 875,955 bytes (855.4 KB)
+MANIFESTO DE PROTOCOLOS — TEIA FRAMEWORK v16.0
+Centro de Estudos em Hacker Cultura Periférica Teia de Aranha
+Data: 19/07/2026 22:58
 ================================================================================
 
-RESUMO DE STATUS:
-  INTERNOS (análise técnica):     17
-  PROTOCOLO PENDENTE (judiciário):4
-  PUBLICAÇÃO PENDENTE (mídia):    4
-  REGISTRO PENDENTE (cartório):   1
+TOTAL DE DOCUMENTOS: 89
+TAMANHO TOTAL: 1,927,875 bytes (1882.7 KB)
+
+ESTATÍSTICAS DO FRAMEWORK:
+  - 66 dimensões de captura (12 níveis de profundidade)
+  - 24 lentes analíticas v3.0 (9 camadas cada)
+  - 1.584 perspectivas de investigação possíveis
+  - 89 skills metodológicas
+  - Protocolo de Execução (PET): 5 fases
+  - Protocolo de Qualidade: 32 itens
+  - 16 problemas diagnósticados com framework aplicado
+  - Dashboard web + API REST operacionais
+  - Scraper CGU + Link Analysis operacionais
+  - JSON Schema do framework
+  - Arquitetura de sistema completo (5 camadas)
 
 DOCUMENTOS POR CATEGORIA:
 ----------------------------------------------------------------------------------------------------
-PROTO           VER    STATUS                      KB  TÍTULO                                        DESTINATÁRIO
+
+  --- 01_ANALISE (6 arquivos) ---
+  01_ANALISE/TEIA-2026-001_v1.0_fact_check_brasil_V2.txt                    24.5 KB  MD5: c82a1968e74bc52f...
+  01_ANALISE/TEIA-2026-002_v1.0_refutacao_v2_brasil.txt                     40.2 KB  MD5: 4e84c46bb2ec23fc...
+  01_ANALISE/TEIA-2026-003_v1.0_MAPEAMENTO_VETO_PLAYERS_V2.txt              31.5 KB  MD5: f9789929013e5ba8...
+  01_ANALISE/TEIA-2026-004_v1.0_BRASIL_V3_SINTESE_FINAL.txt                 54.0 KB  MD5: d20ed980960c35a4...
+  01_ANALISE/TEIA-2026-028_v1.0_REFUTACAO_SINTESE_FINAL.txt                 15.8 KB  MD5: 7c5c65526a22209c...
+  01_ANALISE/TEIA-2026-029_v1.0_CONTRA_REFUTACAO.txt                        23.0 KB  MD5: 6c16fceb7f47f0ab...
+
+  --- 02_MAPEAMENTO (5 arquivos) ---
+  02_MAPEAMENTO/TEIA-2026-005_v1.0_orcamento_secreto_emendas_parlamentares_2023_2027.txt    39.3 KB  MD5: 44ede62d9210c30a...
+  02_MAPEAMENTO/TEIA-2026-006_v1.0_mapeamento_setor_financeiro_congresso_2023_2027.txt    38.8 KB  MD5: 8fbfebde106c8ecf...
+  02_MAPEAMENTO/TEIA-2026-007_v1.0_industria_complexidade_parlamentares_2023_2027.txt    28.6 KB  MD5: 17dc596d7f4b64f0...
+  02_MAPEAMENTO/TEIA-2026-008_v1.0_MAPA_CONSOLIDADO_CAPTURA_POLITICA.txt    30.8 KB  MD5: ab00af7942792aff...
+  02_MAPEAMENTO/TEIA-2026-009_v1.0_MAPA_PSIKO_COOPTACAO_NEUTRALIZACAO.txt    40.8 KB  MD5: df40bded3484c997...
+
+  --- 03_SIMULACAO (2 arquivos) ---
+  03_SIMULACAO/TEIA-2026-010_v1.0_SIMULACAO_MONTE_CARLO_VETO_PLAYERS.txt    19.3 KB  MD5: 02858b3ce1698b49...
+  03_SIMULACAO/TEIA-2026-011_v2.0_SIMULACAO_FINAL_V3_CORRIGIDA.txt          11.3 KB  MD5: f3dacc4c71a6031b...
+
+  --- 04_PLANO (1 arquivos) ---
+  04_PLANO/TEIA-2026-012_v1.0_PLANO_EXECUCAO_SMART.txt                      32.0 KB  MD5: 5cc606f0cb9edac0...
+
+  --- 05_ACAO (10 arquivos) ---
+  05_ACAO/TEIA-2026-013_v1.0_DOSSIE_TECNICO_HADDAD.txt                      43.9 KB  MD5: 08d5dc8b4173f63f...
+  05_ACAO/TEIA-2026-014_v1.0_peticao_cnj_serp.txt                           25.6 KB  MD5: c682c895a4b3db32...
+  05_ACAO/TEIA-2026-015_v1.0_amicus_curiae_adpf_854.txt                     29.9 KB  MD5: 6e4b8c2d4a94993f...
+  05_ACAO/TEIA-2026-016_v1.0_REPRESENTACAO_PGR_CONFLITO_INTERESSE_PARLAMENTAR.txt    40.1 KB  MD5: be5ba7ee254c1471...
+  05_ACAO/TEIA-2026-017_v1.0_dossie_banco_master_correlacoes_temporais.txt    30.2 KB  MD5: 4c114a213f04ac59...
+  05_ACAO/TEIA-2026-018_v1.0_ROTEIRO_DOCUMENTARIO_PRECO_SELIC.txt           25.6 KB  MD5: 98ac17aebf6c6009...
+  05_ACAO/TEIA-2026-019_v1.0_contas_publicas_lote1_roteiros.txt             28.8 KB  MD5: c1f6863055370dc5...
+  05_ACAO/TEIA-2026-020_v1.0_gestao-nao-gasto-planejamento-temporada1.txt    35.5 KB  MD5: 7daadcfd31b1c21f...
+  05_ACAO/TEIA-2026-021_v1.0_TEIA_Estatuto_Social.txt                       56.6 KB  MD5: db2b1432418ab06f...
+  05_ACAO/TEIA-2026-037_v1.0_TIKTOK_BIG_TECH_10_BI.txt                       2.6 KB  MD5: 9e632eb4ba14b818...
+
+  --- 06_TERRITORIAL (4 arquivos) ---
+  06_TERRITORIAL/TEIA-2026-022_v1.0_diagnostico_transferencias_constitucionais_brasil_eixo1.txt    46.2 KB  MD5: 972761bfebadf67a...
+  06_TERRITORIAL/TEIA-2026-023_v1.0_diagnostico_emendas_territorial_eixo2.txt    36.8 KB  MD5: 98b450dec975bb56...
+  06_TERRITORIAL/TEIA-2026-024_v1.0_diagnostico_eixo3_concentracao_territorial_credito_renda.txt    36.2 KB  MD5: 584acfe602244161...
+  06_TERRITORIAL/TEIA-2026-025_v1.0_DIAGNOSTICO_INTEGRADO_FLUXO_DINHEIRO_NACIONAL.txt    21.4 KB  MD5: f478acff98cca9f2...
+
+  --- 07_ACCOUNTABILITY (1 arquivos) ---
+  07_ACCOUNTABILITY/TEIA-2026-026_v1.0_ACCOUNTABILITY_COMPORTAMENTO_GESTOR_PUBLICO.txt    23.9 KB  MD5: f70522c4c1f84e7b...
+
+  --- 08_SINTESE_FINAL (1 arquivos) ---
+  08_SINTESE_FINAL/TEIA-2026-027_v1.0_QUALIDADE_VIDA_DIMENSOES_ECONOMICAS.txt    22.9 KB  MD5: fd6f57ed6073c438...
+
+  --- 09_MULTIDIMENSIONAL (1 arquivos) ---
+  09_MULTIDIMENSIONAL/TEIA-2026-033_v1.0_6_DIMENSOES_PODER.txt              17.5 KB  MD5: 88e5c49114c145dd...
+
+  --- 10_TECNOLOGICA (2 arquivos) ---
+  10_TECNOLOGICA/TEIA-2026-034_v1.0_CAPTURA_TECNOLOGICA_DIGITAL_POLITICA_BRASILEIRA.txt    48.3 KB  MD5: 7b0ca31f687f17ad...
+  10_TECNOLOGICA/TEIA-2026-040_v1.0_INTERMEDIARIOS_BIGTECH_GOV_FEDERAL.txt    36.1 KB  MD5: 3b6bc2628a8b4ed7...
+
+  --- 11_INSTITUCIONAL (1 arquivos) ---
+  11_INSTITUCIONAL/TEIA-2026-035_v1.0_SISTEMA_ELEITORAL_CAPTURA_PODER.txt    39.4 KB  MD5: 8e913000b68d825e...
+
+  --- 12_AMBIENTAL (1 arquivos) ---
+  12_AMBIENTAL/TEIA-2026-036_v1.0_CAPTURA_PODER_AMBIENTAL_BRASIL.txt        37.0 KB  MD5: c5fe6d886c53d9c5...
+
+  --- 13_PROJETOS (14 arquivos) ---
+  13_PROJETOS/README.md                                                      2.9 KB  MD5: fd4c6ac695179d47...
+  13_PROJETOS/api-publica/README.md                                          0.4 KB  MD5: 4b8dc2cdda85d584...
+  13_PROJETOS/api-publica/server.py                                         22.9 KB  MD5: 9d683d4fca7ddd81...
+  13_PROJETOS/app-cidadao/README.md                                          0.4 KB  MD5: 1612ddd2738d07d9...
+  13_PROJETOS/bot-alertas/README.md                                          0.4 KB  MD5: 14ca28451b9faba2...
+  13_PROJETOS/dashboards/README.md                                           0.4 KB  MD5: a40ddbce285349ff...
+  13_PROJETOS/dashboards/dashboard_orcamento.py                             15.4 KB  MD5: 66ff1dab8549f482...
+  13_PROJETOS/ia-deteccao/README.md                                          0.4 KB  MD5: 2bb091d9c4ca24de...
+  13_PROJETOS/link-analysis/README.md                                        0.4 KB  MD5: a4f602da559973f5...
+  13_PROJETOS/link-analysis/link_analysis.py                                10.3 KB  MD5: becf79fa32b9fefa...
+  13_PROJETOS/osint-toolkit/README.md                                        0.4 KB  MD5: 7d4b010ea2703282...
+  13_PROJETOS/requirements.txt                                               0.3 KB  MD5: 4dd905bdb6cb47f2...
+  13_PROJETOS/scrappers/README.md                                            0.4 KB  MD5: 20fd0da601240acf...
+  13_PROJETOS/scrappers/scraper_emendas.py                                   8.1 KB  MD5: 4541761c151cbc8b...
+
+  --- RAIZ (29 arquivos) ---
+  APLICACAO_FRAMEWORK_16_PROBLEMAS.txt                                      19.4 KB  MD5: 96398991ab6c5f83...
+  ARQUITETURA_SISTEMA_TEIA_PLATFORM.txt                                     23.4 KB  MD5: fc0374c7cb42ae5d...
+  MANIFESTO_PROTOCOLOS.txt                                                   8.8 KB  MD5: 645a52dd82c6215c...
+  README.md                                                                 20.9 KB  MD5: 3ab188ad3a9511de...
+  SOPBRA_v0.1_arquitetura.txt                                               24.0 KB  MD5: c9e7d931c6cd4d04...
+  SOPBRA_v0.2_sistema_funcional.txt                                         35.4 KB  MD5: a54c84729200673a...
+  SOPBRA_v0.3_cooptacao_contribuidores.txt                                  25.4 KB  MD5: c341eadd7ebe04c9...
+  TEIA_FRAMEWORK_v1.0.txt                                                   29.8 KB  MD5: 309fd2dbac8a99fc...
+  TEIA_FRAMEWORK_v10.0_GRANULARIDADE_ABSOLUTA.txt                           18.9 KB  MD5: 7fdd13f52664fcb1...
+  TEIA_FRAMEWORK_v11.0_FRONTEIRAS_EXISTENCIA.txt                            18.1 KB  MD5: b66ee2a4b84f35dd...
+  TEIA_FRAMEWORK_v12.0_MAPA_ONTOLOGICO.txt                                  18.6 KB  MD5: 7e2323cddabbdc2c...
+  TEIA_FRAMEWORK_v13.0_EXPANSAO_OPTICA.txt                                  25.1 KB  MD5: 788730ec7e5cc8e7...
+  TEIA_FRAMEWORK_v14.0_GRANULARIDADE_COSMICA.txt                            17.4 KB  MD5: bd758fb6dfaae0da...
+  TEIA_FRAMEWORK_v15.0_ZENITE_PET.txt                                       20.0 KB  MD5: 06aab35fb0a39678...
+  TEIA_FRAMEWORK_v16.0_ZENITE_ABSOLUTO.txt                                  11.0 KB  MD5: d2774048defa9749...
+  TEIA_FRAMEWORK_v2.0_incremento_cientifico.txt                             33.3 KB  MD5: 47cb1abe2014aa74...
+  TEIA_FRAMEWORK_v3.0_multidisciplinar.txt                                  38.6 KB  MD5: 3873dd109afe8c59...
+  TEIA_FRAMEWORK_v3.1_novas_dimensoes.txt                                   32.9 KB  MD5: f967fe0839ed327b...
+  TEIA_FRAMEWORK_v3.2_matriz_investigacao.txt                               27.2 KB  MD5: 8b7d03b1b977cd0a...
+  TEIA_FRAMEWORK_v3.3_catalogo_22_dimensoes.txt                             30.0 KB  MD5: 8da9438d57a8ff24...
+  TEIA_FRAMEWORK_v4.0_onidimensional.txt                                    27.8 KB  MD5: c37820b2b498178c...
+  TEIA_FRAMEWORK_v5.0_TEIA_COMPLETA.txt                                     25.9 KB  MD5: 2fa43baf264b3dc7...
+  TEIA_FRAMEWORK_v6.0_APICE_ANALITICO.txt                                   20.1 KB  MD5: b5e4e9f547df3432...
+  TEIA_FRAMEWORK_v7.0_MICROFISICA.txt                                       27.3 KB  MD5: c838ba769167518b...
+  TEIA_FRAMEWORK_v8.0_LIMITE_EXPONENCIAL.txt                                20.3 KB  MD5: fa2381386dc13c6a...
+  TEIA_FRAMEWORK_v9.0_GRANULARIDADE_MAXIMA.txt                              19.2 KB  MD5: b3bbd2e7f51089fa...
+  TEIA_FRAMEWORK_v9.1_LENTES_V2_ARSENAL_TATICO.txt                          22.5 KB  MD5: dd1acae85a50423e...
+  TEIA_FRAMEWORK_v9.2_LENTES_V3_OPERACIONAL.txt                             25.8 KB  MD5: 681931e6ed92bbda...
+  teia_framework_schema.json                                                18.9 KB  MD5: 74a6b2923f6cbcca...
+
+  --- skills (11 arquivos) ---
+  skills/README.md                                                           2.5 KB  MD5: e10c2249279d3a2e...
+  skills/accountability-publica/SKILL.md                                     1.7 KB  MD5: d3c6cce2def03e3a...
+  skills/diagnostico-territorial/SKILL.md                                    1.5 KB  MD5: 7be25a086405fb08...
+  skills/fact-check-economico/SKILL.md                                       1.8 KB  MD5: 3a5cdc6b1ee24b2f...
+  skills/mapeamento-veto-players/SKILL.md                                    1.5 KB  MD5: 1c9e5e252c95fd1f...
+  skills/pipeline-dialetico/SKILL.md                                         2.2 KB  MD5: 08fbf611ca6885f3...
+  skills/posts-instagram-dados/SKILL.md                                      1.4 KB  MD5: 2dc35f97a0e4e1f8...
+  skills/producao-conteudo-advocacy/SKILL.md                                 1.5 KB  MD5: cd9cf65dce1c103a...
+  skills/redacao-juridica-advocacy/SKILL.md                                  1.6 KB  MD5: 3b8cf3b5cd9f5a32...
+  skills/simulacao-monte-carlo/SKILL.md                                      1.6 KB  MD5: a7d60bf287ff1e6b...
+  skills/sistema-protocolo/SKILL.md                                          2.1 KB  MD5: c44ac232891fcd00...
+
 ----------------------------------------------------------------------------------------------------
 
-  --- 01_ANALISE ---
-  TEIA-2026-001  v1.0   INTERNO                  23.9  Fact-Check dos Números do V2.0                Arquivo técnico
-  TEIA-2026-002  v1.0   INTERNO                  39.6  Refutação Técnico-Econômica do V2.0           Arquivo técnico
-  TEIA-2026-003  v1.0   INTERNO                  30.9  Mapeamento de Veto Players Institucional      Arquivo técnico
-  TEIA-2026-004  v1.0   INTERNO                  53.4  Síntese V3.0 — Documento Final Pós-Dialética  Arquivo técnico
-
-  --- 02_MAPEAMENTO ---
-  TEIA-2026-005  v1.0   INTERNO                  38.7  Orçamento Secreto e Emendas Parlamentares 2023-2027 Arquivo técnico
-  TEIA-2026-006  v1.0   INTERNO                  38.2  Setor Financeiro no Congresso 2023-2027       Arquivo técnico
-  TEIA-2026-007  v1.0   INTERNO                  27.9  Indústria da Complexidade — Parlamentares 2023-2027 Arquivo técnico
-  TEIA-2026-008  v1.0   INTERNO                  30.1  Mapa Consolidado de Captura Política          Arquivo técnico
-  TEIA-2026-009  v1.0   INTERNO                  40.2  Mapa Psicológico — Cooptação e Neutralização  Arquivo técnico
-
-  --- 03_SIMULACAO ---
-  TEIA-2026-010  v1.0   INTERNO                  18.7  Simulação Monte Carlo Inicial (840.000 cálculos) Arquivo técnico
-  TEIA-2026-011  v2.0   INTERNO                  10.7  Simulação Monte Carlo Final Corrigida (1.260.000 cálculos) Arquivo técnico
-
-  --- 04_PLANO ---
-  TEIA-2026-012  v1.0   INTERNO                  31.4  Plano de Execução com Metas SMART             Arquivo técnico
-
-  --- 05_ACAO ---
-  TEIA-2026-013  v1.0   PROTOCOLO_PENDENTE       43.2  Dossiê Técnico para Ministério da Fazenda     Min. Fernando Haddad — MF
-  TEIA-2026-014  v1.0   PROTOCOLO_PENDENTE       25.0  Petição ao CNJ — Implementação SERP           Presidente do CNJ / Corregedor Nacional
-  TEIA-2026-015  v1.0   PROTOCOLO_PENDENTE       29.1  Amicus Curiae — ADPF 854 (STF)                Min. Flávio Dino — STF
-  TEIA-2026-016  v1.0   PROTOCOLO_PENDENTE       39.5  Representação à PGR/MPF — Conflito de Interesse Procurador-Geral da República
-  TEIA-2026-017  v1.0   PUBLICACAO_PENDENTE      29.6  Dossiê Banco Master — Correlações Temporais   Público (online)
-  TEIA-2026-018  v1.0   PUBLICACAO_PENDENTE      25.0  Roteiro Documentário 'O Preço da Selic'       YouTube
-  TEIA-2026-019  v1.0   PUBLICACAO_PENDENTE      28.2  Série TikTok 'Contas Públicas' — Lote 1       TikTok/Instagram
-  TEIA-2026-020  v1.0   PUBLICACAO_PENDENTE      34.9  Podcast 'Gestão Não Gasto' — Temporada 1      Spotify/YouTube
-  TEIA-2026-021  v1.0   REGISTRO_PENDENTE        56.0  Estatuto Social do Centro de Estudos em Hacker Cultura Periférica Teia de Aranha Cartório / Junta Comercial
-
-  --- 06_TERRITORIAL ---
-  TEIA-2026-022  v1.0   INTERNO                  45.6  Transferências Constitucionais (FPE/FPM/FUNDEB) Arquivo técnico
-  TEIA-2026-023  v1.0   INTERNO                  36.2  Emendas Parlamentares — Distribuição Territorial Arquivo técnico
-  TEIA-2026-024  v1.0   INTERNO                  35.5  Concentração de Crédito e Renda Territorial   Arquivo técnico
-  TEIA-2026-025  v1.0   INTERNO                  20.8  Síntese: Fluxo de Dinheiro no Território Nacional Arquivo técnico
-
-  --- 07_ACCOUNTABILITY ---
-  TEIA-2026-026  v1.0   INTERNO                  23.3  Como Fazer o Gestor Público se Comportar Bem  Arquivo técnico
-
-----------------------------------------------------------------------------------------------------
-
-DOCUMENTOS PARA PROTOCOLAR (PRIORIDADE):
---------------------------------------------------------------------------------
-
-  TEIA-2026-013 — Dossiê Técnico para Ministério da Fazenda
-  Arquivo: TEIA-2026-013_v1.0_DOSSIE_TECNICO_HADDAD.txt
-  Destinatário: Min. Fernando Haddad — MF
-  Ação: Entregar
-  Hash MD5: ff49193c04975ea395df505e36e94171
-
-  TEIA-2026-014 — Petição ao CNJ — Implementação SERP
-  Arquivo: TEIA-2026-014_v1.0_peticao_cnj_serp.txt
-  Destinatário: Presidente do CNJ / Corregedor Nacional
-  Ação: Protocolar
-  Hash MD5: 165749e3e6d4da5410f7322a6fabb8f3
-
-  TEIA-2026-015 — Amicus Curiae — ADPF 854 (STF)
-  Arquivo: TEIA-2026-015_v1.0_amicus_curiae_adpf_854.txt
-  Destinatário: Min. Flávio Dino — STF
-  Ação: Protocolar
-  Hash MD5: 8b3998f6493adc44c37c478e14a36f90
-
-  TEIA-2026-016 — Representação à PGR/MPF — Conflito de Interesse
-  Arquivo: TEIA-2026-016_v1.0_REPRESENTACAO_PGR_CONFLITO_INTERESSE_PARLAMENTAR.txt
-  Destinatário: Procurador-Geral da República
-  Ação: Protocolar
-  Hash MD5: 9f7dc63d0082885d6b82a770a4a2ba86
-
-
-DOCUMENTOS PARA PUBLICAR:
---------------------------------------------------------------------------------
-
-  TEIA-2026-017 — Dossiê Banco Master — Correlações Temporais
-  Plataforma: Público (online)
-  Hash MD5: 6f1d4de2c82e78a2be4c544372e5b864
-
-  TEIA-2026-018 — Roteiro Documentário 'O Preço da Selic'
-  Plataforma: YouTube
-  Hash MD5: 38b0a18523728428e44f19f8fd272856
-
-  TEIA-2026-019 — Série TikTok 'Contas Públicas' — Lote 1
-  Plataforma: TikTok/Instagram
-  Hash MD5: a0e4db6ffeeada2dde89deb86c507691
-
-  TEIA-2026-020 — Podcast 'Gestão Não Gasto' — Temporada 1
-  Plataforma: Spotify/YouTube
-  Hash MD5: 69391437185d154c3243c29d6b170706
-
-
-DOCUMENTOS PARA REGISTRAR:
---------------------------------------------------------------------------------
-
-  TEIA-2026-021 — Estatuto Social do Centro de Estudos em Hacker Cultura Periférica Teia de Aranha
-  Destino: Cartório / Junta Comercial
-  Hash MD5: c9d1e912b81db9f03f64e117241c95c5
-
-
-================================================================================
-TABELA DE INTEGRIDADE (HASHES)
-================================================================================
-PROTO           MD5                                SHA-256 (parcial)   
+TABELA DE INTEGRIDADE (HASHES MD5):
 ----------------------------------------------------------------------
-TEIA-2026-001    21578775be670acadee4bc612ccbcf24   f4164609f1bc041a...
-TEIA-2026-002    fe49dbab76c4b09a20a9bbae02344597   9bc55e3c37108469...
-TEIA-2026-003    120d17e48d54668ef9e268b3aa9cea28   5cef7c17ca20ffd6...
-TEIA-2026-004    a0842ae9232eb8806ad86b194c9b5e16   5aa03067c3704110...
-TEIA-2026-005    06f88f8e4089f33fcc5b83edc564ff71   0ce80b2757aec376...
-TEIA-2026-006    ca5a9c0e441c6c26b9867c13511f364c   9defa8d83d67bb09...
-TEIA-2026-007    5b422f74bccdc0a543db27047e0d0cf4   6377898055b419fe...
-TEIA-2026-008    5ee7920e04dd27d4a263daca71744e54   7aefcb6d97feae40...
-TEIA-2026-009    9e5e7fbd86f901668deaaccd95b0d272   0cbbd5482ae9a72d...
-TEIA-2026-010    4b6236543e24b43cf99b654ae6697c00   a8a7aa77b2cc172d...
-TEIA-2026-011    238d969dab4f40da2ce9b8db030c7eb2   3e8543c8fc239e1c...
-TEIA-2026-012    b0bbe10ec2ea69cdef3b0259462d0c78   989accdb9737f897...
-TEIA-2026-013    ff49193c04975ea395df505e36e94171   f241eabf65b51713...
-TEIA-2026-014    165749e3e6d4da5410f7322a6fabb8f3   5e8b7f6d2d666e8d...
-TEIA-2026-015    8b3998f6493adc44c37c478e14a36f90   ea9dfbeec56d8f5a...
-TEIA-2026-016    9f7dc63d0082885d6b82a770a4a2ba86   47359de2736a2196...
-TEIA-2026-017    6f1d4de2c82e78a2be4c544372e5b864   de610c0c1f189288...
-TEIA-2026-018    38b0a18523728428e44f19f8fd272856   0bcb48f7788fc7aa...
-TEIA-2026-019    a0e4db6ffeeada2dde89deb86c507691   97d514ba2a432491...
-TEIA-2026-020    69391437185d154c3243c29d6b170706   bbe7bb6a8606ce11...
-TEIA-2026-021    c9d1e912b81db9f03f64e117241c95c5   1cacd9704400d6e3...
-TEIA-2026-022    27af383eb9534dc7f9a918ec1133af4f   8c07d16252d77c72...
-TEIA-2026-023    7987b84e41a7323fd972a92c9c9469bd   d67c7f4aa9c9dfef...
-TEIA-2026-024    f16e11bab93f6a16a2c82e8e63efed45   2f645b68f282f53c...
-TEIA-2026-025    6e223008bf825e31685e4c876ac829bb   13f68bceb89919dc...
-TEIA-2026-026    cf6bddb7d6f3648cc5f28c100e9f6e7f   ec0d5c3f1921451c...
+c82a1968e74bc52f04c439017901e9d5   01_ANALISE/TEIA-2026-001_v1.0_fact_check_brasil_V2.txt
+4e84c46bb2ec23fc8efd4a01860e69be   01_ANALISE/TEIA-2026-002_v1.0_refutacao_v2_brasil.txt
+f9789929013e5ba83f3f92227c62938d   01_ANALISE/TEIA-2026-003_v1.0_MAPEAMENTO_VETO_PLAYERS_V2.txt
+d20ed980960c35a45d4857b8b53704a4   01_ANALISE/TEIA-2026-004_v1.0_BRASIL_V3_SINTESE_FINAL.txt
+7c5c65526a22209ce26f2b37513fd631   01_ANALISE/TEIA-2026-028_v1.0_REFUTACAO_SINTESE_FINAL.txt
+6c16fceb7f47f0abe45dbc379daa0e0e   01_ANALISE/TEIA-2026-029_v1.0_CONTRA_REFUTACAO.txt
+44ede62d9210c30a9a27b31037ba67d9   02_MAPEAMENTO/TEIA-2026-005_v1.0_orcamento_secreto_emendas_parlamentares_2023_2027.txt
+8fbfebde106c8ecfc0a55c5400872c3d   02_MAPEAMENTO/TEIA-2026-006_v1.0_mapeamento_setor_financeiro_congresso_2023_2027.txt
+17dc596d7f4b64f0e153c9e0629ec164   02_MAPEAMENTO/TEIA-2026-007_v1.0_industria_complexidade_parlamentares_2023_2027.txt
+ab00af7942792affaa14519e8680a0a9   02_MAPEAMENTO/TEIA-2026-008_v1.0_MAPA_CONSOLIDADO_CAPTURA_POLITICA.txt
+df40bded3484c99756f756342731a3df   02_MAPEAMENTO/TEIA-2026-009_v1.0_MAPA_PSIKO_COOPTACAO_NEUTRALIZACAO.txt
+02858b3ce1698b491307117f4c70c10b   03_SIMULACAO/TEIA-2026-010_v1.0_SIMULACAO_MONTE_CARLO_VETO_PLAYERS.txt
+f3dacc4c71a6031bac0945566f94aa3d   03_SIMULACAO/TEIA-2026-011_v2.0_SIMULACAO_FINAL_V3_CORRIGIDA.txt
+5cc606f0cb9edac03c5de25d387615e1   04_PLANO/TEIA-2026-012_v1.0_PLANO_EXECUCAO_SMART.txt
+08d5dc8b4173f63f371d36c2c033b9f7   05_ACAO/TEIA-2026-013_v1.0_DOSSIE_TECNICO_HADDAD.txt
+c682c895a4b3db32edf924f6515e3ec3   05_ACAO/TEIA-2026-014_v1.0_peticao_cnj_serp.txt
+6e4b8c2d4a94993fd8f30512e6c88567   05_ACAO/TEIA-2026-015_v1.0_amicus_curiae_adpf_854.txt
+be5ba7ee254c147178c9b4553cc0f264   05_ACAO/TEIA-2026-016_v1.0_REPRESENTACAO_PGR_CONFLITO_INTERESSE_PARLAMENTAR.txt
+4c114a213f04ac59f5ccc128e8c84b43   05_ACAO/TEIA-2026-017_v1.0_dossie_banco_master_correlacoes_temporais.txt
+98ac17aebf6c6009ba4641358c2d621b   05_ACAO/TEIA-2026-018_v1.0_ROTEIRO_DOCUMENTARIO_PRECO_SELIC.txt
+c1f6863055370dc5abb18ef8e27d8f89   05_ACAO/TEIA-2026-019_v1.0_contas_publicas_lote1_roteiros.txt
+7daadcfd31b1c21f0bdfd1329395bcfa   05_ACAO/TEIA-2026-020_v1.0_gestao-nao-gasto-planejamento-temporada1.txt
+db2b1432418ab06f169623df86df2399   05_ACAO/TEIA-2026-021_v1.0_TEIA_Estatuto_Social.txt
+9e632eb4ba14b818a2a0a762f71149b4   05_ACAO/TEIA-2026-037_v1.0_TIKTOK_BIG_TECH_10_BI.txt
+972761bfebadf67ab22804e0bf3ae57b   06_TERRITORIAL/TEIA-2026-022_v1.0_diagnostico_transferencias_constitucionais_brasil_eixo1.txt
+98b450dec975bb56e2983dd73a57f25f   06_TERRITORIAL/TEIA-2026-023_v1.0_diagnostico_emendas_territorial_eixo2.txt
+584acfe6022441614cca664b0c893843   06_TERRITORIAL/TEIA-2026-024_v1.0_diagnostico_eixo3_concentracao_territorial_credito_renda.txt
+f478acff98cca9f2f956a1568eeec297   06_TERRITORIAL/TEIA-2026-025_v1.0_DIAGNOSTICO_INTEGRADO_FLUXO_DINHEIRO_NACIONAL.txt
+f70522c4c1f84e7be0fa3087fdc8e0cd   07_ACCOUNTABILITY/TEIA-2026-026_v1.0_ACCOUNTABILITY_COMPORTAMENTO_GESTOR_PUBLICO.txt
+fd6f57ed6073c438a551d52e48160aba   08_SINTESE_FINAL/TEIA-2026-027_v1.0_QUALIDADE_VIDA_DIMENSOES_ECONOMICAS.txt
+88e5c49114c145dde799f83155e8c779   09_MULTIDIMENSIONAL/TEIA-2026-033_v1.0_6_DIMENSOES_PODER.txt
+7b0ca31f687f17ad69094822c66de180   10_TECNOLOGICA/TEIA-2026-034_v1.0_CAPTURA_TECNOLOGICA_DIGITAL_POLITICA_BRASILEIRA.txt
+3b6bc2628a8b4ed75ea5880d84f775a8   10_TECNOLOGICA/TEIA-2026-040_v1.0_INTERMEDIARIOS_BIGTECH_GOV_FEDERAL.txt
+8e913000b68d825e933ffd8f4f8a18a5   11_INSTITUCIONAL/TEIA-2026-035_v1.0_SISTEMA_ELEITORAL_CAPTURA_PODER.txt
+c5fe6d886c53d9c54376cf5d432a8b94   12_AMBIENTAL/TEIA-2026-036_v1.0_CAPTURA_PODER_AMBIENTAL_BRASIL.txt
+fd4c6ac695179d47ada8770e94f8f86c   13_PROJETOS/README.md
+4b8dc2cdda85d5847d671e88fefeda47   13_PROJETOS/api-publica/README.md
+9d683d4fca7ddd813461c2f66ff9bcb2   13_PROJETOS/api-publica/server.py
+1612ddd2738d07d999ed96e761d3d239   13_PROJETOS/app-cidadao/README.md
+14ca28451b9faba2db383d8ecc9da785   13_PROJETOS/bot-alertas/README.md
+a40ddbce285349ffc88f4765b5197bb6   13_PROJETOS/dashboards/README.md
+66ff1dab8549f482026a2935c451be60   13_PROJETOS/dashboards/dashboard_orcamento.py
+2bb091d9c4ca24ded3516edc3d310e87   13_PROJETOS/ia-deteccao/README.md
+a4f602da559973f572712c725c9de5a2   13_PROJETOS/link-analysis/README.md
+becf79fa32b9fefaeafec2b5690d9246   13_PROJETOS/link-analysis/link_analysis.py
+7d4b010ea2703282032e15f1c01d6498   13_PROJETOS/osint-toolkit/README.md
+4dd905bdb6cb47f288b29e39a0a15214   13_PROJETOS/requirements.txt
+20fd0da601240acf1db8927cb8e97173   13_PROJETOS/scrappers/README.md
+4541761c151cbc8bd08d8d8acde3c15e   13_PROJETOS/scrappers/scraper_emendas.py
+96398991ab6c5f83958a3966d2927eae   APLICACAO_FRAMEWORK_16_PROBLEMAS.txt
+fc0374c7cb42ae5dea32eadbc20d8396   ARQUITETURA_SISTEMA_TEIA_PLATFORM.txt
+645a52dd82c6215c687c8ff4662f3823   MANIFESTO_PROTOCOLOS.txt
+3ab188ad3a9511de3849a0f7b11b56ac   README.md
+c9e7d931c6cd4d04abe8193b4cf867fa   SOPBRA_v0.1_arquitetura.txt
+a54c84729200673ae4baeb1f29d36e5c   SOPBRA_v0.2_sistema_funcional.txt
+c341eadd7ebe04c9add669712bba7111   SOPBRA_v0.3_cooptacao_contribuidores.txt
+309fd2dbac8a99fc6320a9da6ec08714   TEIA_FRAMEWORK_v1.0.txt
+7fdd13f52664fcb1947d6d4067f6096e   TEIA_FRAMEWORK_v10.0_GRANULARIDADE_ABSOLUTA.txt
+b66ee2a4b84f35ddaad13b4c9cca4790   TEIA_FRAMEWORK_v11.0_FRONTEIRAS_EXISTENCIA.txt
+7e2323cddabbdc2cca83c6815511a6cd   TEIA_FRAMEWORK_v12.0_MAPA_ONTOLOGICO.txt
+788730ec7e5cc8e76434ddd6b7013de3   TEIA_FRAMEWORK_v13.0_EXPANSAO_OPTICA.txt
+bd758fb6dfaae0dac35f370e52085d42   TEIA_FRAMEWORK_v14.0_GRANULARIDADE_COSMICA.txt
+06aab35fb0a39678bc17fcf6ff146875   TEIA_FRAMEWORK_v15.0_ZENITE_PET.txt
+d2774048defa97493459755c278dde98   TEIA_FRAMEWORK_v16.0_ZENITE_ABSOLUTO.txt
+47cb1abe2014aa749868d44cbf449979   TEIA_FRAMEWORK_v2.0_incremento_cientifico.txt
+3873dd109afe8c594db9b26f39758b5d   TEIA_FRAMEWORK_v3.0_multidisciplinar.txt
+f967fe0839ed327bd2d115c98928f681   TEIA_FRAMEWORK_v3.1_novas_dimensoes.txt
+8b7d03b1b977cd0a2904f6e1f78d9665   TEIA_FRAMEWORK_v3.2_matriz_investigacao.txt
+8da9438d57a8ff240677097950128180   TEIA_FRAMEWORK_v3.3_catalogo_22_dimensoes.txt
+c37820b2b498178cd9cc200c50930f59   TEIA_FRAMEWORK_v4.0_onidimensional.txt
+2fa43baf264b3dc711d3f2784610ef68   TEIA_FRAMEWORK_v5.0_TEIA_COMPLETA.txt
+b5e4e9f547df34329e93b92ee25a07d6   TEIA_FRAMEWORK_v6.0_APICE_ANALITICO.txt
+c838ba769167518b741bfaea4d72e6db   TEIA_FRAMEWORK_v7.0_MICROFISICA.txt
+fa2381386dc13c6aafb599ceba8b679c   TEIA_FRAMEWORK_v8.0_LIMITE_EXPONENCIAL.txt
+b3bbd2e7f51089fa629f549765410082   TEIA_FRAMEWORK_v9.0_GRANULARIDADE_MAXIMA.txt
+dd1acae85a50423e734c4575a6ddb9a1   TEIA_FRAMEWORK_v9.1_LENTES_V2_ARSENAL_TATICO.txt
+681931e6ed92bbdafd0d74cfc4583be3   TEIA_FRAMEWORK_v9.2_LENTES_V3_OPERACIONAL.txt
+e10c2249279d3a2e77c394acc4f7f5ce   skills/README.md
+d3c6cce2def03e3a054aea6289090f49   skills/accountability-publica/SKILL.md
+7be25a086405fb088e34971ab7d09de8   skills/diagnostico-territorial/SKILL.md
+3a5cdc6b1ee24b2f71e242bce972ff9c   skills/fact-check-economico/SKILL.md
+1c9e5e252c95fd1f2ea3a8d77da52f93   skills/mapeamento-veto-players/SKILL.md
+08fbf611ca6885f3670653b395450249   skills/pipeline-dialetico/SKILL.md
+2dc35f97a0e4e1f84a512e81939e3e51   skills/posts-instagram-dados/SKILL.md
+cd9cf65dce1c103af2889e2dfcc75924   skills/producao-conteudo-advocacy/SKILL.md
+3b8cf3b5cd9f5a3263445717d6482908   skills/redacao-juridica-advocacy/SKILL.md
+a7d60bf287ff1e6b507c5e46f14b1668   skills/simulacao-monte-carlo/SKILL.md
+c44ac232891fcd003db77482660e1582   skills/sistema-protocolo/SKILL.md
+74a6b2923f6cbcca76fe4f6e64f1bfa0   teia_framework_schema.json
 
 
 ================================================================================
 NOTA DE VERSIONAMENTO:
-Cada documento recebe número TEIA-AAAA-NNN sequencial.
-Versão v1.0 = entrega inicial. Mudanças menores = v1.1, v1.2...
-Mudanças estruturais = v2.0.
-Hashes garantem integridade e rastreabilidade.
+Framework: v16.0 (ZÊNITE ABSOLUTO)
+MatrIZ: 66 dimensões × 24 lentes = 1.584 perspectivas
+Git: https://github.com/mouracleiton/TEIA
 O dinheiro da reforma virá do trabalho.
 ================================================================================
