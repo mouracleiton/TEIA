@@ -12,6 +12,11 @@
 
 ## Diagrama da Metodologia
 
+![TEIA Framework Metodologia](teia_metodologia.png)
+
+<details>
+<summary>Ver versão em texto (ASCII)</summary>
+
 ```
 ╔══════════════════════════════════════════════════════════════════════════╗
 ║                    TEIA FRAMEWORK v3.2 — METODOLOGIA                     ║
@@ -126,6 +131,8 @@
               │ novo ciclo      │
               └─────────────────┘
 ```
+
+</details>
 
 ---
 
