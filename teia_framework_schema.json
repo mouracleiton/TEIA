@@ -1,0 +1,929 @@
+{
+  "meta": {
+    "nome": "TEIA",
+    "nome_completo": "Centro de Estudos em Hacker Cultura Periférica Teia de Aranha",
+    "autor": "Cleiton Moura (@professorcinza)",
+    "versao": "v16.0",
+    "protocolo": "TEIA-2026-063",
+    "data": "2026-07-19",
+    "github": "https://github.com/mouracleiton/TEIA",
+    "matriz_total": "66 dimensões × 24 lentes = 1.584 perspectivas",
+    "skills_total": 89,
+    "niveis_profundidade": 12
+  },
+  "pet": {
+    "nome": "Protocolo de Execução TEIA",
+    "descricao": "Sistema operacional prático que transforma a matriz teórica em inteligência acionável",
+    "fases": [
+      {
+        "fase": 1,
+        "nome": "Delimitação do Fenômeno",
+        "objetivo": "Nomear o alvo e aplicar 3-5 dimensões de superfície",
+        "output": "Ficha de fenômeno com dimensões preliminares"
+      },
+      {
+        "fase": 2,
+        "nome": "Triagem Óptica",
+        "objetivo": "Escolher 2-3 lentes analíticas que rasgam o óbvio",
+        "output": "Seleção de lentes com justificativa"
+      },
+      {
+        "fase": 3,
+        "nome": "Mergulho no Abismo",
+        "objetivo": "Buscar dimensões invisíveis (níveis 3-12) que sustentam o fenômeno",
+        "output": "Mapa de dimensões profundas conectadas"
+      },
+      {
+        "fase": 4,
+        "nome": "Mapeamento de Loops",
+        "objetivo": "Conectar dimensões em cadeia causal e identificar pontos de alavanca",
+        "output": "Diagrama de loop causal (CLD) com pontos de alavanca"
+      },
+      {
+        "fase": 5,
+        "nome": "Síntese Disjuntiva",
+        "objetivo": "Diagnosticar a máquina que produz o problema e apontar nós críticos",
+        "output": "Documento TEIA protocolado com recomendação de ação"
+      }
+    ]
+  },
+  "niveis_profundidade": [
+    {
+      "nivel": 1,
+      "nome": "SUPERFÍCIE",
+      "dims": "1-6",
+      "descricao": "O que se vê"
+    },
+    {
+      "nivel": 2,
+      "nome": "PROFUNDIDADE",
+      "dims": "7-11",
+      "descricao": "O que se oculta"
+    },
+    {
+      "nivel": 3,
+      "nome": "SOMBRA",
+      "dims": "12-16",
+      "descricao": "Quase invisível"
+    },
+    {
+      "nivel": 4,
+      "nome": "ABISMO",
+      "dims": "17-21",
+      "descricao": "Totalmente invisível"
+    },
+    {
+      "nivel": 5,
+      "nome": "MICROFÍSICA",
+      "dims": "22-26",
+      "descricao": "Determina o cotidiano"
+    },
+    {
+      "nivel": 6,
+      "nome": "PSÍQUICA",
+      "dims": "27-31",
+      "descricao": "Determina o desejo e a memória"
+    },
+    {
+      "nivel": 7,
+      "nome": "SUB-BIOLÓGICA",
+      "dims": "32-36",
+      "descricao": "Controla o corpo e a engenharia social"
+    },
+    {
+      "nivel": 8,
+      "nome": "MATERIAL/BRUTA",
+      "dims": "37-41",
+      "descricao": "Controle da força e da matéria"
+    },
+    {
+      "nivel": 9,
+      "nome": "EXISTENCIAL",
+      "dims": "42-46",
+      "descricao": "Controle das fronteiras da existência"
+    },
+    {
+      "nivel": 10,
+      "nome": "TERMINAL",
+      "dims": "47-51",
+      "descricao": "Morte, segredo, velocidade, espaço, trauma"
+    },
+    {
+      "nivel": 11,
+      "nome": "CÓSMICA",
+      "dims": "52-56",
+      "descricao": "Risco, código, gene, futuro, erasão"
+    },
+    {
+      "nivel": 12,
+      "nome": "ZÊNITE",
+      "dims": "57-66",
+      "descricao": "Energia vital, realidade, bondade, subsolo, auto-vigilância, entropia, IA, sentido, dependência, rotas"
+    }
+  ],
+  "dimensoes": [
+    {
+      "id": 1,
+      "nome": "Econômica",
+      "categoria": "Dinheiro",
+      "nivel": 1,
+      "cobertura": 90
+    },
+    {
+      "id": 2,
+      "nome": "Institucional",
+      "categoria": "Regras",
+      "nivel": 1,
+      "cobertura": 60
+    },
+    {
+      "id": 3,
+      "nome": "Tecnológica",
+      "categoria": "Algoritmos",
+      "nivel": 1,
+      "cobertura": 55
+    },
+    {
+      "id": 4,
+      "nome": "Ambiental",
+      "categoria": "Natureza",
+      "nivel": 1,
+      "cobertura": 50
+    },
+    {
+      "id": 5,
+      "nome": "Social",
+      "categoria": "Classe",
+      "nivel": 1,
+      "cobertura": 25
+    },
+    {
+      "id": 6,
+      "nome": "Cultural",
+      "categoria": "Valores",
+      "nivel": 1,
+      "cobertura": 5
+    },
+    {
+      "id": 7,
+      "nome": "Midiática",
+      "categoria": "Informação",
+      "nivel": 2,
+      "cobertura": 40
+    },
+    {
+      "id": 8,
+      "nome": "Jurídica",
+      "categoria": "Força/Lei",
+      "nivel": 2,
+      "cobertura": 45
+    },
+    {
+      "id": 9,
+      "nome": "Epistêmica",
+      "categoria": "Verdade",
+      "nivel": 2,
+      "cobertura": 15
+    },
+    {
+      "id": 10,
+      "nome": "Espacial",
+      "categoria": "Território",
+      "nivel": 2,
+      "cobertura": 60
+    },
+    {
+      "id": 11,
+      "nome": "Biopolítica",
+      "categoria": "Vida",
+      "nivel": 2,
+      "cobertura": 35
+    },
+    {
+      "id": 12,
+      "nome": "Temporal",
+      "categoria": "Tempo",
+      "nivel": 3,
+      "cobertura": 30
+    },
+    {
+      "id": 13,
+      "nome": "Afetiva",
+      "categoria": "Emoções",
+      "nivel": 3,
+      "cobertura": 35
+    },
+    {
+      "id": 14,
+      "nome": "Laboral",
+      "categoria": "Trabalho",
+      "nivel": 3,
+      "cobertura": 70
+    },
+    {
+      "id": 15,
+      "nome": "Infraestrutural",
+      "categoria": "Energia/Logística",
+      "nivel": 3,
+      "cobertura": 65
+    },
+    {
+      "id": 16,
+      "nome": "Religiosa",
+      "categoria": "Fé",
+      "nivel": 3,
+      "cobertura": 40
+    },
+    {
+      "id": 17,
+      "nome": "Alimentar",
+      "categoria": "Comida",
+      "nivel": 4,
+      "cobertura": 60
+    },
+    {
+      "id": 18,
+      "nome": "Datificacional",
+      "categoria": "Dados/Identidade",
+      "nivel": 4,
+      "cobertura": 75
+    },
+    {
+      "id": 19,
+      "nome": "Estética",
+      "categoria": "Sentidos visuais",
+      "nivel": 4,
+      "cobertura": 20
+    },
+    {
+      "id": 20,
+      "nome": "Geracional",
+      "categoria": "Idade/Futuro",
+      "nivel": 4,
+      "cobertura": 50
+    },
+    {
+      "id": 21,
+      "nome": "Atencional",
+      "categoria": "Foco",
+      "nivel": 4,
+      "cobertura": 80
+    },
+    {
+      "id": 22,
+      "nome": "Linguística",
+      "categoria": "Palavras",
+      "nivel": 5,
+      "cobertura": 40
+    },
+    {
+      "id": 23,
+      "nome": "Burocrática",
+      "categoria": "Processos",
+      "nivel": 5,
+      "cobertura": 55
+    },
+    {
+      "id": 24,
+      "nome": "Mobilizadora",
+      "categoria": "Fluxo",
+      "nivel": 5,
+      "cobertura": 50
+    },
+    {
+      "id": 25,
+      "nome": "Reprodutiva",
+      "categoria": "Cuidado",
+      "nivel": 5,
+      "cobertura": 60
+    },
+    {
+      "id": 26,
+      "nome": "Mitológica",
+      "categoria": "Inconsciente",
+      "nivel": 5,
+      "cobertura": 30
+    },
+    {
+      "id": 27,
+      "nome": "Desejante",
+      "categoria": "Desejo",
+      "nivel": 6,
+      "cobertura": 40
+    },
+    {
+      "id": 28,
+      "nome": "Creditícia",
+      "categoria": "Dívida individual",
+      "nivel": 6,
+      "cobertura": 70
+    },
+    {
+      "id": 29,
+      "nome": "Lúdica",
+      "categoria": "Prazer/Ócio",
+      "nivel": 6,
+      "cobertura": 50
+    },
+    {
+      "id": 30,
+      "nome": "Arquivística",
+      "categoria": "Memória",
+      "nivel": 6,
+      "cobertura": 25
+    },
+    {
+      "id": 31,
+      "nome": "Zoopolítica",
+      "categoria": "Vida não-humana",
+      "nivel": 6,
+      "cobertura": 40
+    },
+    {
+      "id": 32,
+      "nome": "Onírica",
+      "categoria": "Sono",
+      "nivel": 7,
+      "cobertura": 30
+    },
+    {
+      "id": 33,
+      "nome": "Tributária",
+      "categoria": "Impostos",
+      "nivel": 7,
+      "cobertura": 80
+    },
+    {
+      "id": 34,
+      "nome": "Molecular",
+      "categoria": "Química corporal",
+      "nivel": 7,
+      "cobertura": 25
+    },
+    {
+      "id": 35,
+      "nome": "Pedagógica",
+      "categoria": "Educação",
+      "nivel": 7,
+      "cobertura": 45
+    },
+    {
+      "id": 36,
+      "nome": "Relacional",
+      "categoria": "Favores/Panela",
+      "nivel": 7,
+      "cobertura": 65
+    },
+    {
+      "id": 37,
+      "nome": "Militar",
+      "categoria": "Violência",
+      "nivel": 8,
+      "cobertura": 60
+    },
+    {
+      "id": 38,
+      "nome": "Hídrica",
+      "categoria": "Água",
+      "nivel": 8,
+      "cobertura": 55
+    },
+    {
+      "id": 39,
+      "nome": "Acústica",
+      "categoria": "Som/Ruído",
+      "nivel": 8,
+      "cobertura": 25
+    },
+    {
+      "id": 40,
+      "nome": "Patológica",
+      "categoria": "Doença",
+      "nivel": 8,
+      "cobertura": 45
+    },
+    {
+      "id": 41,
+      "nome": "Excremental",
+      "categoria": "Lixo/Rejeitos",
+      "nivel": 8,
+      "cobertura": 50
+    },
+    {
+      "id": 42,
+      "nome": "Métrica",
+      "categoria": "Números/Indicadores",
+      "nivel": 9,
+      "cobertura": 35
+    },
+    {
+      "id": 43,
+      "nome": "Linhagem",
+      "categoria": "Herança/Dinastias",
+      "nivel": 9,
+      "cobertura": 50
+    },
+    {
+      "id": 44,
+      "nome": "Climática",
+      "categoria": "Atmosfera/Carbono",
+      "nivel": 9,
+      "cobertura": 30
+    },
+    {
+      "id": 45,
+      "nome": "Migratória",
+      "categoria": "Fronteiras/Cidadania",
+      "nivel": 9,
+      "cobertura": 45
+    },
+    {
+      "id": 46,
+      "nome": "Sexual",
+      "categoria": "Corpos/Prazer/Moralidade",
+      "nivel": 9,
+      "cobertura": 25
+    },
+    {
+      "id": 47,
+      "nome": "Tanatopolítica",
+      "categoria": "Morte/Luto",
+      "nivel": 10,
+      "cobertura": 20
+    },
+    {
+      "id": 48,
+      "nome": "Opacitária",
+      "categoria": "Segredo/Privacidade",
+      "nivel": 10,
+      "cobertura": 65
+    },
+    {
+      "id": 49,
+      "nome": "Cinética",
+      "categoria": "Velocidade/Aceleração",
+      "nivel": 10,
+      "cobertura": 40
+    },
+    {
+      "id": 50,
+      "nome": "Orbital",
+      "categoria": "Espaço sideral",
+      "nivel": 10,
+      "cobertura": 15
+    },
+    {
+      "id": 51,
+      "nome": "Traumática",
+      "categoria": "Choque/Paralisia",
+      "nivel": 10,
+      "cobertura": 45
+    },
+    {
+      "id": 52,
+      "nome": "Atuarial",
+      "categoria": "Risco/Seguro",
+      "nivel": 11,
+      "cobertura": 40
+    },
+    {
+      "id": 53,
+      "nome": "Criptográfica",
+      "categoria": "Código oculto",
+      "nivel": 11,
+      "cobertura": 55
+    },
+    {
+      "id": 54,
+      "nome": "Genética",
+      "categoria": "Evolução/Biologia",
+      "nivel": 11,
+      "cobertura": 10
+    },
+    {
+      "id": 55,
+      "nome": "Especulativa",
+      "categoria": "Futuro/Derivativos",
+      "nivel": 11,
+      "cobertura": 60
+    },
+    {
+      "id": 56,
+      "nome": "Cancelatória",
+      "categoria": "Apagão social",
+      "nivel": 11,
+      "cobertura": 35
+    },
+    {
+      "id": 57,
+      "nome": "Metabólica",
+      "categoria": "Energia corporal/Calorias",
+      "nivel": 12,
+      "cobertura": 30
+    },
+    {
+      "id": 58,
+      "nome": "Hiperreal",
+      "categoria": "Simulação/Realidade fabricada",
+      "nivel": 12,
+      "cobertura": 45
+    },
+    {
+      "id": 59,
+      "nome": "Filantrópica",
+      "categoria": "Caridade/Bondade capturada",
+      "nivel": 12,
+      "cobertura": 50
+    },
+    {
+      "id": 60,
+      "nome": "Telúrica",
+      "categoria": "Subsolo/Geologia",
+      "nivel": 12,
+      "cobertura": 40
+    },
+    {
+      "id": 61,
+      "nome": "Panóptica",
+      "categoria": "Auto-vigilância internalizada",
+      "nivel": 12,
+      "cobertura": 75
+    },
+    {
+      "id": 62,
+      "nome": "Termodinâmica",
+      "categoria": "Calor/Entropia",
+      "nivel": 12,
+      "cobertura": 35
+    },
+    {
+      "id": 63,
+      "nome": "Autônoma",
+      "categoria": "IA/Agência autônoma",
+      "nivel": 12,
+      "cobertura": 40
+    },
+    {
+      "id": 64,
+      "nome": "Ontológica",
+      "categoria": "Sentido da vida",
+      "nivel": 12,
+      "cobertura": 25
+    },
+    {
+      "id": 65,
+      "nome": "Farmacológica",
+      "categoria": "Vício/Drogas",
+      "nivel": 12,
+      "cobertura": 45
+    },
+    {
+      "id": 66,
+      "nome": "Cartográfica",
+      "categoria": "Mapas/Rotas",
+      "nivel": 12,
+      "cobertura": 50
+    }
+  ],
+  "lentes": [
+    {
+      "id": 7,
+      "nome": "Estatística",
+      "ancora": "A verdade numérica esconde-se na variância, não na média",
+      "dim_alvo": [
+        1
+      ]
+    },
+    {
+      "id": 8,
+      "nome": "Simulação",
+      "ancora": "Sistemas complexos falham em caudas gordas",
+      "dim_alvo": [
+        5,
+        1
+      ]
+    },
+    {
+      "id": 9,
+      "nome": "Ciência Política",
+      "ancora": "Instituições são equilíbrios de poder cristalizados",
+      "dim_alvo": [
+        2
+      ]
+    },
+    {
+      "id": 10,
+      "nome": "Public Choice",
+      "ancora": "Políticos maximizam votos; burocratas maximizam orçamento",
+      "dim_alvo": [
+        2,
+        1
+      ]
+    },
+    {
+      "id": 11,
+      "nome": "Sistemas Complexos",
+      "ancora": "Causa e efeito raramente estão próximos no tempo e espaço",
+      "dim_alvo": [
+        4,
+        5
+      ]
+    },
+    {
+      "id": 12,
+      "nome": "Psicologia Cognitiva",
+      "ancora": "A mente é programada para economia de energia e aversão à perda",
+      "dim_alvo": [
+        6,
+        3
+      ]
+    },
+    {
+      "id": 13,
+      "nome": "Psicologia Social",
+      "ancora": "Obediência à autoridade supera moralidade individual",
+      "dim_alvo": [
+        2,
+        5
+      ]
+    },
+    {
+      "id": 14,
+      "nome": "Discurso",
+      "ancora": "Quem controla os frames controla o debate",
+      "dim_alvo": [
+        6
+      ]
+    },
+    {
+      "id": 15,
+      "nome": "Informação/Redes",
+      "ancora": "Informação se difunde em topologias de rede",
+      "dim_alvo": [
+        3
+      ]
+    },
+    {
+      "id": 16,
+      "nome": "Filosofia",
+      "ancora": "O poder define o que é verdadeiro e válido",
+      "dim_alvo": [
+        1,
+        5
+      ]
+    },
+    {
+      "id": 17,
+      "nome": "Geografia",
+      "ancora": "O espaço é produto e produtor de relações de poder",
+      "dim_alvo": [
+        4,
+        1
+      ]
+    },
+    {
+      "id": 18,
+      "nome": "História",
+      "ancora": "Estruturas de longa duração determinam eventos de curto prazo",
+      "dim_alvo": [
+        6,
+        2
+      ]
+    },
+    {
+      "id": 19,
+      "nome": "Sociologia",
+      "ancora": "Classes dominantes impõem habitus que naturaliza desigualdade",
+      "dim_alvo": [
+        5,
+        2
+      ]
+    },
+    {
+      "id": 20,
+      "nome": "Antropologia",
+      "ancora": "O poder se legitima através de rituais públicos",
+      "dim_alvo": [
+        2,
+        6
+      ]
+    },
+    {
+      "id": 21,
+      "nome": "EPI",
+      "ancora": "Estado atua como gerente local do capital transnacional",
+      "dim_alvo": [
+        1
+      ]
+    },
+    {
+      "id": 22,
+      "nome": "Direito",
+      "ancora": "Direito é tecnologia de poder que estrutura a economia política",
+      "dim_alvo": [
+        2
+      ]
+    },
+    {
+      "id": 23,
+      "nome": "Decolonial",
+      "ancora": "Colonialismo metamorfoseado em globalização e mercado",
+      "dim_alvo": [
+        5,
+        10,
+        9,
+        37,
+        41
+      ]
+    },
+    {
+      "id": 24,
+      "nome": "Termodinâmica/Metabólica",
+      "ancora": "Capitalismo acelera entropia global",
+      "dim_alvo": [
+        4,
+        41,
+        38,
+        17,
+        15
+      ]
+    },
+    {
+      "id": 25,
+      "nome": "Interseccional",
+      "ancora": "Opressão é multiplicadora e co-constitutiva",
+      "dim_alvo": [
+        5,
+        11,
+        40,
+        37,
+        25
+      ]
+    },
+    {
+      "id": 26,
+      "nome": "Cibernética",
+      "ancora": "Poder atua em circuitos de retroalimentação",
+      "dim_alvo": [
+        39,
+        11,
+        40,
+        37
+      ]
+    },
+    {
+      "id": 27,
+      "nome": "Ator-Rede (ANT)",
+      "ancora": "Coisas não-humanas são atores que alteram o social",
+      "dim_alvo": [
+        40,
+        38,
+        3,
+        31,
+        37
+      ]
+    },
+    {
+      "id": 28,
+      "nome": "Psicanalítica",
+      "ancora": "O sujeito pode desejar ativamente sua subjugação",
+      "dim_alvo": [
+        27,
+        13,
+        16,
+        51
+      ]
+    },
+    {
+      "id": 29,
+      "nome": "Topológica",
+      "ancora": "Desigualdades são efeitos topológicos de rede",
+      "dim_alvo": [
+        18,
+        37,
+        36,
+        2,
+        48
+      ]
+    },
+    {
+      "id": 30,
+      "nome": "Espectrológica",
+      "ancora": "Passados não enterrados assombram o presente",
+      "dim_alvo": [
+        51,
+        47,
+        30,
+        26,
+        16
+      ]
+    }
+  ],
+  "protocolo_qualidade": {
+    "total_itens": 32,
+    "categorias": [
+      {
+        "nome": "Evidência e Viés",
+        "itens": [
+          "Fact-check",
+          "Corrente de evidência",
+          "Z-score",
+          "ACH",
+          "Premissas-chave"
+        ]
+      },
+      {
+        "nome": "Modelagem",
+        "itens": [
+          "Monte Carlo",
+          "Correlação atores",
+          "Stress testing"
+        ]
+      },
+      {
+        "nome": "Fundamentação",
+        "itens": [
+          "Teoria política",
+          "Teoria sociológica",
+          "Perfil etnográfico"
+        ]
+      },
+      {
+        "nome": "Jurídico",
+        "itens": [
+          "Artigo CF",
+          "Tipo penal",
+          "Instrumento processual"
+        ]
+      },
+      {
+        "nome": "Metodológico",
+        "itens": [
+          "Matriz consistência",
+          "H0",
+          "Triangulação",
+          "Unidades análise",
+          "Contexto histórico"
+        ]
+      },
+      {
+        "nome": "Comunicação/Ética",
+        "itens": [
+          "Framing",
+          "Sistema 1/2",
+          "Presunção inocência",
+          "LGPD"
+        ]
+      },
+      {
+        "nome": "Arsenal Tático",
+        "itens": [
+          "Lente primária",
+          "Anti-padrão",
+          "Técnica avançada",
+          "Dim alvo cruzada",
+          "Lentes secundárias"
+        ]
+      },
+      {
+        "nome": "Operacional",
+        "itens": [
+          "Vetores de dados",
+          "Artefato gerado"
+        ]
+      }
+    ]
+  },
+  "dados_referencia": {
+    "juros_dpf_2024_bi": 950.4,
+    "estoque_dpf_2024_bi": 7316.0,
+    "spread_medio_pp": 28.5,
+    "selic_atual": 14.25,
+    "ipca_12m": 4.64,
+    "pib_2024_bi": 11746.0,
+    "arrecadacao_2024_bi": 3780.0,
+    "emendas_2024_bi": 28.8,
+    "custo_brasil_bi": 1700.0,
+    "lucro_itau_2024_bi": 40.23,
+    "orcamento_ibama_bi": 2.0,
+    "orcamento_saude_bi": 231.0,
+    "orcamento_educacao_bi": 208.0,
+    "orcamento_bolsa_familia_bi": 170.0,
+    "orcamento_seguranca_bi": 28.0,
+    "gasto_big_tech_bi": 10.35,
+    "populacao_carceraria": 800000,
+    "sem_saneamento_milhoes": 100,
+    "sem_agua_tratada_milhoes": 35,
+    "obitos_pm_ano": 6000,
+    "fpa_parlamentares": 321,
+    "bancada_evangelica": 200,
+    "negativados_serasa_milhoes": 63,
+    "uberizados_milhoes": 3,
+    "meis_milhoes": 14,
+    "desmatamento_prodes_2024_km2": 6288,
+    "tempo_atencao_segundos": 8,
+    "homicidios_ano": 47000,
+    "feminicidios_ano": 1800,
+    "desemprego_juvenil_pct": 25
+  }
+}
