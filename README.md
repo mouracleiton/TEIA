@@ -15,7 +15,42 @@ TEIA é uma metodologia e um repositório de inteligência analítica que:
 3. **Quantifica** estabilidade e pontos de alavanca
 4. **Entrega** documentos protocolados prontos para ação
 
-Não é manifesto. É sistema operacional político — o **SOPBRA** — com 10 dossiês executivos, metodologia de 108 dimensões × 44 lentes, e pipeline de validação dialética.
+Não é manifesto. É sistema operacional político — com metodologia de 108 dimensões × 44 lentes (4.752 perspectivas), pipeline de validação dialética, e dossiês executivos prontos para entrega a autoridades.
+
+---
+
+## Estrutura do Repositório
+
+```
+TEIA/
+├── README.md                          ← Este arquivo
+│
+├── docs/                              ← Documentação essencial
+│   ├── TEIA_METODOLOGIA_v21.0_UNIFICADA.txt
+│   ├── PROMPT_TEIA_v21.0.txt          ← PT (colar em qualquer LLM)
+│   ├── PROMPT_TEIA_v21.0_INT_EN.txt   ← EN (nation-agnostic)
+│   ├── INDICE_MESTRE_TEIA.txt
+│   ├── MANIFESTO_PROTOCOLOS.txt
+│   └── teia_metodologia_schema.json
+│
+├── 01_ANALISE/                        ← Pipeline dialético (tese → refutação → síntese)
+├── 02_MAPEAMENTO/                     ← Mapas de captura política
+├── 03_SIMULACAO/                      ← Monte Carlo + modelos preditivos
+├── 04_PLANO/                          ← Planos, problemas e soluções mapeadas
+├── 05_ACAO/                           ← Dossiês executivos (prontos para entrega)
+├── 06_TERRITORIAL/                    ← Fluxo de dinheiro público e privado
+├── 07_ACCOUNTABILITY/                 ← Mecanismos de controle
+├── 08_SINTESE_FINAL/                  ← Qualidade de vida em múltiplas dimensões
+├── 09_MULTIDIMENSIONAL/               ← As 6 dimensões do poder
+├── 10_TECNOLOGICA/                    ← Captura tecnológica e digital
+├── 11_INSTITUCIONAL/                  ← Sistema eleitoral + SOPBRA
+├── 12_AMBIENTAL/                      ← Captura do poder ambiental
+├── 13_PROJETOS/                       ← Código (API, dashboard, scraper, link analysis)
+├── 14_ELEITORAL_2026/                 ← Estratégia e debates eleitorais
+├── 15_MANUAL_TECNOLOGIA/              ← Manual Hermes Agent
+├── skills/                            ← Skills metodológicas reusáveis
+└── archive/                           ← Versões históricas (v1.0–v20.0)
+```
 
 ---
 
@@ -26,106 +61,39 @@ Não é manifesto. É sistema operacional político — o **SOPBRA** — com 10 
 15 níveis de profundidade (do visível ao absoluto)
 ```
 
-**Níveis 1-12** (originais): Econômica, Institucional, Tecnológica, Ambiental, Social, Cultural, Midiática, Jurídica, Epistêmica, Espacial, Biopolítica... até Zênite (57-66).
-
-**Níveis 13-15** (expansão v21.0): Cibernética/Informação (67-75), Neuro/Cognitiva (76-84), Complexidade/Sistêmica Avançada (85-108).
-
-**Lentes 1-24** (originais): Decolonial, Marxista, Foucaultiana, Interseccional, Ecológica, Termodinâmica, Digital, Histórica, Jurídica, Econômica, Espacial, Temporal, Midiológica, Religiosa, Estética, Pedagógica, Afetiva, Lúdica, Atuarial, Arquitetônica, Alimentar, Linguística, Ontológica, Cartográfica.
-
-**Lentes 25-32** (geoestratégicas v20.0): Imperial, Dependência Estrutural, Guerra Híbrida, Soberania Tecnológica, Direito Seletivo, Migratória, Alimentar/Energético, Financeira/Monetária.
-
-**Lentes 33-44** (expansão v21.0): Cibernética, Neurociência, Complexidade, Semiótica, Epistemologia Social, Ecologia Profunda, Queer, Aceleracionismo, Jogos Evolucionários, Lacaniana, Teoria da Informação, OOO.
+| Grupo | Níveis | Dimensões | Lentes |
+|-------|--------|-----------|--------|
+| Originais (v17.0) | 1–12 | 1–66 | 1–24 |
+| Geoestratégicas (v20.0) | — | — | 25–32 |
+| Cibernética (v21.0) | 13 | 67–75 | 33 |
+| Neuro/Cognitiva (v21.0) | 14 | 76–84 | 34 |
+| Complexidade (v21.0) | 15 | 85–108 | 35–44 |
 
 ---
 
 ## Pipeline de Execução (PET)
 
 ```
-FENÔMENO → PET → DOCUMENTO TEIA PROTOCOLADO
+FENÔMENO → PET (5 fases) → DOCUMENTO TEIA PROTOCOLADO
 ```
 
 **FASE 1** — Delimitação (nomear com precisão cirúrgica)
-**FASE 2** — Triagem Óptica (2-3 lentes que rasgam o óbvio)
-**FASE 3** — Mergulho no Abismo (níveis 3-15, cruzamentos surpreendentes)
+**FASE 2** — Triagem Óptica (2–3 lentes que rasgam o óbvio)
+**FASE 3** — Mergulho no Abismo (níveis 3–15, cruzamentos surpreendentes)
 **FASE 4** — Mapear loops causais + ponto de alavanca
-**FASE 5** — Síntese disjuntiva (diagnóstico da máquina + nós críticos + reforma executável)
+**FASE 5** — Síntese disjuntiva (diagnóstico da máquina + nós críticos + reforma)
 
-**Pipeline Dialético** (gate obrigatório):
-1. Tese
-2. Fact-check (fontes primárias)
-3. Refutação (hostil, advogado do sistema)
-4. Contra-refutação
-5. Síntese (só sobrevive o que passa pelo fogo)
+**Pipeline Dialético** (gate obrigatório): Tese → Fact-check → Refutação hostil → Contra-refutação → Síntese
 
 ---
 
-## SOPBRA — Mapeamento de Atores
+## Os 16 Problemas Endêmicos
 
-**Tipologia doméstica**: Vulnerável / Pragmático / Ideológico / Irremovível
-
-**Tipologia transnacional**: Hegemônico / Vassalo / Parceiro Estratégico / Estado Pária / Ator Descentralizado
-
-**Scores de veto** (0-10): PRG, VJU, VEL, VFI, POD, IDE, MUD, ALI
-
-**Coalition Builder**: 5 camadas (Núcleo → Fiéis → Pragmáticos → Neutros → Oportunistas)
-
-**Threat Model**: 8 ameaças + contramedidas
-
----
-
-## Estrutura do Repositório
-
-```
-TEIA/
-├── README.md                          ← Este arquivo
-├── INDICE_MESTRE_TEIA.txt             ← Índice completo (98 arquivos)
-│
-├── docs/                              ← Documentação essencial
-│   ├── METODOLOGIA_v21.0_UNIFICADA.txt
-│   ├── PROMPT_v21.0.txt               ← PT (colar em LLM)
-│   └── PROMPT_v21.0_INT_EN.txt        ← EN (nation-agnostic)
-│
-├── action/                            ← Dossiês executivos (prontos para entrega)
-│   ├── TEIA-013_Dossiê_Haddad.txt
-│   ├── TEIA-015_ADPF_854.txt
-│   ├── TEIA-067_Dossiê_SUS.txt
-│   ├── TEIA-086_Spread_Bancário.txt
-│   ├── TEIA-087_Custo_Brasil.txt
-│   ├── TEIA-088_Conformidade_Tributária.txt
-│   ├── TEIA-089_Concentração_Bancária.txt
-│   ├── TEIA-090_Desinformação.txt
-│   ├── TEIA-091_Encarceramento.txt
-│   ├── TEIA-092_Fome.txt
-│   ├── TEIA-093_Saneamento.txt
-│   ├── TEIA-094_Negativados.txt
-│   └── TEIA-095_PEC_Blindagem.txt
-│
-├── archive/                           ← Versões históricas (v1.0-v20.0)
-│
-├── 01_ANALISE/                        ← Sínteses e refutações
-├── 02_MAPEAMENTO/                     ← Mapas de captura
-├── 03_SIMULACAO/                      ← Modelos e Monte Carlo
-├── 04_PLANO/                          ← Plano de execução
-├── 05_ACAO/                           ← Dossiês (fonte dos action/)
-├── 06_TERRITORIAL/                    ← Fluxo de dinheiro
-├── 07_ACCOUNTABILITY/                 ← Mecanismos de controle
-├── 08_SINTESE_FINAL/                  ← Qualidade de vida
-├── 09_MULTIDIMENSIONAL/               ← 6 dimensões do poder
-├── 10_TECNOLOGICA/                    ← Captura digital
-├── 11_INSTITUCIONAL/                  ← Sistema eleitoral
-├── 12_AMBIENTAL/                      ← Captura ambiental
-├── 13_PROJETOS/                       ← Código e requisitos
-├── 14_ELEITORAL_2026/                 ← Estratégia eleitoral
-└── 15_MANUAL_TECNOLOGIA/              ← Manual Hermes Agent
-```
-
----
-
-## Os 16 Problemas Endêmicos (cobertura completa)
+Cada problema tem dossiê técnico próprio em `05_ACAO/`:
 
 **Frente Econômica** (libertar o dinheiro):
 - P1 Juros da dívida (R$ 950 bi/ano) → TEIA-013
-- P2 Spread bancário (28-30 p.p.) → TEIA-086
+- P2 Spread bancário (28–30 p.p.) → TEIA-086
 - P3 Custo Brasil (R$ 1,7 tri/ano) → TEIA-087
 - P4 Conformidade tributária (1.501 h/ano) → TEIA-088
 - P5 Concentração bancária (top-4 = 57,9%) → TEIA-089
@@ -147,40 +115,25 @@ TEIA/
 
 ---
 
-## Protocolo de Qualidade (32 itens)
+## SOPBRA — Mapeamento de Atores
 
-Toda análise TEIA passa por checklist obrigatório:
+**Tipologia doméstica**: Vulnerável / Pragmático / Ideológico / Irremovível
 
-**Fundamentação (1-8)**: Fenômeno nomeado com precisão? Dimensões aplicadas? Lentes aplicadas? Mergulho executado? Anti-padrão identificado? Fontes primárias? Cruzamentos surpreendentes? Pipeline Dialético completo?
+**Tipologia transnacional**: Hegemônico / Vassalo / Parceiro Estratégico / Estado Pária / Ator Descentralizado
 
-**Mapeamento (9-16)**: Loop causal desenhado? Loops de reforço/balanceamento? Ponto de alavanca? Atores mapeados com scores? Tipologia aplicada? Coalizão construída? Threat model? Ator-alvo definido?
+**Scores de veto** (0–10): PRG, VJU, VEL, VFI, POD, IDE, MUD, ALI
 
-**Validação (17-24)**: Refutação hostil? Tese sobreviveu? Dados quantitativos? Cenários testados? Fontes primárias? Viés reconhecido? Limitações explicitadas? Incerteza quantificada?
-
-**Execução (25-32)**: Diagnóstico da máquina? Nós críticos identificados? Reforma executável? Ataca nó crítico? Custo político estimado? Risco de captura antecipado? Formato definido? Protocolo atribuído?
-
-Se qualquer item falhar, o documento NÃO está pronto.
+**Coalition Builder**: 5 camadas (Núcleo → Fiéis → Pragmáticos → Neutros → Oportunistas)
 
 ---
 
 ## Como usar
 
-**Como analista**:
-1. Pegue um fenômeno
-2. Execute PET (5 fases)
-3. Passe pelo Pipeline Dialético
-4. Valide com checklist 32 itens
-5. Protocole como TEIA-AAAA-NNN
+**Como analista**: Pegue um fenômeno → execute PET (5 fases) → valide com checklist 32 itens → protocole como TEIA-AAAA-NNN
 
-**Como LLM**:
-1. Cole `docs/PROMPT_v21.0.txt` (PT) ou `docs/PROMPT_v21.0_INT_EN.txt` (EN) como system prompt
-2. Forneça o fenômeno
-3. Receba documento TEIA protocolado
+**Como LLM**: Cole `docs/PROMPT_TEIA_v21.0.txt` (PT) ou `docs/PROMPT_TEIA_v21.0_INT_EN.txt` (EN) como system prompt → forneça o fenômeno → receba documento protocolado
 
-**Como executor**:
-1. Pegue dossiê em `action/`
-2. Entregue ao órgão competente
-3. Acompanhe execução
+**Como executor**: Pegue dossiê em `05_ACAO/` → entregue ao órgão competente → acompanhe
 
 ---
 
@@ -195,14 +148,12 @@ Se qualquer item falhar, o documento NÃO está pronto.
 7. Sempre priorize pontos de alavanca sobre reformas cosméticas.
 8. Se a análise não gerar ação executável, ela falhou.
 9. O ciclo nunca fecha: toda reforma gera novo fenômeno.
-10. "Segurança nacional", "inclusão financeira", "sustentabilidade" são eufemismos. Sempre questionar.
+10. "Segurança nacional", "inclusão financeira", "sustentabilidade" = eufemismos. Sempre questionar.
 
 ---
 
 ## O dinheiro da reforma virá do trabalho.
 
----
-
 **Repositório**: https://github.com/mouracleiton/TEIA
-**Última atualização**: 20/Julho/2026
-**Versão**: v21.0 (108×44 = 4.752 perspectivas)
+**Versão atual**: v21.0 (108×44 = 4.752 perspectivas)
+**Atualizado em**: Julho/2026

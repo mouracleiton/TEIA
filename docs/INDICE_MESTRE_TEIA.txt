@@ -1,0 +1,71 @@
+================================================================================
+TEIA — ÍNDICE-MESTRE DO PROJETO
+================================================================================
+Atualizado em: 20/Julho/2026
+Repositório: https://github.com/mouracleiton/TEIA
+Versão: v21.0 (108 dim x 44 lentes = 4.752 perspectivas)
+================================================================================
+
+TOTAL: 110 arquivos | 40,670 linhas | 1998 KB
+
+================================================================================
+DOCUMENTAÇÃO ESSENCIAL (docs/)
+================================================================================
+
+  docs/INDICE_MESTRE_TEIA.txt                             147 lin    6.5K
+  docs/MANIFESTO_PROTOCOLOS.txt                           307 lin   24.6K
+  docs/PROMPT_TEIA_v21.0.txt                              586 lin   27.6K
+  docs/PROMPT_TEIA_v21.0_INT_EN.txt                       591 lin   27.1K
+  docs/TEIA_METODOLOGIA_v21.0_UNIFICADA.txt               654 lin   31.5K
+  docs/teia_metodologia.png                              1474 lin  367.5K
+  docs/teia_metodologia_schema.json                       928 lin   18.9K
+
+================================================================================
+DOSSIÊS EXECUTIVOS (05_ACAO/) — 16 PROBLEMAS COBERTOS
+================================================================================
+
+  TEIA-#013  TEIA-2026-013_v1.0_DOSSIE_TECNICO_HADDAD.txt             944 lin
+  TEIA-#014  TEIA-2026-014_v1.0_peticao_cnj_serp.txt                  455 lin
+  TEIA-#015  TEIA-2026-015_v1.0_amicus_curiae_adpf_854.txt            499 lin
+  TEIA-#016  TEIA-2026-016_v1.0_REPRESENTACAO_PGR_CONFLITO_INTERESSE_PARLAMENTAR.txt  731 lin
+  TEIA-#017  TEIA-2026-017_v1.0_dossie_banco_master_correlacoes_temporais.txt  638 lin
+  TEIA-#018  TEIA-2026-018_v1.0_ROTEIRO_DOCUMENTARIO_PRECO_SELIC.txt  549 lin
+  TEIA-#019  TEIA-2026-019_v1.0_contas_publicas_lote1_roteiros.txt    667 lin
+  TEIA-#020  TEIA-2026-020_v1.0_gestao-nao-gasto-planejamento-temporada1.txt  646 lin
+  TEIA-#021  TEIA-2026-021_v1.0_TEIA_Estatuto_Social.txt              687 lin
+  TEIA-      TEIA-2026-037_v1.0_TIKTOK_BIG_TECH_10_BI.txt              66 lin
+  TEIA-#067  TEIA-2026-067_v1.0_DOSSIE_SUS_MIN_SAUDE.txt              563 lin
+  TEIA-#086  TEIA-2026-086_v1.0_DOSSIE_SPREAD_BANCARIO_BCB.txt        186 lin
+  TEIA-#087  TEIA-2026-087_v1.0_DOSSIE_CUSTO_BRASIL_MDIC.txt          188 lin
+  TEIA-#088  TEIA-2026-088_v1.0_DOSSIE_CONFORMIDADE_TRIBUTARIA_RFB.txt  188 lin
+  TEIA-#089  TEIA-2026-089_v1.0_DOSSIE_CONCENTRACAO_BANCARIA_CADE.txt  187 lin
+  TEIA-#090  TEIA-2026-090_v1.0_DOSSIE_DESINFORMACAO_TSE.txt          261 lin
+  TEIA-#091  TEIA-2026-091_v1.0_DOSSIE_ENCARCERAMENTO_MJ.txt          266 lin
+  TEIA-#092  TEIA-2026-092_v1.0_DOSSIE_FOME_MDS.txt                   497 lin
+  TEIA-#093  TEIA-2026-093_v1.0_DOSSIE_SANEAMENTO_MMA.txt             185 lin
+  TEIA-#094  TEIA-2026-094_v1.0_DOSSIE_NEGATIVADOS_ANPD.txt           181 lin
+  TEIA-#095  TEIA-2026-095_v1.0_DOSSIE_PEC_BLINDAGEM_STF.txt          178 lin
+
+================================================================================
+DIRETÓRIOS POR CATEGORIA
+================================================================================
+
+  01_ANALISE/  (6 arquivos)
+  02_MAPEAMENTO/  (7 arquivos)
+  03_SIMULACAO/  (2 arquivos)
+  04_PLANO/  (6 arquivos)
+  05_ACAO/  (21 arquivos)
+  06_TERRITORIAL/  (4 arquivos)
+  07_ACCOUNTABILITY/  (1 arquivos)
+  08_SINTESE_FINAL/  (1 arquivos)
+  09_MULTIDIMENSIONAL/  (1 arquivos)
+  10_TECNOLOGICA/  (2 arquivos)
+  11_INSTITUCIONAL/  (4 arquivos)
+  12_AMBIENTAL/  (1 arquivos)
+  13_PROJETOS/  (3 arquivos)
+  14_ELEITORAL_2026/  (9 arquivos)
+  15_MANUAL_TECNOLOGIA/  (1 arquivos)
+
+================================================================================
+O dinheiro da reforma virá do trabalho.
+================================================================================
