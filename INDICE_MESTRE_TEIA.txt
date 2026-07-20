@@ -1,0 +1,147 @@
+================================================================================
+TEIA — ÍNDICE-MESTRE DO PROJETO
+================================================================================
+Atualizado em: 20/Julho/2026
+Total: 98 arquivos | 50.281 linhas | 2,5 MB de análise política
+Repositório: https://github.com/mouracleiton/TEIA
+================================================================================
+
+COMO NAVEGAR NO PROJETO TEIA
+
+O TEIA é um sistema integral de investigação político-econômica.
+Este índice organiza todos os documentos por função e numeração.
+
+
+================================================================================
+1. METODOLOGIA E PROMPTS DE SISTEMA
+================================================================================
+
+Documentos fundacionais — a "teoria" e o "sistema operacional" da TEIA.
+
+METODOLOGIA:
+  TEIA_METODOLOGIA_v17.0.txt                    — Versão nacional original
+  TEIA_METODOLOGIA_v20.0_GLOBAL.txt             — Versão transnacional (+8 lentes)
+  TEIA_METODOLOGIA_v20.0_EXPANSAO_DIMENSOES_LENTES.txt — Expansão cognitiva
+  TEIA_METODOLOGIA_v21.0_UNIFICADA.txt           — SISTEMA INTEGRAL (atual)
+
+PROMPTS DE SISTEMA (colar em qualquer LLM):
+  PROMPT_TEIA_v17.0.txt                          — PT, nacional (66×24=1.584)
+  PROMPT_TEIA_v17.0_INT_EN.txt                   — EN, internacional
+  PROMPT_TEIA_v20.0_GLOBAL.txt                   — PT, global (66×32=2.112)
+  PROMPT_TEIA_v21.0.txt                          — PT, unificada (108×44=4.752)
+  PROMPT_TEIA_v21.0_INT_EN.txt                   — EN, internacional v21
+
+FRAMEWORKS HISTÓRICOS (v1.0-v16.0):
+  TEIA_FRAMEWORK_v1.0.txt até TEIA_FRAMEWORK_v16.0_ZENITE_ABSOLUTO.txt
+  16 versões iterativas até atingir a matriz 66×24.
+
+
+================================================================================
+2. OS 16 PROBLEMAS ENDÊMICOS E SEUS DOSSIÊS
+================================================================================
+
+Catálogo completo de diagnóstico + ação para cada problema estrutural do Brasil.
+
+DOCUMENTOS DE MAPEAMENTO:
+  PROBLEMAS_ENDEMICOS_BRASIL_PRIORIZACAO.txt     — Ranking popular × TEIA
+  APLICACAO_METODOLOGIA_16_PROBLEMAS.txt          — PET aplicado aos 16
+  MAPA_SOLUCOES_16_PROBLEMAS_SWARM.txt            — 24 soluções + 3 frentes
+
+DOSSIÊS TÉCNICOS POR PROBLEMA:
+  P1  Juros da dívida      TEIA-013 (Dossiê Haddad)
+  P2  Spread bancário      TEIA-086 (BCB/CMN)
+  P3  Custo Brasil          TEIA-087 (MDIC)
+  P4  Tributário            TEIA-088 (RFB)
+  P5  Concentração banc.   TEIA-089 (CADE)
+  P6  Orçamento secreto    TEIA-015 (ADPF 854)
+  P7  Captura Congresso    TEIA-016 + 017 (Master)
+  P8  SUS                   TEIA-067 (Min. Saúde)
+  P9  Desmatamento         TEIA-036 (Ambiental)
+  P10 Big Tech              TEIA-034 + 037 + 040
+  P11 Desinformação        TEIA-090 (TSE)
+  P12 Encarceramento       TEIA-091 (MJ)
+  P13 Fome                  TEIA-092 (MDS)
+  P14 Saneamento            TEIA-093 (MMA)
+  P15 Negativados           TEIA-094 (ANPD)
+  P16 PEC Blindagem         TEIA-095 (STF)
+
+
+================================================================================
+3. DIRETÓRIOS POR CATEGORIA
+================================================================================
+
+01_ANALISE/          Sínteses e refutações (TEIA-001 a 029)
+02_MAPEAMENTO/       Mapas de captura política (TEIA-005 a 069)
+03_SIMULACAO/        Modelos e simulações (TEIA-010, 011)
+04_PLANO/            Plano de execução SMART (TEIA-012)
+05_ACAO/             Dossiês executivos (TEIA-013 a 095) ← OS DOSSIÊS
+06_TERRITORIAL/      Análise territorial do dinheiro (TEIA-022 a 025)
+07_ACCOUNTABILITY/   Comportamento do gestor público (TEIA-026)
+08_SINTESE_FINAL/    Qualidade de vida dimensional (TEIA-027)
+09_MULTIDIMENSIONAL/ 6 dimensões do poder (TEIA-033)
+10_TECNOLOGICA/      Captura tecnológica digital (TEIA-034, 040)
+11_INSTITUCIONAL/    Sistema eleitoral e captura (TEIA-035)
+12_AMBIENTAL/        Captura do poder ambiental (TEIA-036)
+13_PROJETOS/         Código e requisitos
+14_ELEITORAL_2026/   Estratégia eleitoral + debates (TEIA-072 a 083)
+15_MANUAL_TECNOLOGIA/ Manual Hermes Agent (TEIA-084)
+
+
+================================================================================
+4. DOCUMENTOS CHAVE DE AÇÃO (05_ACAO/)
+================================================================================
+
+Os documentos prontos para entrega a autoridades:
+
+DOSSIÊS ENTREGÁVEIS:
+  TEIA-013  Dossiê Técnico Haddad (juros da dívida)
+  TEIA-014  Petição CNJ (SERP — cartórios)
+  TEIA-015  Amicus Curiae ADPF 854 (orçamento secreto)
+  TEIA-016  Representação PGR (conflitos de interesse)
+  TEIA-017  Dossiê Banco Master (correlações temporais)
+  TEIA-067  Dossiê SUS (5 propostas R$ 0)
+  TEIA-086  Spread bancário (BCB)
+  TEIA-087  Custo Brasil (MDIC)
+  TEIA-088  Conformidade tributária (RFB)
+  TEIA-089  Concentração bancária (CADE)
+  TEIA-090  Desinformação (TSE)
+  TEIA-091  Encarceramento (MJ)
+  TEIA-092  Fome (MDS)
+  TEIA-093  Saneamento (MMA)
+  TEIA-094  Negativados (ANPD)
+  TEIA-095  PEC Blindagem (STF)
+
+
+================================================================================
+5. SISTEMAS OPERACIONAIS
+================================================================================
+
+SOPBRA — Sistema Operacional Político Brasileiro:
+  SOPBRA_v0.1_arquitetura.txt                   — Arquitetura
+  SOPBRA_v0.2_sistema_funcional.txt              — Sistema funcional
+  SOPBRA_v0.3_cooptacao_contribuidores.txt       — Módulo de cooptação
+
+ESTRATÉGIA ELEITORAL 2026:
+  ESTRATEGIA_ELEITORAL_2026.txt                  — O ano da visibilidade
+  TEIA-082  Índice-mestre swarm de campanhas
+  TEIA-083  Plano de governo Lula mestre
+
+
+================================================================================
+6. ESTATÍSTICAS DO PROJETO
+================================================================================
+
+  98 arquivos de texto
+  50.281 linhas de análise
+  2,5 MB de conteúdo
+  95 protocolos TEIA-2026-NNN numerados
+  16 problemas endêmicos cobertos com dossiê próprio
+  3 frentes de ação (Econômica, Política, Social)
+  24 soluções mapeadas
+  15 versões de framework iterativo (v1.0-v16.0)
+  3 versões de metodologia (v17.0 nacional, v20.0 global, v21.0 unificada)
+  Matriz analítica atual: 108 dimensões × 44 lentes = 4.752 perspectivas
+
+================================================================================
+O dinheiro da reforma virá do trabalho.
+================================================================================
