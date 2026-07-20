@@ -1,10 +1,19 @@
 ================================================================================
 PROTOCOLO TEIA: TEIA-2026-067
-VERSÃO: v1.0
+VERSÃO: v2.0 (atualizada 20/07/2026 com dados 2025-2026)
 CATEGORIA: 05_ACAO
 TÍTULO: Dossiê Técnico — SUS vs Juros da Dívida (Ministério da Saúde)
 STATUS: PROTOCOLO_PENDENTE — Entregar ao Min. da Saúde
-DATA: 19/07/2026
+DATA: 19/07/2026 (v1.0) | ATUALIZAÇÃO: 20/07/2026 (v2.0)
+
+NOTA DE ATUALIZAÇÃO v2.0 (20/07/2026):
+- Juros 2025 consolidados: R$ 1.062,6 bi (8,34% PIB) — vs R$ 950,4 bi (2024)
+- DPF dez/2025: R$ 8,635 tri (+18% vs R$ 7,316 tri em 2024)
+- LOA 2026 Saúde: R$ 271,3 bi — vs R$ 245 bi (2025) (+11%)
+- Selic jul/2026: 14,25% a.a. (em queda desde pico de 15% em 2025)
+- Déficit nominal 2025: R$ 1,06 tri (8,34% PIB)
+- NOVA RAZÃO JUROS/SUS: R$ 1,06 tri / R$ 271 bi = 3,91x (era 4,10x em 2024)
+- Fontes: Banco Central (Est. Fiscais jan/2026), Tesouro Nacional, Senado
 AUTOR: Cleiton Moura (@professorcinza) — TEIA
 TAMANHO: 30,810 bytes (30.1 KB)
 HASH MD5: 98992edc79f6e3e4c1794494d73359bc
@@ -29,22 +38,25 @@ ESTRITA CONFORMIDADE: EC 126/2022 (arcabouço fiscal), LC 141/2012, Lei 9.279/96
 --------------------------------------------------------------------------------
 
 (a) DIAGNÓSTICO-CENTRAL
-Em 2024, o setor público consolidado brasileiro desembolsou R$ 950,4 bilhões em
-juros nominais da dívida pública (fonte: Tesouro Nacional / Bacen) – equivalente
-a 8,05% do PIB. No mesmo ano, o Ministério da Saúde empenhou R$ 231,9 bilhões
-(Relatório Anual de Gestão do SUS 2024) e a LOA 2025 autorizou R$ 245 bilhões.
+EM 2025, o setor público consolidado brasileiro desembolsou R$ 1.062,6 BILHÕES
+em juros nominais da dívida pública (fonte: Banco Central, Estatísticas Fiscais
+jan/2026) — recorde histórico, equivalente a 8,34% do PIB. Em 2024 foram
+R$ 950,4 bi (8,05% PIB). A LOA 2026 autorizou R$ 271,3 bilhões para a função
+saúde (vs R$ 245 bi em 2025; R$ 231,9 bi empenhados em 2024).
 A relação é inequívoca:
 
-    CADA R$ 1,00 INVESTIDO NO SUS CORRESPONDE A R$ 4,10 PAGOS EM JUROS DA DÍVIDA.
+    CADA R$ 1,00 INVESTIDO NO SUS CORRESPONDE A R$ 3,91 PAGOS EM JUROS DA DÍVIDA.
     EM OUTRAS PALAVRAS: O BRASIL PAGA EM JUROS, A CADA ANO, O EQUIVALENTE A
-    QUATRO ORÇAMENTOS INTEIROS DO MINISTÉRIO DA SAÚDE.
+    QUASE QUATRO ORÇAMENTOS INTEIROS DO MINISTÉRIO DA SAÚDE.
 
-A dívida pública federal saltou de R$ 6,52 trilhões (2023) para R$ 7,316 trilhões
-(2024) e R$ 8,6 trilhões (2025), sob o efeito de uma taxa Selic mantida em 15% a.a.
+A dívida pública federal saltou de R$ 6,52 tri (2023) → R$ 7,316 tri (2024) →
+R$ 8,635 TRI (dez/2025), projeção R$ 9,2–10,3 tri para 2026 (PAF/Tesouro).
+A taxa Selic, que esteve em 15% a.a. durante 2025 (maior nível em quase 20 anos),
+foi reduzida para 14,25% em julho/2026 (Copom, 3º corte consecutivo).
 Cada ponto percentual adicional de Selic eleva o serviço da dívida em ~R$ 31,4 bi
-ao ano (fonte: Bacen/Suno, coeficiente de Sensibilidade Fiscal). A política
-monetária restritiva – concebida para conter a inflação – opera, no plano fiscal,
-como o principal dreno de recursos da saúde pública.
+ao ano (Bacen, coeficiente de Sensibilidade Fiscal). A política monetária
+restritiva – concebida para conter a inflação – opera, no plano fiscal, como o
+principal dreno de recursos da saúde pública.
 
 (b) APORTES DE RECURSO PROPOSTOS (R$ 60–80 bi/ano, sem novo tributo)
     P1 – Nota Técnica de Impacto Fiscal na Saúde (NTIFS) e Anexo de Saúde ao
@@ -93,28 +105,39 @@ como o principal dreno de recursos da saúde pública.
    – Senado Federal: sanção da LOA 2025 (Lei nº 14.918/2025).
    – CMED (Anvisa): resoluções de preços de medicamentos 2024.
 
-1.2. Estoque-fonte e fluxo-fonte
-   (i)   Dívida Pública Federal (DPF): R$ 7,316 tri (2024) → R$ 8,6 tri (2025).
-   (ii)  Juros nominais pagos em 2024: R$ 950,4 bi (8,05% do PIB).
+1.2. Estoque-fonte e fluxo-fonte (ATUALIZADO v2.0)
+   (i)   Dívida Pública Federal (DPF): R$ 7,316 tri (2024) → R$ 8,635 tri (2025).
+         Projeção PAF 2026: R$ 9,2 a 10,3 tri (Tesouro Nacional, jan/2026).
+   (ii)  Juros nominais pagos em 2025: R$ 1.062,6 bi (8,34% do PIB) — recorde.
+         Em 2024: R$ 950,4 bi (8,05% do PIB). Alta de 12% em um ano.
    (iii) Orçamento do MS empenhado em 2024: R$ 231,9 bi (execução 99,4%).
-   (iv)  LOA 2025 – função saúde: R$ 245 bi (alta de R$ 14,4 bi/+6,2% sobre 2024).
-   (v)   Piso constitucional (LC 141/2012, art. 4º; EC 86/2015): 15% da RCL.
-         Em 2024, esse piso representaria R$ 218 bi; sob arcabouço real (teto
-        Corrigido por 70% da variação da receita primária), o efetivamente
-         aplicado ficou em ~R$ 194 bi. DÉFICIT DE PISO: R$ 24 bi/ano.
-   (vi)  Selic corrente: 15,0% a.a. (Copom, dez/2024 – mantida em 2025).
+   (iv)  LOA 2025 – função saúde: R$ 245 bi. LOA 2026: R$ 271,3 bi (+11%).
+   (v)   Piso constitucional (LC 141/2012, art. 4º): 15% da RCL.
+         Em 2024, déficit de piso estimado em R$ 24 bi/ano.
+   (vi)  Selic: 15,0% a.a. (pico durante 2025). Em julho/2026: 14,25% a.a.
+         (Copom, 17/06/2026 — 3º corte consecutivo de 0,25 p.p.).
+   (vii) Déficit nominal 2025: R$ 1,06 tri (8,34% do PIB). Déficit primário:
+         R$ 55 bi (0,43% do PIB). Em 12m até mar/2026: déficit nominal sobe
+         para 9,41% do PIB (Bacen, 30/01/2026).
 
-1.3. Razão Juros/SUS
-   R$ 950,4 bi ÷ R$ 231,9 bi = 4,10
-   → Em 2024, o Brasil pagou em juros da dívida o equivalente a 4,1 orçamentos
-     completos do Ministério da Saúde.
+1.3. Razão Juros/SUS (ATUALIZADO v2.0)
+   2024: R$ 950,4 bi ÷ R$ 231,9 bi = 4,10
+   2025: R$ 1.062,6 bi ÷ R$ 245 bi (LOA) = 4,34
+   2026: R$ 1.062,6 bi (proxy) ÷ R$ 271,3 bi (LOA) = 3,91
+   → O Brasil paga em juros da dívida o equivalente a ~4 orçamentos completos
+     do Ministério da Saúde. A LOA 2026 reduziu ligeiramente a razão pelo
+     aumento do orçamento da saúde, mas os juros seguem em trajetória de alta.
 
-1.4. Sensibilidade fiscal (Bacen)
+1.4. Sensibilidade fiscal (Bacen) — ATUALIZADO v2.0
    – Cada +1 p.p. de Selic adiciona ~R$ 31,4 bi ao serviço da dívida/ano.
    – Cada +1 p.p. de inflação (IPCA) adiciona ~R$ 11,8 bi/ano.
-   – Com ~50% da DPF atrelada à Selic, um único ciclo de alta (de 13,75% para
-     15,00% entre 2023 e 2024) gerou impacto da ordem de R$ 39,4 bi –
-     equivalente a 17% do orçamento do MS.
+   – Com ~50% da DPF atrelada à Selic, o ciclo de alta (13,75% → 15,00% em
+     2024-2025) gerou impacto da ordem de R$ 39,4 bi — 17% do orçamento do MS.
+   – A DPF cresceu R$ 1,319 tri em um único ano (2024→2025): R$ 7,316 tri →
+     R$ 8,635 tri (+18%). Composição: DPMFi = R$ 8,31 tri (96,22%); DPFe =
+     R$ 326 bi (3,78%).
+   – Dívida bruta do setor público: 78,7% do PIB em 2025 (IF projeção: 82,4%
+     em 2026).
 
 1.5. Equivalências materiais (impacto na vida concreta)
    Cada R$ 1 bi aplicado no SUS equivale a, aproximadamente:
@@ -373,13 +396,20 @@ como o principal dreno de recursos da saúde pública.
 6. PROPOSTA 5 – LICENÇA COMPULSÓRIA DE MEDICAMENTOS ESTRATÉGICOS
 --------------------------------------------------------------------------------
 
-6.1. Fundamento jurídico
+6.1. Fundamento jurídico (ATUALIZADO v2.0)
    – Lei 9.279/96 (LPI), arts. 68 a 74 (licença compulsória).
    – Lei 14.200/2021 (emergência nacional, interesse público, calamidade).
    – Acordo TRIPS (art. 31) e Declaração de Doha sobre TRIPS e Saúde
      Pública (2001) – reconhecem o direito soberano de licenciar.
    – Art. 109-A do ADCT (incluído pela EC 132/2023) e competência privativa
      da União para legislar sobre propriedade industrial.
+   – NOVIDADE 2026: PL 68/2026 (Câmara, regime de urgência aprovado 02/2026)
+     propõe licença compulsória da TIRZEPATIDA (Mounjaro/Zepbound) —
+     medicamento de interesse público. Autor: Dep. Mário Heringer.
+     Fonte: Senado (06/02/2026); Saúde Business (02/2026).
+   – Patente do DOLUTEGRAVIR (HIV) expira em 28/04/2026 — fim do monopólio.
+     ~700 mil pessoas usam dolutegravir no SUS (principal antirretroviral).
+     Fonte: De Olho nas Patentes.
 
 6.2. Casos elegíveis (não exaustivo)
    – Medicamentos antineoplásicos de alto custo (imatinibe, trastuzumabe,
@@ -432,44 +462,47 @@ como o principal dreno de recursos da saúde pública.
 7. MODELO DE IMPACTO FISCAL PROJETADO (2025–2028)
 --------------------------------------------------------------------------------
 
-CENÁRIO-BASE: Selic média 13,0% a.a.; inflação 4,5%; PIB +2,5% a.a.
-              LOA 2025 da função saúde: R$ 245 bi.
+CENÁRIO-BASE (v2.0): Selic 14,25% a.a. (jul/2026); IPCA ~4,5%; PIB +2,5% a.a.
+              LOA 2026 da função saúde: R$ 271,3 bi.
+              DPF: R$ 8,635 tri (dez/2025) → projeção R$ 9,2-10,3 tri (2026).
+              Juros 2025 consolidados: R$ 1,062,6 bi (8,34% do PIB).
 
-TABELA 1 – RECURSOS ADICIONAIS PARA SAÚDE (R$ bilhões/ano)
+TABELA 1 – RECURSOS ADICIONAIS PARA SAÚDE (R$ bilhões/ano) — v2.0
 +-------+------------------------------------+-------+--------+--------+
-| Item  | Proposta                           |  2025 |  2026  |  2027  |
+| Item  | Proposta                           |  2026 |  2027  |  2028  |
 +-------+------------------------------------+-------+--------+--------+
-|  P1   | NTIFS + Anexo de Saúde (piso)      |  10,0 |  22,0  |  28,0  |
-|  P2   | Centralização de Compras (e-CNSUS) |   6,0 |  12,0  |  15,0  |
-|  P3   | Telemedicina + IA de triagem (RAI) |   3,5 |   8,5  |  12,0  |
-|  P4   | Regulação de planos (recuperação)  |   8,0 |  18,0  |  24,0  |
-|  P5   | Licença compulsória                |   3,0 |   7,0  |  10,0  |
+|  P1   | NTIFS + Anexo de Saúde (piso)      |  15,0 |  25,0  |  32,0  |
+|  P2   | Centralização de Compras (e-CNSUS) |   8,0 |  14,0  |  18,0  |
+|  P3   | TeleMedicina + IA de triagem (RAI) |   5,0 |  10,0  |  14,0  |
+|  P4   | Regulação de planos (recuperação)  |  12,0 |  20,0  |  26,0  |
+|  P5   | Licença compulsória                |   4,0 |   8,0  |  12,0  |
 +-------+------------------------------------+-------+--------+--------+
-| TOTAL | Recursos novos/virtualizados       |  30,5 |  67,5  |  89,0  |
+| TOTAL | Recursos novos/virtualizados       |  44,0 |  77,0  | 102,0  |
++-------+------------------------------------+-------+--------+--------+
+NOTA: Valores recalibrados com LOA 2026 (R$ 271,3 bi) e Selic 14,25%.
+
+TABELA 2 – ECONOMIA INTERNA DO SUS (R$ bilhões/ano) — v2.0
++-------+------------------------------------+-------+--------+--------+
+| Item  | Fonte de Economia                  |  2026 |  2027  |  2028  |
++-------+------------------------------------+-------+--------+--------+
+|  E1   | e-CNSUS (item 3.3)                 |   8,0 |  16,0  |  20,0  |
+|  E2   | Combate à fraude em AIH/SIAFI      |   5,0 |  10,0  |  14,0  |
+|  E3   | TeleMedicina (item 4)              |   4,0 |   8,0  |  12,0  |
+|  E4   | Regulação planos (item 5)          |  10,0 |  20,0  |  26,0  |
+|  E5   | Licença compulsória (item 6)       |   4,0 |   8,0  |  12,0  |
++-------+------------------------------------+-------+--------+--------+
+| TOTAL | Economia interna                   |  31,0 |  62,0  |  84,0  |
 +-------+------------------------------------+-------+--------+--------+
 
-TABELA 2 – ECONOMIA INTERNA DO SUS (R$ bilhões/ano)
-+-------+------------------------------------+-------+--------+--------+
-| Item  | Fonte de Economia                  |  2025 |  2026  |  2027  |
-+-------+------------------------------------+-------+--------+--------+
-|  E1   | e-CNSUS (item 3.3)                 |   6,0 |  14,0  |  18,0  |
-|  E2   | Combate à fraude em AIH/SIAFI      |   4,0 |   9,0  |  12,0  |
-|  E3   | Telemedicina (item 4)              |   3,0 |   7,0  |  10,0  |
-|  E4   | Regulação planos (item 5)          |   8,0 |  18,0  |  24,0  |
-|  E5   | Licença compulsória (item 6)       |   3,0 |   7,0  |  10,0  |
-+-------+------------------------------------+-------+--------+--------+
-| TOTAL | Economia interna                   |  24,0 |  55,0  |  74,0  |
-+-------+------------------------------------+-------+--------+--------+
-
-TABELA 3 – CONSOLIDAÇÃO DO IMPACTO FISCAL LÍQUIDO NA SAÚDE
+TABELA 3 – CONSOLIDAÇÃO DO IMPACTO FISCAL LÍQUIDO NA SAÚDE — v2.0
 +--------------------------------+-------+--------+--------+
-|                                |  2025 |  2026  |  2027  |
+|                                |  2026 |  2027  |  2028  |
 +--------------------------------+-------+--------+--------+
-| Orçamento-base do MS (LOA)     | 245,0 |  258,0 |  272,0 |
-| (+) Recursos novos/virtualiz.  |  30,5 |  67,5  |  89,0  |
-| (+) Economia interna do SUS    |  24,0 |  55,0  |  74,0  |
-| (=) ORÇAMENTO EFETIVO          | 299,5 | 380,5  | 435,0  |
-| % do PIB                       | 2,27% | 2,71%  | 2,93%  |
+| Orçamento-base do MS (LOA)     | 271,3 |  285,0 |  300,0 |
+| (+) Recursos novos/virtualiz.  |  44,0 |  77,0  | 102,0  |
+| (+) Economia interna do SUS    |  31,0 |  62,0  |  84,0  |
+| (=) ORÇAMENTO EFETIVO          | 346,3 | 424,0  | 486,0  |
+| % do PIB (estimado)            | 2,45% | 2,91%  | 3,18%  |
 +--------------------------------+-------+--------+--------+
 META-ALVO RECOMENDADA PELA OMS PARA PAÍSES DA RENDA MÉDIA: 6% DO PIB.
 O BRASIL ATUALMENTE GASTA ~4,0% DO PIB EM SAÚDE PÚBLICA. AS PROPOSTAS

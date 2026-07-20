@@ -1,13 +1,25 @@
 ================================================================================
 PROTOCOLO TEIA: TEIA-2026-069
-VERSÃO: v1.0
+VERSÃO: v2.0 (atualizada 20/07/2026 com dados consolidados 2025 + parciais 2026)
 CATEGORIA: 02_MAPEAMENTO
 TÍTULO: Diagnóstico da Captura e Esgotamento do Sistema de Saúde Brasileiro
 STATUS: INTERNO — Análise de inteligência
-DATA: 19/07/2026
+DATA: 19/07/2026 (v1.0) | ATUALIZAÇÃO: 20/07/2026 (v2.0)
 AUTOR: Cleiton Moura (@professorcinza) — TEIA
-TAMANHO: 43,898 bytes (42.9 KB)
-HASH MD5: bba2365ae45e1f01580b2cea4dda217d
+TAMANHO: ~50,000 bytes (atualizado)
+================================================================================
+
+NOTA DE ATUALIZAÇÃO v2.0 (20/07/2026):
+- Juros 2025: R$ 1.062,6 bi (8,34% PIB) — vs R$ 950,4 bi em 2024
+- DPF dez/2025: R$ 8,635 tri (+18%); projeção 2026: R$ 9,2-10,3 tri
+- LOA 2026 Saúde: R$ 271,3 bi (vs R$ 245 bi em 2025)
+- Selic: 14,25% (jul/2026, em queda desde pico de 15% em 2025)
+- Razão Juros/SUS: 3,91x (2026) — era 4,11x (2024)
+- Setor de planos 2025: R$ 391,6 bi receita / R$ 24,4 bi lucro (+120% RECORDE)
+- Mercado farmacêutico 2025: R$ 238,9 bi (+10,7%)
+- EMS comprou Medley (US$ 600 mi); Eurofarma receita recorde R$ 12,5 bi
+- PL 68/2026: licença compulsória de tirzepatida (Mounjaro) em regime de urgência
+- Fontes: Bacen, Tesouro, ANS, IQVIA, Valor, Neo Feed, Senado
 ================================================================================
 
 ================================================================================
@@ -20,14 +32,14 @@ Linguagem: técnico-jornalística, denso, com NOMES, VALORES (R$) e FONTES.
 SÍNTESE EXECUTIVA
 --------------------------------------------------------------------------------
 O Sistema Único de Saúde (SUS) atende cerca de 75% da população brasileira
-(~160 milhões de pessoas) com um orçamento federal de R$ 222,9 bilhões em 2024
-(LOA) — valor que caiu para R$ 246 bilhões em 2025 (Ministério da Saúde).
+(~160 milhões de pessoas) com um orçamento federal de R$ 271,3 bilhões em 2026
+(LOA sancionada em 15/01/2026) — vs R$ 245 bi em 2025 e R$ 222,9 bi em 2024.
 A União investiu apenas R$ 12,3 bilhões em novos investimentos em saúde em 2024
 (queda de 30% frente aos R$ 17,5 bilhões de 2023), segundo o Valor Econômico.
-Enquanto isso, o setor público consolidado pagou R$ 950,4 bilhões em JUROS da
-dívida pública em 2024 (Banco Central) — recorde histórico, equivalente a 8,05%
-do PIB e aproximadamente 4,1x todo o orçamento federal da Saúde. Em 2025 os
-juros superaram R$ 1 trilhão.
+Enquanto isso, o setor público consolidado pagou R$ 1.062,6 BILHÕES em JUROS da
+dívida pública em 2025 (Banco Central, Estatísticas Fiscais jan/2026) — recorde
+histórico, equivalente a 8,34% do PIB e aproximadamente 3,91x todo o orçamento
+federal da Saúde (LOA 2026). Em 2024 foram R$ 950,4 bi (8,05% PIB).
 
 O gasto público em saúde no Brasil é de ~3,96% do PIB (2023) — abaixo da média
 OCDE de 6,1% (regime público/obrigatório) e da meta OPAS de 6% até 2027. Medido
@@ -60,16 +72,20 @@ Brazil Journal, InfoMoney, TCU.
   Ministério da Saúde tinha ~R$ 246 bilhões, mas a despesa TOTAL com saúde no
   Brasil (pública + privada) gira em torno de 9–10% do PIB.
 
-1.2 — Orçamento federal da Saúde (série recente)
+1.2 — Orçamento federal da Saúde (série recente) — ATUALIZADO v2.0
 --------------------------------------------------------------------------------
 - 2023: ~R$ 213 bilhões (ação orçamentária do Ministério da Saúde)
-- 2024 (LOA sancionada): R$ 222,9 bilhões (Valor Econômico, 27/08/2024). Deste
-  total, investimento caiu 30%: de R$ 17,5 bi (2023) para R$ 12,3 bi (2024).
-- 2025 (LOA): ~R$ 246 a 251,3 bilhões, conforme fontes do Ministério da Saúde e
-  SmartLic — dos quais ~35% destinam-se a aquisição de bens e serviços via
-  licitação.
+- 2024 (LOA sancionada): R$ 222,9 bilhões (Valor Econômico, 27/08/2024).
+  Investimento caiu 30%: de R$ 17,5 bi (2023) para R$ 12,3 bi (2024).
+- 2025 (LOA): R$ 245 bilhões (Senado Notícias, 14/04/2025).
+- 2026 (LOA sancionada 15/01/2026): R$ 271,3 BILHÕES (+11% vs 2025).
+  PLOA original previa R$ 245,6 bi; Congresso elevou para R$ 254,9 bi (acima
+  do mínimo constitucional em R$ 7,4 bi); após sanção com vetos: R$ 271,3 bi.
+  LOA 2026 total da União: R$ 6,54 tri.
 - Farmácia Popular sofreu corte de 28% no PLOA 2025: orçamento caiu para
   R$ 4,2 bilhões (UOL Economia, 12/09/2024).
+- Emendas parlamentares orçamento 2026: R$ 61 bi (R$ 49,9 bi Congresso +
+  R$ 11,1 bi Executivo). Parte significativa vai para saúde municipal.
 
 1.3 — Comparação internacional (OCDE)
 --------------------------------------------------------------------------------
@@ -82,22 +98,25 @@ Brazil Journal, InfoMoney, TCU.
 - DÉFICIT ANUAL do SUS vs padrão OCDE: estimado entre R$ 150 e R$ 200 bilhões
   por ano (estudos Fiocruz, IEPS, Abrasco).
 
-1.4 — Juros da dívida x orçamento da Saúde (o vetor central)
+1.4 — Juros da dívida x orçamento da Saúde (o vetor central) — ATUALIZADO v2.0
 --------------------------------------------------------------------------------
-- 2024: setor público consolidado pagou R$ 950,4 bilhões em juros NOMINAIS da
-  dívida (Banco Central, Estatísticas Fiscais, 31/01/2025). Recorde histórico.
-  Equivale a 8,05% do PIB.
-- Dívida Pública Federal (DPF) saltou de R$ 6,52 tri (2023) para R$ 7,316 tri
-  (2024), alta de 12,2% (Tesouro Nacional).
-- Dívida Bruta do Governo Geral (DBGG): 76,1% do PIB em 2024; 78,7% em 2025
-  sob Lula (Poder360). Em valores nominais: ~R$ 10 trilhões.
-- 2025: juros da dívida superaram R$ 1 trilhão (8,34% do PIB). Déficit nominal
-  do setor público consolidado: R$ 1,06 trilhão.
-- RELAÇÃO CHAVE: R$ 950 bilhões em juros / R$ 231 bilhões de orçamento Saúde
-  = 4,11 VEZES. Cada R$ 1 posto na Saúde corresponde a R$ 4,11 pago em juros.
-- Déficit primário de 2024: R$ 47,6 bilhões (operações abaixo da linha).
-- A política monetária (Selic em 10,75–13,75% no período) DRENA capacidade
-  fiscal para saúde. A Selic é decisão de política econômica, não fatalidade.
+- 2025: setor público consolidado pagou R$ 1.062,6 BILHÕES em juros NOMINAIS da
+  dívida (Banco Central, Estatísticas Fiscais, 30/01/2026). Recorde histórico.
+  Equivale a 8,34% do PIB. Em 2024: R$ 950,4 bi (8,05% PIB). Alta de 12%.
+- Dívida Pública Federal (DPF): R$ 6,52 tri (2023) → R$ 7,316 tri (2024) →
+  R$ 8,635 TRI (dez/2025), alta de 18% (Tesouro Nacional, 29/01/2026).
+  Projeção PAF 2026: R$ 9,2 a 10,3 tri. Composição: DPMFi R$ 8,31 tri (96,22%);
+  DPFe R$ 326 bi (3,78%).
+- Dívida Bruta do Governo Geral (DBGG): 78,7% do PIB em 2025 (~R$ 10 tri).
+  Projeção IFI: 82,4% em 2026.
+- Déficit nominal 2025: R$ 1,06 tri (8,34% do PIB). Déficit primário: R$ 55 bi
+  (0,43% PIB). Em 12m até mar/2026: déficit nominal sobe para 9,41% do PIB.
+- SELIC: esteve em 15,0% a.a. durante 2025 (maior nível em quase 20 anos).
+  Em julho/2026: 14,25% a.a. (Copom, 17/06/2026 — 3º corte consecutivo).
+- RELAÇÃO CHAVE (2026): R$ 1.062,6 bi em juros / R$ 271,3 bi LOA Saúde
+  = 3,91 VEZES. Cada R$ 1 posto na Saúde corresponde a R$ 3,91 pago em juros.
+- A política monetária DRENA capacidade fiscal para saúde. A Selic é decisão
+  de política econômica, não fatalidade.
 
 1.5 — Despesa obrigatória vs discricionária
 --------------------------------------------------------------------------------
@@ -138,13 +157,14 @@ Portal Novo Norte; Outras Palavras; Politiquei; IEPS; Fiocruz/Abrasco.
 2. PLANOS DE SAÚDE E A INDÚSTRIA DA DOENÇA
 ================================================================================
 
-2.1 — Tamanho do mercado de saúde suplementar
+2.1 — Tamanho do mercado de saúde suplementar — ATUALIZADO v2.0
 --------------------------------------------------------------------------------
-- Beneficiários em planos de assistência médica: ~52,9 milhões (março/2026,
-  Painel Saúde) — recorde histórico; 52,2 mi em dezembro/2024 (ANS).
-- Crescimento contínuo: 49 mi (2021) → 50,7 mi (2023) → 52,2 mi (2024) →
-  53 mi (2025). Tendência: classe média migrando do SUS esgotado.
-- Incluindo odontológicos: ~73 mi de beneficiários.
+- Beneficiários em planos médico-hospitalares: 53,18 milhões (pico histórico
+  dez/25, ANS). Abril/26: 52,96 milhões (-0,17%). Incluindo odontológicos: ~73 mi.
+- Crescimento: 49 mi (2021) → 50,7 mi (2023) → 52,2 mi (2024) → 53,18 mi (2025).
+- RECEITA TOTAL DO SETOR 2025: R$ 391,6 BILHÕES (ANS, 17/03/2026).
+- LUCRO LÍQUIDO DO SETOR 2025: R$ 24,4 BILHÕES (+120% — RECORDE HISTÓRICO).
+- MARGEM MÉDIA: 6,2%. SINISTRALIDADE MÉDIA: 81,7% (-2,0 p.p.).
 - Cerca de 25% da população (a parcela de maior renda) detém plano; os 75%
   restantes dependem EXCLUSIVAMENTE do SUS.
 
@@ -241,13 +261,17 @@ ConJur; O Globo 07/02/2025; Painel Saúde; MeuReajuste; LinkedIn; Valor.
 3. BIG PHARMA E MEDICAMENTOS
 ================================================================================
 
-3.1 — Tamanho do mercado farmacêutico brasileiro
+3.1 — Tamanho do mercado farmacêutico brasileiro — ATUALIZADO v2.0
 --------------------------------------------------------------------------------
-- Mercado farmacêutico BR faturou R$ 160,7 bilhões em 2024 (Instituto Viva /
-  UNIQ/IMS-like, março 2025) — crescimento nominal de ~11% sobre 2023.
-- 1º semestre 2025: R$ 138,3 bilhões (+11,5%); 5,7 bilhões de unidades.
-- Distribuidores respondem por 62% do faturamento (R$ 99,9 bi em 2024).
-- Brasil é o 6º maior mercado farmacêutico do mundo.
+- FATURAMENTO TOTAL DO SETOR 2025: R$ 238,9 BILHÕES (+10,7% vs R$ 216 bi em 2024).
+  (IQVIA: R$ 243 bi com metodologia ampliada).
+- VAREJO FARMACÊUTICO 2025: R$ 128,6 BILHÕES (+12%). Destaque: canetas
+  emagrecedoras (Mounjaro/Ozempic/Wegovy — vendas cresceram 7x no Brasil).
+- MERCADO DE GENÉRICOS 2025: R$ 23 bilhões (+13,4%), ~40% do total.
+- Laboratórios NACIONAIS dominam 72% do mercado (13 dos 20 maiores são BR).
+- Projeção IQVIA jun/26: R$ 23,6 bi no mês (+10,3% vs jun/25).
+- Brasil entre os 10 maiores mercados farmacêuticos do mundo.
+- Fontes: Jornal da Fronteira (04/2026), IQVIA, Politiza Brasil, PróGenéricos.
 
 3.2 — Maiores laboratórios (faturamento BR 2023–2024)
 --------------------------------------------------------------------------------
@@ -331,18 +355,28 @@ NACIONAIS (capital brasileiro):
   multinacionais muitas vezes optam por NÃO vender ao SUS, privilegiando
   mercado privado de maior margem.
 
-3.6 — CMED capturada?
+3.6 — CMED capturada? — ATUALIZADO v2.0
 --------------------------------------------------------------------------------
 - CMED é vinculada à ANVISA. Composição: representantes de ANVISA, ANS,
-  Ministério da Saúde, Fazenda, Casa Civil, BUT ALSO representantes da
-  INDÚSTRIA (Interfarma, Sindusfarma, Abimed, Alana) com assento no comitê.
-- Multas raras e baixas: em 2026, CMED aplicou R$ 13,5 milhões a 4
-  distribuidoras (A Crítica MS, 20/03/2026) — valor irrisório frente ao
-  mercado de R$ 160 bi/ano.
-- Crítica recorrente (ConJur, 15/06/2025): "sanções regulatórias descoladas
-  da realidade sanitária" — multas desproporcionais ao dano causado.
-- Ciclo de revisões de preços: o índice anual (IPCA + fator de produtividade)
-  sistematicamente recompõe margens — nunca comprime o lado da indústria.
+  Ministério da Saúde, Fazenda, Casa Civil + representantes da INDÚSTRIA
+  (Interfarma, Sindusfarma, Abimed, Alana) com assento no comitê.
+- REAJUSTE ANUAL 2026 (Resolução CM-CMED nº 4/2026, 31/03/2026): MENOR EM
+  20 ANOS. Nível 1: até 4,6%; Nível 2: ~3,25%; Nível 3: até 1,9%.
+  Fator X (produtividade): 2,683% (acima do ciclo anterior).
+  Reajuste médio efetivo projetado: ~2,2% (abaixo da inflação geral).
+- NOVA METODOLOGIA DE PREÇO DE ENTRADA (Resolução CM/CMED nº 3/2025, em vigor
+  a partir de abril/2026): substitui regras desde 2004.
+  AVANÇO: retirada de exigência de PATENTE para categorias de preço mais
+  elevado. Recuo: MANTÉM EUA e Japão como países de referência.
+- CRÍTICAS DO IDEC (jan/2026): "risco de aumento de preços e captura da
+  CMED pela indústria". Confidencialidade de acordos de compartilhamento
+  de riscos amplifica assimetria informacional.
+- Governo endureceu em 29/05/2026 (G1): "preço de lançamento não poderá
+  superar o menor valor cobrado em países de referência."
+- Multas raras e baixas: em 03/2026, CMED multou distribuidoras por práticas
+  anticoncorrenciais; proposta de permitir laboratórios ofertarem DIRETAMENTE
+  ao Poder Público (sem distribuidor) em licitações.
+- Fontes: ANVISA, Idec (30/01/2026), Gazeta Mercantil (26/03/2026), G1.
 
 3.7 — Relevância econômica: quê custa o SUS em medicamentos
 --------------------------------------------------------------------------------
@@ -655,13 +689,19 @@ O Globo; Ministério da Saúde (Lista Brasileira); IBGE; OPAS.
 - SUBSTITUIR taxa de fiscalização paga por operadoras por dotação orçamentária
   da União — eliminar conflito de interesse.
 
-7.4 — Quebra de patentes (vetor PROPRIEDADE INTELECTUAL)
+7.4 — Quebra de patentes (vetor PROPRIEDADE INTELECTUAL) — ATUALIZADO v2.0
 --------------------------------------------------------------------------------
 - USAR licença compulsória (art. 68 da Lei 9.279/1996) sistematicamente:
   * Para medicamentos de alto custo (>R$ 50.000/ano/paciente)
   * Para vacinas essenciais em emergência sanitária
   * Para oncologicos de alta densidade orçamentária
-- MODELO: Efavirenz (2007) reduziu custo em 70%.
+- NOVIDADE 2026: PL 68/2026 (Câmara, regime de urgência aprovado 02/2026)
+  propõe licença compulsória da TIRZEPATIDA (Mounjaro/Zepbound). Autor:
+  Dep. Mário Heringer. Vendas cresceram 7x no Brasil (Valor, 02/2026).
+- Patente do DOLUTEGRAVIR (HIV) expira em 28/04/2026 — fim do monopólio.
+  ~700 mil pessoas usam dolutegravir no SUS (principal antirretroviral).
+- MODELO: Efavirenz (2007) reduziu custo em 70%. Única licença compulsória
+  efetivamente emitida na história do Brasil.
 - NÃO depender só da ameaça — IMPLEMENTAR produção pública via Farmanguinhos
   (Fiocruz), Biomanguinhos, Butantan, FEPP (Fundação Ezequiel Dias), LAFEPE.
 - APOIAR esquema Sul-Africano/Indiano (law of public interest) — produção de
@@ -670,6 +710,7 @@ O Globo; Ministério da Saúde (Lista Brasileira); IBGE; OPAS.
   fund para vacinas).
 - DEFENDER na OMC/TRIPS o "parágrafo 6" da Doha Declaration (importação
   paralela).
+- Fontes: Senado (06/02/2026), Saúde Business (02/2026), De Olho nas Patentes.
 
 7.5 — Combate à corrupção em licitações
 --------------------------------------------------------------------------------
@@ -705,16 +746,17 @@ FONTES 7: EC 95/2016; LC 200/2023; Constituição Federal art. 153 §6º e art.
 IPEA; Conitec.
 
 ================================================================================
-CONCLUSÃO EXECUTIVA
+CONCLUSÃO EXECUTIVA — ATUALIZADA v2.0
 ================================================================================
-- O SUS tem R$ 222,9 bilhões/ano (2024) — precisa de R$ 400+ bilhões/ano para
-  atingir padrão OCDE (deficit de R$ 150–200 bi/ano).
-- O sistema concorre com R$ 950,4 bilhões em JUROS da dívida — 4,1x o
-  orçamento da Saúde. Sem política econômica que reverta isso, nenhum
-  remendo no SUS funciona.
-- A "indústria da doença" (planos, Big Pharma, equipamentos) extrai
-  R$ 200–250 bilhões/ano do sistema, com lucro líquido superior a R$ 30 bi/
-  ano entre as 5 maiores operadoras e os 10 maiores laboratórios.
+- O SUS tem R$ 271,3 bilhões/ano (LOA 2026) — precisa de R$ 400+ bilhões/ano
+  para atingir padrão OCDE (déficit de R$ 150-200 bi/ano persiste).
+- O sistema concorre com R$ 1.062,6 bilhões em JUROS da dívida (2025) — 3,91x
+  o orçamento da Saúde. A DPF cresceu 18% em 2024→2025 (R$ 7,316 tri →
+  R$ 8,635 tri). Sem política econômica que reverta isso, nenhum remendo no
+  SUS funciona.
+- A "indústria da doença" (planos, Big Pharma, equipamentos) extrai rios de
+  dinheiro: setor de planos 2025 teve R$ 391,6 bi de receita e R$ 24,4 bi de
+  lucro (+120% — RECORDE HISTÓRICO). Mercado farmacêutico 2025: R$ 238,9 bi.
 - A captura institucional (Ministério da Saúde nomeado politicamente, CONASS/
   CONASEMS como lobbies federativos, OSs gerindo hospitais públicos, PROADI-
   SUS como renúncia fiscal para "filantropia") drena capacidade regulatória.
@@ -722,6 +764,11 @@ CONCLUSÃO EXECUTIVA
   escape individual — e a prova de falência coletiva.
 - A desigualdade racial/regional é estrutural: negros morrem mais, filas
   maiores, cobertura ESF menor no Norte/Nordeste.
+- NOVIDADES 2026: PL 68/2026 (licença compulsória de Mounjaro em regime de
+  urgência); patente do dolutegravir (HIV) expira em 28/04/2026; EMS comprou
+  Medley (US$ 600 mi) consolidando liderança nacional; Eurofarma faturamento
+  recorde R$ 12,5 bi; Bradesco criou Bradsaúde (R$ 52 bi); Amil pode ser
+  vendida a Advent/Bain Capital.
 - O CAMINHO: mudança fiscal (juros → saúde), eficiência (centralização de
   compras, telemedicina), regulação forte (ANS, CMED), quebra de patentes,
   combate à corrupção em licitações e blindagem constitucional da saúde como

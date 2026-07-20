@@ -1,13 +1,24 @@
 ================================================================================
 PROTOCOLO TEIA: TEIA-2026-068
-VERSÃO: v1.0
+VERSÃO: v2.0 (atualizada 20/07/2026 com resultados anuais 2025 + 1T26)
 CATEGORIA: 02_MAPEAMENTO
 TÍTULO: Atores que Lucram com o Adoecimento — Veto Players da Saúde
 STATUS: INTERNO — Análise de inteligência
-DATA: 19/07/2026
+DATA: 19/07/2026 (v1.0) | ATUALIZAÇÃO: 20/07/2026 (v2.0)
 AUTOR: Cleiton Moura (@professorcinza) — TEIA
-TAMANHO: 35,898 bytes (35.1 KB)
-HASH MD5: a29f86fdf7d245a859405e026e38fa10
+TAMANHO: ~42,000 bytes (atualizado)
+================================================================================
+
+NOTA DE ATUALIZAÇÃO v2.0 (20/07/2026):
+- Resultados anuais 2025 consolidados (divulgados 02-03/2026)
+- Dados trimestrais 1T26 parciais
+- SETOR DE PLANOS 2025: R$ 391,6 bi receita / R$ 24,4 bi lucro (+120% RECORDE)
+- 53,18 milhões de beneficiários (pico histórico dez/25)
+- AMIL: lucro R$ 5,4 bi mas inflado por créditos tributários
+- REDE D'OR: lucro R$ 4,8 bi (maior lucro operacional real)
+- HAPVIDA: 1ª vez com base encolhendo + prejuízo contábil
+- BRADESCO criou BRADSAÚDE (R$ 52 bi receita)
+- Fontes: ANS, Valor, InfoMoney, Brazil Stock Guide, RI das empresas
 ================================================================================
 
 ================================================================================
@@ -27,95 +38,113 @@ Fontes: B3, ANS, ANVISA/CMED, TSE, Cade, valor.globo.com, oglobo.globo.com,
 OPERADORAS DE PLANOS DE SAÚDE — OS "GESTORES" DO ADOECIMENTO
 =============================================================
 
-RESUMO DO SETOR
-- Mercado de saúde suplementar brasileiro: ~50 milhões de beneficiários
-  (cerca de 25% da população); concentração altíssima — 5 grupos respondem
-  por mais de 70% dos usuários.
-- O índice anual de reajuste dos planos individuais/familiares é fixado pela
-  ANS: 6,91% em 2024 (acima da inflação geral).
-- Em planos coletivos/empresariais (sem teto da ANS), reajustes de 20% a 40%
-  ao ano são comuns e têm sido alvo de judicialização massiva.
-- 2024-2025: lucros recordes do setor; STJ e Congresso pressionam por regulação
-  mais dura (rol da ANS, negativa de cobertura, judicialização).
+RESUMO DO SETOR — ATUALIZADO v2.0 (ANS, 17/03/2026)
+- Mercado de saúde suplementar: 53,18 milhões de beneficiários (pico dez/25).
+  Abril/26: 52,96 milhões (-0,17%). Incluindo odontológicos: ~73 mi.
+- RECEITA TOTAL DO SETOR 2025: R$ 391,6 BILHÕES.
+- LUCRO LÍQUIDO DO SETOR 2025: R$ 24,4 BILHÕES (+120% — RECORDE HISTÓRICO).
+- MARGEM DE LUCRO MÉDIA: 6,2%. SINISTRALIDADE MÉDIA: 81,7% (-2,0 p.p.).
+- Concentração altíssima — 5 grupos respondem por mais de 70% dos usuários.
+- Reajuste planos individuais ANS 2024: 6,91%; ciclo maio/24-abril/25: 6,06%.
+- Em planos coletivos/empresariais (sem teto da ANS): 20% a 40% ao ano.
+- 2025 foi o ano de MAIOR LUCRO da história do setor de planos de saúde no Brasil.
+- Fontes: ANS (17/03/2026), UOL Economia, CNN Brasil, Correio Braziliense.
 
 TOP 10 OPERADORAS POR RECEITA/LUCRO (2023-2024):
 
-1) HAPVIDA NOTREDAME INTERMÉDICA (HAPV3) — MAIOR DA AMÉRICA LATINA
-   - Origem: fusão Hapvida + NotreDame Intermédica, fechada em 11/02/2022,
-     criando gigante com 13,6 milhões de beneficiários (médico+odontológico)
-     e receita combinada inicial de R$ 18,2 bilhões (fonte: Valor Econômico).
-   - Receita líquida 2023: R$ 27,4 bilhões (+10,1% vs 2022).
-   - Lucro líquido ajustado 2024: R$ 1,836 BILHÃO (+170,3% vs 2023) — recorde.
-     No critério contábil sem ajuste: R$ 270,3 milhões (revertendo prejuízo de
-     R$ 828,4 milhões em 2023). Fontes: DGABC, O Povo, Infomoney.
-   - Controladores: FAMÍLIA PINHEIRO KOREN DE LIMA — Cândido Pinheiro Koren
-     de Lima (pai, oncologista, fundador em 1979 em Fortaleza) e filhos
-     Jorge Pinheiro Koren (CEO) e Cândido Pinheiro Júnior. Em 11/2025
-     compraram 196,8 milhões de ações e elevaram participação para 41,43%
-     do capital. Fortuna familiar estimada em US$ 3,7 bilhões (Forbes 2024).
-   - Sinistralidade (despesa assistencial/receita) caiu de 74,9% (1T22) para
-     69,3% (4T23) — controle agressivo de custos.
-   - Em 2025: parceria estratégica com Grupo Oncoclínicas (câncer).
-   - Em 2026: CEO Jorge Pinheiro será substituído por Luccas Adib (vice).
+1) HAPVIDA NOTREDAME INTERMÉDICA (HAPV3) — MAIOR DA AMÉRICA LATINA [v2.0]
+   - Origem: fusão Hapvida + NotreDame Intermédica (11/02/2022).
+   - RECEITA LÍQUIDA 2025: R$ 30,8 bilhões (+6,6% vs R$ 28,9 bi em 2024).
+   - LUCRO LÍQUIDO AJUSTADO 2025: R$ 1,234 bilhão (-32,9% vs R$ 1,84 bi em 2024).
+   - LUCRO LÍQUIDO CONTÁBIL (GAAP) 2025: PREJUÍZO de R$ 237,6 milhões — INVERSÃO.
+   - EBITDA ajustado 2025: R$ 3,3 bi. Margem EBITDA 4T25: 9,0% (vs 14,2% 4T24).
+   - SINISTRALIDADE 2025 (caixa): 74,1% (piora vs 72,4% em 2024). 4T25: 75,5%.
+   - BENEFICIÁRIOS dez/25: 8,729 milhões (QUEDA de 1,6% — 1ª vez desde fusão).
+   - 1T26: lucro ajustado R$ 244 mi (-41,4%); EBITDA R$ 803 mi; sinistralidade
+     caixa 72,2% (melhora sequencial). Dívida líquida: R$ 5,165 bi (+24%).
+   - Controladores: FAMÍLIA PINHEIRO KOREN DE LIMA — participação 41,43%.
+     Fortuna familiar estimada em US$ 3,7 bi (Forbes).
+   - TICKET MÉDIO 2025: R$ 301,40 (+6,6% vs R$ 282,80 em 2024).
+   - Fontes: Valor (18/03/2026), InfoMoney, Brazil Stock Guide, Gazeta Mercantil.
 
-2) SULAMÉRICA SAÚDE (controlada pela REDE D'OR desde 2022)
-   - Em 14/12/2022 o CADE aprovou sem restrições a incorporação da SulAmérica
-     pela Rede D'Or (maior rede privada de hospitais do Brasil), criando a
-     maior integração vertical hospital-plano do país.
-   - Receita operacional líquida 3T25: R$ 8,5 bilhões (+10,8% vs 3T24).
-   - Receita líquida 2025: R$ 33,2 bilhões (consolidado do braço saúde).
-   - Lucro líquido ajustado 2025: R$ 3,8 bilhões (+65,1% vs 2024).
-   - Em 2023, SulAmérica Saude liderou ranking ANS dos planos mais lucrativos
-     com R$ 2,1 bilhões de lucro (fonte: Miriam Leitão/O Globo).
+2) SULAMÉRICA SAÚDE (controlada pela REDE D'OR desde 2022) [v2.0]
+   - RECEITA LÍQUIDA 2025: R$ 33,2 bilhões (+10,5% vs R$ 30,05 bi em 2024).
+   - SINISTRALIDADE 2025: 79,5% (-3,2 p.p. vs 82,7% em 2024 — MELHORA).
+   - BENEFICIÁRIOS 2025: 5,9 milhões (saúde+odonto). 1T26: >6 milhões.
+   - EBITDA ajustado 2025: R$ 3,8 bilhões (+75,7%).
+   - CEO: Raquel Reis. Trajetória de sinistralidade em queda consistente:
+     82,5% (1T24) → 82,1% (3T24) → 80,2% (4T24) → 79,5% (2025).
+   - 130 anos da marca em 2025.
+   - Fontes: Suno (28/02/2026), Legismap, Medicina S/A, SEGS, Terra.
 
-3) BRADESCO SAÚDE (parte da BRADESCO SEGURADORES — BBDC4)
-   - Lucro 2023 (segmento saúde): R$ 1,48 bilhão (2º maior do setor).
-   - Atuação em planos empresariais/adesão; rede de corretores própria.
-   - Controlador: Banco Bradesco (Saeb family/Cidade de Deus).
+3) BRADESCO SAÚDE / BRADSAÚDE (Banco Bradesco) [v2.0]
+   - FEV/2026: Bradesco criou BRADSAÚDE — holding que consolida ecossistema
+     integrado de saúde (operadora + hospitais + clínicas + TI).
+   - RECEITA BRADSAÚDE (consolidada 2025): R$ 52 BILHÕES — rivalizando com
+     Rede D'Or/SulAmérica como nova potência verticalizada.
+   - LUCRO LÍQUIDO BRADSAÚDE 2025: R$ 3,6 bilhões. ROE: 24%.
+   - BRADESCO SAÚDE (operadora isolada): receita R$ 41 bi; lucro R$ 3,4 bi.
+   - BENEFICIÁRIOS: 3,9 milhões. Líder histórica do segmento (>40 anos).
+   - Controlador: Banco Bradesco.
+   - Fontes: Sonho Seguro (27/02/2026), Portal do Holanda, Letsmoney.
 
-4) AMIL — José Seripieri Filho ("Júnior")
-   - Em 12/2023 o empresário JOSÉ SERIPIERI FILHO (fundador da Qualicorp e
-     Qsaúde) comprou a Amil da UnitedHealth Group (EUA) por R$ 11 BILHÕES —
-     maior aquisição por pessoa física já feita no Brasil.
-   - Lucro líquido 2024: ~R$ 700 milhões (revertendo prejuízos bilionários).
-   - Lucro líquido 2025: R$ 5,4 bilhões (turbinado por créditos tributários,
-     mas ainda assim o MAIOR entre todas as operadoras — fonte: Brazil Stock
-     Guide 03/2026).
-   - Em 2023, Amil havia sido listada entre as operadoras com MAIOR PREJUÍZO
-     durante três anos consecutivos (2020-2022) — virou o jogo sob Seripieri.
+4) AMIL — José Seripieri Filho ("Júnior") [v2.0]
+   - Comprada da UnitedHealth Group em 12/2023 por R$ 11 bilhões.
+   - LUCRO LÍQUIDO 2025: R$ 5,4 BILHÕES (+771% vs R$ 619,8 mi em 2024).
+     ⚠️ ALERTA: "Grande parte veio de CRÉDITOS TRIBUTÁRIOS e efeitos contábeis,
+     não da operação. Os números combinam avanços reais com ganhos contábeis
+     significativos." — Brazil Stock Guide (22/03/2026).
+   - SINISTRALIDADE 2025: 78,7% (MENOR do setor segundo JPMorgan; vs 103,7%
+     em 2024 — redução dramática de 25 p.p. em 1 ano).
+   - BENEFICIÁRIOS: ~5-6 milhões (+198 mil desde dez/24).
+   - DIVIDENDOS a Seripieri: R$ 588 milhões.
+   - ESTRATÉGIA: descontos de até 40% nos preços + comissões 3x maiores a
+     corretores — acirrando disputa com Hapvida e SulAmérica.
+   - ⚠️ JULHO/2026: Amil avalia VENDA da empresa ou parte aos fundos ADVENT
+     e BAIN CAPITAL. Seripieri hesita em deixar a gestão.
+   - Vínculo político: Seripieri agradeceu publicamente a Lula após compra
+     ("meu eterno inspirador"). Fontes: Brazil Stock Guide, Bloomberg Línea.
 
-5) REDE D'OR SÃO LUÍS (RDOR3) — MAIOR REDE DE HOSPITAIS DO BRASIL
-   - Não é operadora de plano propriamente, mas é o CONTROLADOR da SulAmérica
-     (e portanto do 2º maior plano de saúde) — integração vertical extrema.
-   - Receita operacional 2024: R$ 50,6 bilhões.
-   - Receita líquida 2024: R$ 51,3 bilhões (+9,3% vs 2023).
-   - Lucro líquido 2024: R$ 3,93 bilhões.
-   - Aprovou dividendos/JCP de R$ 8,12 bilhões em 2025 (R$ 2,55/ação).
-   - Controlador histórico: BTG Pactual + fundos (GIC, Carval, Bain Capital)
-     + família Aguiar (Rede D'Or original). 51 hospitais próprios (2020),
-     70+ hoje. IPO em 2020 captou R$ 11,39 bilhões (3º maior IPO da B3).
+5) REDE D'OR SÃO LUÍS (RDOR3) — MAIOR REDE DE HOSPITAIS DO BRASIL [v2.0]
+   - Controladora da SulAmérica Saúde — integração vertical hospital-plano.
+   - RECEITA BRUTA 2025: R$ 60,4 bilhões (+10,3% vs R$ 54,8 bi em 2024).
+   - LUCRO LÍQUIDO 2025: R$ 4,8 bilhões (+22,7% vs R$ 3,9 bi em 2024).
+   - EBITDA consolidado 2025: R$ 10,4 bi. Margem EBITDA: 18,5%.
+   - LEITOS: 13,5 mil. Receita anual negócio hospitalar: R$ 27 bi.
+   - 4T25: lucro R$ 1,224 bi (+39,2% a/a); EBITDA R$ 2,8 bi (+38,7%).
+   - 1T26: lucro R$ 1,2 bi; EBITDA +27,3% a/a.
+   - Receita anual negócio hospitalar: R$ 27 bilhões.
+   - Controlador: BTG Pactual + fundos (GIC, Carval, Bain Capital) + família
+     Aguiar. 70+ hospitais próprios. IPO 2020 captou R$ 11,39 bi.
+   - Fontes: Valor (25/02/2026), Money Times, Investidor10, EBC Financial.
 
-6) QUALICORP (QUAL3) — administradora de planos coletivos por adesão
-   - Lucro líquido ajustado 4T24: R$ 17,9 milhões (vs prejuízo R$ 11,2 mi 4T23).
-   - Fundada por José Seripieri (depois também dono da Amil); hoje ligada à
-     Rede D'Or via estrutura societária.
+6) QUALICORP (QUAL3) — administradora de planos coletivos por adesão [v2.0]
+   - RECEITA LÍQUIDA 2025: R$ 588,6 milhões (-13,5% vs R$ 680,5 mi em 2024).
+   - LUCRO LÍQUIDO AJUSTADO 2025: R$ 41,8 milhões (-51% vs R$ 85,3 mi em 2024).
+   - 4T25: PREJUÍZO líquido ajustado de R$ 10,5 mi. Ações despencaram ~25%.
+   - CARTEIRA ADMINISTRADA 4T25: 533,2 mil vidas (-16,6% a/a) — EM CRISE.
+   - 1T26: lucro R$ 19,2 mi (+86,6% a/a) — recuperação parcial.
+   - Reajustes de até 39,90% aplicados em 2025 (vs teto ANS de 6,06%).
+   - Leniência AGU: R$ 44 mi (março/2025).
+   - Vale ~R$ 1,55/ação (variação -27% em 12 meses).
+   - Fundada por José Seripieri (depois também dono da Amil).
+   - Fontes: InfoMoney (27/02/2026), Broadcast, DGABC, Estadão E-Investidor.
 
-7) UNIMED (Sistema Unimed — CONFEDERAÇÃO DAS COOPERATIVAS MÉDICAS)
-   - MAIOR REDE DE COOPERATIVAS MÉDICAS DO MUNDO (340 cooperativas em 2024).
-   - Em 2024: 20,9 milhões de beneficiários; 665 milhões de eventos
-     assistenciais; movimentação total de R$ 115 BILHÕES — R$ 96 bilhões
-     diretamente para médicos e prestadores.
-   - No ranking mundial World Cooperative Monitor: 31ª em faturamento com
-     US$ 14,83 bilhões.
-   - Rede própria: 167 hospitais + 36 mil serviços credenciados (maior rede
-     assistencial privada do Brasil).
-   - Seguros Unimed (braço segurador): faturamento R$ 8,5 bilhões em 2025.
-   - Crise recente: Unimed Nacional recebeu aporte bilionário das cooperativas
-     regionais em 01/2025; 63% das cooperativas tiveram resultado positivo em
-     2024 (acima da média do mercado).
-   - Estrutura: cada Unimed regional é controlada pelos médicos cooperados
-     locais (não há "dono" central; Confedereração Nacional das Unimeds
-     coordena).
+7) UNIMED (Sistema Unimed — CONFEDERAÇÃO DAS COOPERATIVAS MÉDICAS) [v2.0]
+   - MAIOR REDE DE COOPERATIVAS MÉDICAS DO MUNDO: 340 cooperativas.
+   - BENEFICIÁRIOS: 20,9 milhões. MÉDICOS COOPERADOS: 118 mil.
+   - FATURAMENTO DO SISTEMA (2024): R$ 115 bilhões — R$ 96 bi diretamente
+     para médicos e prestadores. Procedimentos (2024): 665 milhões.
+   - World Cooperative Monitor 2025: 30º no Top 300 global.
+   - Cobertura: 92% dos municípios brasileiros.
+   - 63% das cooperativas com resultado positivo (vs 51% das demais operadoras).
+   - UNIMED NACIONAL (CNU, listada): LUCRO LÍQUIDO 2025: R$ 239,3 mi (após
+     2 anos de prejuízo). Receita operacional bruta: R$ 14,1 bi (+1,9%).
+   - Seguros Unimed 2025: faturamento R$ 8,5 bi (+14,5%).
+   - JAN/2025: Unimed Nacional EVITOU INTERVENÇÃO DA ANS com aporte de
+     R$ 1 bilhão das cooperativas — fragilidade do braço nacional.
+   - Fontes: Valor (04/07/2025), CNN Brasil (28/03/2026), O Globo (19/01/2025),
+     Unimed.coop.br (Relatório de Gestão 2024).
 
 8) PORTO SEGURO SAÚDE — braço saúde da Porto Seguro (saúde empresarial)
    - Atuação em planos coletivos empresariais; nicho corporativo.
@@ -170,41 +199,44 @@ TOP 10 LABORATÓRIOS POR FATURAMENTO NO BRASIL:
 
 NACIONAIS:
 
-1) EMS / GRUPO NC — Carlos Sanchez
+1) EMS / GRUPO NC — Carlos Sanchez [v2.0]
    - Maior laboratório do Brasil (líder em genéricos).
-   - Receita líquida 2024: ~R$ 10 bilhões (fonte: EMS logo após acordo
-     Medley; 2022 estava em R$ 5,7 bi com lucro R$ 311,3 mi).
-   - Em 03/2026: EMS comprou a MEDLEY da Sanofi por ~US$ 600 milhões
-     (valor não divulgado oficialmente). Medley fatura ~R$ 1,5 bilhão/ano.
-   - Controlador: CARLOS SANCHEZ (64 anos), fortuna de R$ 8,3 bilhões
-     (Forbes). Também controla a NC Par, NC Invest, 3Z Realty (imobiliário)
-     e a NSC COMUNICAÇÃO (grupo de mídia de Santa Catarina, afiliado Globo).
-   - Recebeu financiamento de R$ 107,6 milhões do BNDES para centro de
-     inovação (2024-2025).
-   - Em 2024: fez proposta de OPA para comprar até 20% da Hypera e criar
-     "maior farmacêutica do Brasil" com faturamento combinado de R$ 15,9
-     bilhões — Conselho da Hypera rejeitou por unanimidade; Sanchez elevou
-     participação na Hypera a 6,02% do capital em 2025.
+   - RECEITA LÍQUIDA 2025 (pré-Medley): ~R$ 10 BILHÕES.
+   - RECEITA PROJETADA PÓS-MEDLEY: ~R$ 12 BILHÕES (EMS + Medley).
+   - AQUISIÇÃO MEDLEY (06/03/2026): US$ 600 milhões (~R$ 3,175 bi) — 100% da
+     Medley comprada da Sanofi. 75% capital próprio + 25% financiamento.
+     Operações mantidas INDEPENDENTES (duas marcas). Nova fábrica planejada.
+   - Medley 2025: receita R$ 1,3-1,4 bi; EBITDA ~R$ 200 mi.
+   - PARTICIPAÇÃO NA HYPERA: 6,02% do capital (2025).
+   - Controlador: CARLOS SANCHEZ (64 anos), fortuna ~R$ 8 bi (Forbes).
+     Detém ~75% da EMS. Também controla NC Par, NC Invest, 3Z Realty,
+     NSC COMUNICAÇÃO (afiliado Globo em SC).
+   - Recebeu R$ 107,6 mi do BNDES para centro de inovação (2024-2025).
+   - Fontes: Neo Feed (06/03/2026), Estadão, Valor, G1, Brazil Journal.
 
-2) HYPERA PHARMA (HYPE3)
-   - Maiores marcas: Engov, Neosaldina, Tandrilax, Benegrip.
-   - Receita líquida guidance 2024: R$ 8,6 bilhões (+9%).
-   - Lucro líquido guidance 2024: R$ 1,85 bilhão (+8,4%).
-   - EBITDA guidance 2024: R$ 3 bilhões (+13%).
-   - Lucro 2T24: R$ 491,8 milhões; lucro operações continuadas 4T24: R$ 79,5
-     milhões (-74,2% vs 4T23).
+2) HYPERA PHARMA (HYPE3) [v2.0]
+   - Marcas-chave: Engov, Neosaldina, Tandrilax, Benegrip.
+   - RECEITA LÍQUIDA 2025: R$ 7,699 BILHÕES (+3,4% vs 2024).
+   - LUCRO LÍQUIDO 2025: R$ 1,190 BILHÃO (-10,6% vs 2024).
+   - EBITDA 4T25: R$ 748,4 mi (+446,7% vs 4T24). Lucro 4T25: R$ 449,8 mi
+     (+469,7%). Recuperação forte no fim do ano.
+   - FLUXO DE CAIXA OPERACIONAL 2025: R$ 2,574 bi (RECORDE).
+   - 1T26: lucro R$ 346,8 mi (revertendo prejuízo de R$ 141,1 mi no 1T25).
+   - Investimentos 2025: R$ 1,475 bi marketing; R$ 513,6 mi P&D&I.
    - Controlador: fundos institucionais (BlackRock, Dundee, 3G Radar);
-     participação significativa da EMS/Carlos Sanchez (6,02% em 2025).
+     EMS/Carlos Sanchez detém 6,02% do capital.
+   - Fontes: DGABC (03/2026), Investidor10, Foco na Notícia Hoje.
 
-3) EUROFARMA — Maurizio Luiz Billi
-   - Receita líquida 2024: R$ 11 bilhões (+20% vs 2023).
-   - EBITDA 2024: R$ 1,9 bilhão (+6%).
-   - Investiu R$ 800 milhões em P&D em 2024.
-   - Controlador: MAURIZIO BILLI (presidente global), fortuna de US$ 3,32
-     bilhões em 2024 (17º mais rico do Brasil, 996º mundial — Forbes/Bloomberg).
-   - Em 03/2024: emitiu R$ 3 bilhões em debêntures para reestruturar dívida.
-   - Fábrica em Montes Claros (MG) — visitas de Alexandre Padilha (SRI/PR)
-     e governador Romeu Zema.
+3) EUROFARMA — Maurizio Luiz Billi [v2.0]
+   - RECEITA LÍQUIDA 2025: R$ 12,5 BILHÕES (+13,7% vs 2024 — RECORDE).
+   - EBITDA 2025: R$ 3,4 BILHÕES, margem de 27,6% (RECORDE).
+   - LUCRO BRUTO 2025: R$ 8,17 bi (+13,3%); margem bruta 65,5%.
+   - 4T25: receita ~R$ 3,5 bi (+17,5%); EBITDA R$ 954,3 mi (+17%).
+   - AQUISIÇÕES 2025: Dermage (dermocosméticos) e Ocean Drop.
+   - Investiu R$ 800 mi em P&D em 2024; mantido ritmo em 2025.
+   - Controlador: MAURIZIO BILLI, fortuna US$ 3,32 bi (Forbes/Bloomberg).
+   - Emitiu R$ 3 bi em debêntures (03/2024) para reestruturar dívida.
+   - Fontes: Panorama Farmacêutico (26/03/2026), RI Eurofarma, UOL, Valor.
 
 4) ACHÉ LABORATÓRIOS FARMACÊUTICOS
    - Fundado em 1966 (São Bernardo do Campo, SP).
