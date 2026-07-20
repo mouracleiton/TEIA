@@ -3,22 +3,29 @@ TEIA — ÍNDICE-MESTRE DO PROJETO
 ================================================================================
 Atualizado em: 20/Julho/2026
 Repositório: https://github.com/mouracleiton/TEIA
-Versão: v21.0 (108 dim x 44 lentes = 4.752 perspectivas)
+Versão: v22.0 (156 dim x 60 lentes = 9.360 perspectivas)
 ================================================================================
 
-TOTAL: 110 arquivos | 40,670 linhas | 1998 KB
+NOTA v22.0: Matriz expandida via taxonomia acadêmica/bibliotecária
+(DDC, LCC, CAPES, OECD Frascati). Dims 109-156 + Lentes 45-60.
+Canônico: docs/TEIA_METODOLOGIA_v22.0_UNIFICADA.txt
+Prompts: docs/PROMPT_TEIA_v22.0.txt | docs/PROMPT_TEIA_v22.0_INT_EN.txt
+Taxonomia: docs/TAXONOMIA_CAMPOS_ACADEMICOS_v1.0.txt (~1.237 campos nível 1-2)
+v21.0 arquivada em archive/.
 
 ================================================================================
 DOCUMENTAÇÃO ESSENCIAL (docs/)
 ================================================================================
 
-  docs/INDICE_MESTRE_TEIA.txt                             147 lin    6.5K
-  docs/MANIFESTO_PROTOCOLOS.txt                           307 lin   24.6K
-  docs/PROMPT_TEIA_v21.0.txt                              586 lin   27.6K
-  docs/PROMPT_TEIA_v21.0_INT_EN.txt                       591 lin   27.1K
-  docs/TEIA_METODOLOGIA_v21.0_UNIFICADA.txt               654 lin   31.5K
-  docs/teia_metodologia.png                              1474 lin  367.5K
-  docs/teia_metodologia_schema.json                       928 lin   18.9K
+  docs/INDICE_MESTRE_TEIA.txt                              78 lin     4.2K
+  docs/MANIFESTO_PROTOCOLOS.txt                           307 lin    24.6K
+  docs/PROMPT_TEIA_v22.0.txt                              666 lin    32.2K
+  docs/PROMPT_TEIA_v22.0_INT_EN.txt                       659 lin    30.8K
+  docs/TAXONOMIA_CAMPOS_ACADEMICOS_v1.0.txt              1321 lin    42.4K
+  docs/TEIA_METODOLOGIA_v22.0_UNIFICADA.txt               817 lin    41.6K
+  docs/teia_metodologia.png                                 0 lin   205.0K
+  docs/teia_metodologia_schema.json                      1776 lin    38.0K
+
 
 ================================================================================
 DOSSIÊS EXECUTIVOS (05_ACAO/) — 16 PROBLEMAS COBERTOS

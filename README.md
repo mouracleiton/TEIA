@@ -15,7 +15,7 @@ TEIA é uma metodologia e um repositório de inteligência analítica que:
 3. **Quantifica** estabilidade e pontos de alavanca
 4. **Entrega** documentos protocolados prontos para ação
 
-Não é manifesto. É sistema operacional político — com metodologia de 108 dimensões × 44 lentes (4.752 perspectivas), pipeline de validação dialética, e dossiês executivos prontos para entrega a autoridades.
+Não é manifesto. É sistema operacional político — com metodologia de 156 dimensões × 60 lentes (9.360 perspectivas), pipeline de validação dialética, e dossiês executivos prontos para entrega a autoridades.
 
 ---
 
@@ -26,9 +26,10 @@ TEIA/
 ├── README.md                          ← Este arquivo
 │
 ├── docs/                              ← Documentação essencial
-│   ├── TEIA_METODOLOGIA_v21.0_UNIFICADA.txt
-│   ├── PROMPT_TEIA_v21.0.txt          ← PT (colar em qualquer LLM)
-│   ├── PROMPT_TEIA_v21.0_INT_EN.txt   ← EN (nation-agnostic)
+│   ├── TEIA_METODOLOGIA_v22.0_UNIFICADA.txt
+│   ├── PROMPT_TEIA_v22.0.txt          ← PT (colar em qualquer LLM)
+│   ├── PROMPT_TEIA_v22.0_INT_EN.txt   ← EN (nation-agnostic)
+│   ├── TAXONOMIA_CAMPOS_ACADEMICOS_v1.0.txt
 │   ├── INDICE_MESTRE_TEIA.txt
 │   ├── MANIFESTO_PROTOCOLOS.txt
 │   └── teia_metodologia_schema.json
@@ -49,16 +50,16 @@ TEIA/
 ├── 14_ELEITORAL_2026/                 ← Estratégia e debates eleitorais
 ├── 15_MANUAL_TECNOLOGIA/              ← Manual Hermes Agent
 ├── skills/                            ← Skills metodológicas reusáveis
-└── archive/                           ← Versões históricas (v1.0–v20.0)
+└── archive/                           ← Versões históricas (v1.0–v21.0)
 ```
 
 ---
 
-## Matriz Analítica (v21.0)
+## Matriz Analítica (v22.0)
 
 ```
-108 dimensões × 44 lentes = 4.752 perspectivas
-15 níveis de profundidade (do visível ao absoluto)
+156 dimensões × 60 lentes = 9.360 perspectivas
+18 níveis de profundidade (do visível à metaciéncia do saber)
 ```
 
 | Grupo | Níveis | Dimensões | Lentes |
@@ -68,6 +69,11 @@ TEIA/
 | Cibernética (v21.0) | 13 | 67–75 | 33 |
 | Neuro/Cognitiva (v21.0) | 14 | 76–84 | 34 |
 | Complexidade (v21.0) | 15 | 85–108 | 35–44 |
+| Bibliotecário / Organização do Saber (v22.0) | 16 | 109–120 | 45–60 |
+| Ciências Aplicadas como Máquina (v22.0) | 17 | 121–140 | (mesmas 45–60) |
+| Fronteiras / Metaciência (v22.0) | 18 | 141–156 | (mesmas 45–60) |
+
+Fonte da expansão v22: taxonomia acadêmica (DDC, LCC, CAPES, OECD Frascati) em `docs/TAXONOMIA_CAMPOS_ACADEMICOS_v1.0.txt`.
 
 ---
 
@@ -79,7 +85,7 @@ FENÔMENO → PET (5 fases) → DOCUMENTO TEIA PROTOCOLADO
 
 **FASE 1** — Delimitação (nomear com precisão cirúrgica)
 **FASE 2** — Triagem Óptica (2–3 lentes que rasgam o óbvio)
-**FASE 3** — Mergulho no Abismo (níveis 3–15, cruzamentos surpreendentes)
+**FASE 3** — Mergulho no Abismo (níveis 3–18, cruzamentos surpreendentes)
 **FASE 4** — Mapear loops causais + ponto de alavanca
 **FASE 5** — Síntese disjuntiva (diagnóstico da máquina + nós críticos + reforma)
 
@@ -131,7 +137,7 @@ Cada problema tem dossiê técnico próprio em `05_ACAO/`:
 
 **Como analista**: Pegue um fenômeno → execute PET (5 fases) → valide com checklist 32 itens → protocole como TEIA-AAAA-NNN
 
-**Como LLM**: Cole `docs/PROMPT_TEIA_v21.0.txt` (PT) ou `docs/PROMPT_TEIA_v21.0_INT_EN.txt` (EN) como system prompt → forneça o fenômeno → receba documento protocolado
+**Como LLM**: Cole `docs/PROMPT_TEIA_v22.0.txt` (PT) ou `docs/PROMPT_TEIA_v22.0_INT_EN.txt` (EN) como system prompt → forneça o fenômeno → receba documento protocolado
 
 **Como executor**: Pegue dossiê em `05_ACAO/` → entregue ao órgão competente → acompanhe
 
@@ -155,5 +161,5 @@ Cada problema tem dossiê técnico próprio em `05_ACAO/`:
 ## O dinheiro da reforma virá do trabalho.
 
 **Repositório**: https://github.com/mouracleiton/TEIA
-**Versão atual**: v21.0 (108×44 = 4.752 perspectivas)
+**Versão atual**: v22.0 (156×60 = 9.360 perspectivas)
 **Atualizado em**: Julho/2026
