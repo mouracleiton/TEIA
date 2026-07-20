@@ -1,7 +1,7 @@
 ================================================================================
 TEIA — ÍNDICE-MESTRE DO PROJETO
 ================================================================================
-Atualizado em: 20/Julho/2026
+Atualizado em: 20/Julho/2026 (TEIA-102: amplificação Instagram)
 Repositório: https://github.com/mouracleiton/TEIA
 Versão: v22.0 (156 dim x 60 lentes = 9.360 perspectivas)
 ================================================================================
@@ -91,6 +91,7 @@ DOSSIÊS EXECUTIVOS (05_ACAO/) — 16 PROBLEMAS COBERTOS
   TEIA-#093  TEIA-2026-093_v1.0_DOSSIE_SANEAMENTO_MMA.txt             185 lin
   TEIA-#094  TEIA-2026-094_v1.0_DOSSIE_NEGATIVADOS_ANPD.txt           181 lin
   TEIA-#095  TEIA-2026-095_v1.0_DOSSIE_PEC_BLINDAGEM_STF.txt          178 lin
+  TEIA-#102  TEIA-2026-102_v1.0_AMPLIFICACAO_INSTAGRAM_16_PROBLEMAS.txt  155 lin
 
 ================================================================================
 DIRETÓRIOS POR CATEGORIA
@@ -100,7 +101,7 @@ DIRETÓRIOS POR CATEGORIA
   02_MAPEAMENTO/  (7 arquivos)
   03_SIMULACAO/  (2 arquivos)
   04_PLANO/  (6 arquivos)
-  05_ACAO/  (21 arquivos)
+  05_ACAO/  (22 arquivos)
   06_TERRITORIAL/  (4 arquivos)
   07_ACCOUNTABILITY/  (1 arquivos)
   08_SINTESE_FINAL/  (1 arquivos)
