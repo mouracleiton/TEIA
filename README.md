@@ -23,35 +23,64 @@ Não é manifesto. É sistema operacional político — com metodologia de 156 d
 
 ```
 TEIA/
-├── README.md                          ← Este arquivo
+├── README.md
+│
+├── prompts/                           ← SUITE MODULAR DE PROMPTS (recomendado)
+│   ├── SUITE_TEIA_v22.0_COMPOSER.txt  ← cole este (PT)
+│   ├── SUITE_TEIA_v22.0_COMPOSER_INT_EN.txt
+│   ├── TEIA_v22_FULL_MONOLITHIC.txt   ← versão única completa
+│   ├── README_SUITE.md
+│   ├── CHEATSHEET_SUITE_v22.0.txt
+│   ├── 09_composicao/coordenador_suite.txt  ← master coordinator
+│   │
+│   ├── 00_base/
+│   ├── 01_matriz/
+│   ├── 02_pet/
+│   ├── 03_dialetico/
+│   ├── 04_plano/
+│   ├── 04_sopbra/
+│   ├── 05_qualidade/
+│   ├── 06_formatos/
+│   ├── 07_fontes/
+│   ├── 08_regras/
+│   ├── 09_composicao/
+│   ├── 10_especializados/
+│   ├── 11_juridico/
+│   ├── 12_problemas/
+│   ├── 13_simulacao/
+│   ├── 14_electoral/
+│   ├── 15_taxonomia/
+│   └── legacy/                        ← prompt monolítico original
 │
 ├── docs/                              ← Documentação essencial
 │   ├── TEIA_METODOLOGIA_v22.0_UNIFICADA.txt
-│   ├── PROMPT_TEIA_v22.0.txt          ← PT (colar em qualquer LLM)
-│   ├── PROMPT_TEIA_v22.0_INT_EN.txt   ← EN (nation-agnostic)
-│   ├── TAXONOMIA_CAMPOS_ACADEMICOS_v1.0.txt
+│   ├── PROMPT_TEIA_v22.0.txt          ← legado monolítico
+│   ├── PROMPT_TEIA_v22.0_INT_EN.txt
 │   ├── INDICE_MESTRE_TEIA.txt
-│   ├── MANIFESTO_PROTOCOLOS.txt
-│   └── teia_metodologia_schema.json
+│   └── ...
 │
-├── 01_ANALISE/                        ← Pipeline dialético (tese → refutação → síntese)
-├── 02_MAPEAMENTO/                     ← Mapas de captura política
-├── 03_SIMULACAO/                      ← Monte Carlo + modelos preditivos
-├── 04_PLANO/                          ← Planos, problemas e soluções mapeadas
+├── 01_ANALISE/
+├── 02_MAPEAMENTO/
+├── 03_SIMULACAO/
+├── 04_PLANO/
 ├── 05_ACAO/                           ← Dossiês executivos (prontos para entrega)
-├── 06_TERRITORIAL/                    ← Fluxo de dinheiro público e privado
-├── 07_ACCOUNTABILITY/                 ← Mecanismos de controle
-├── 08_SINTESE_FINAL/                  ← Qualidade de vida em múltiplas dimensões
-├── 09_MULTIDIMENSIONAL/               ← As 6 dimensões do poder
-├── 10_TECNOLOGICA/                    ← Captura tecnológica e digital
-├── 11_INSTITUCIONAL/                  ← Sistema eleitoral + SOPBRA
-├── 12_AMBIENTAL/                      ← Captura do poder ambiental
-├── 13_PROJETOS/                       ← Código (API, dashboard, scraper, link analysis)
-├── 14_ELEITORAL_2026/                 ← Estratégia e debates eleitorais
-├── 15_MANUAL_TECNOLOGIA/              ← Manual Hermes Agent
-├── skills/                            ← Skills metodológicas reusáveis
-└── archive/                           ← Versões históricas (v1.0–v21.0)
+├── 06_TERRITORIAL/
+├── 07_ACCOUNTABILITY/
+├── 08_SINTESE_FINAL/
+├── 09_MULTIDIMENSIONAL/
+├── 10_TECNOLOGICA/
+├── 11_INSTITUCIONAL/
+├── 12_AMBIENTAL/
+├── 13_PROJETOS/
+├── 14_ELEITORAL_2026/
+├── 15_MANUAL_TECNOLOGIA/
+├── skills/
+└── archive/
 ```
+
+A **Suite Modular de Prompts** é a forma recomendada de usar a metodologia TEIA.
+Use os COMPOSERs ou o Coordenador (`09_composicao/coordenador_suite.txt`).
+Um arquivo monolítico completo também está disponível para conveniência.
 
 ---
 
@@ -163,3 +192,27 @@ Cada problema tem dossiê técnico próprio em `05_ACAO/`:
 **Repositório**: https://github.com/mouracleiton/TEIA
 **Versão atual**: v22.0 (156×60 = 9.360 perspectivas)
 **Atualizado em**: Julho/2026
+---
+
+## Suite Modular de Prompts (prompts/)
+
+A partir de agora, a forma **recomendada** de usar a metodologia TEIA é através da suite modular em `prompts/`.
+
+### Vantagens
+- Composição flexível (use só o que precisa)
+- Mais fácil de manter e versionar
+- Especializados para diferentes tarefas (dossiê, briefing, due diligence, metaciência)
+- Composer único para quem prefere colar tudo de uma vez
+
+### Uso rápido
+```
+Cole: prompts/SUITE_TEIA_v22.0_COMPOSER.txt
+Depois: [descreva o fenômeno que quer analisar]
+```
+
+Ver documentação completa em:
+- `prompts/README_SUITE.md`
+- `prompts/CHEATSHEET_SUITE_v22.0.txt`
+
+O prompt monolítico original permanece em `docs/PROMPT_TEIA_v22.0.txt` (legado).
+

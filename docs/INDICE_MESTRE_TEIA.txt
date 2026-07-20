@@ -25,7 +25,7 @@ DOCUMENTAÇÃO ESSENCIAL (docs/)
 
   docs/INDICE_MESTRE_TEIA.txt                              78 lin     4.2K
   docs/MANIFESTO_PROTOCOLOS.txt                           307 lin    24.6K
-  docs/PROMPT_TEIA_v22.0.txt                              666 lin    32.2K
+  docs/PROMPT_TEIA_v22.0.txt                              666 lin    32.2K   (legado monolítico)
   docs/PROMPT_TEIA_v22.0_INT_EN.txt                       659 lin    30.8K
   docs/TAXONOMIA_CAMPOS_ACADEMICOS_v1.0.txt              1321 lin    42.3K
   docs/TAXONOMIA_CAMPOS_ACADEMICOS_v1.0_FOLHAS.txt       5561 lin   339.8K
@@ -34,8 +34,39 @@ DOCUMENTAÇÃO ESSENCIAL (docs/)
   docs/teia_metodologia.png                                 0 lin   205.0K
   docs/teia_metodologia_schema.json                      1776 lin    38.0K
 
-
+PROMPTS SUITE MODULAR (prompts/) — NOVA FORMA RECOMENDADA
 ================================================================================
+
+  prompts/README_SUITE.md
+  prompts/SUITE_TEIA_v22.0_COMPOSER.txt          ← cole este (PT)
+  prompts/SUITE_TEIA_v22.0_COMPOSER_INT_EN.txt
+  prompts/TEIA_v22_FULL_MONOLITHIC.txt           ← versão única completa
+  prompts/CHEATSHEET_SUITE_v22.0.txt
+  prompts/09_composicao/coordenador_suite.txt    ← master coordinator
+  prompts/09_composicao/indice_modulos_suite.txt
+
+  00_base/          (core + teorema + EN)
+  01_matriz/        (156 dims + 60 lentes)
+  02_pet/
+  03_dialetico/
+  04_plano/
+  04_sopbra/
+  05_qualidade/     (checklist 32)
+  06_formatos/
+  07_fontes/
+  08_regras/
+  09_composicao/
+  10_especializados/ (dossiê, simulação, state machine, validador, agentes IA...)
+  11_juridico/      (petições + conformidade legal)
+  12_problemas/     (16 problemas + soluções em lote + frentes)
+  13_simulacao/     (modelagem + impacto fiscal)
+  14_electoral/     (debates, swarm, mitos, conteúdo em massa)
+  15_taxonomia/     (níveis 16-18 + grafo)
+  legacy/           (monolítico original)
+
+Total: 54 arquivos. Suite completa e consolidada.
+Use o Coordenador (09_composicao/coordenador_suite.txt) para tarefas complexas.
+
 DOSSIÊS EXECUTIVOS (05_ACAO/) — 16 PROBLEMAS COBERTOS
 ================================================================================
 
