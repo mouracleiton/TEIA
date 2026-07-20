@@ -397,6 +397,54 @@ md5sum 05_ACAO/TEIA-2026-013_v1.0_*.txt
 
 ---
 
+## TEIA Global v20.0 — Edição Transnacional
+
+A v17.0 nasceu no Brasil. A **v20.0 GLOBAL** expande para escopo transnacional sem perder a base.
+
+### O que mudou
+
+| Aspecto | v17.0 | v20.0 Global |
+|---------|-------|-------------|
+| Lentes | 24 | **32** (24 + 8 geoestratégicas) |
+| Perspectivas | 1.584 | **2.112** |
+| Escopo | Nacional (Brasil) | Transnacional |
+| SOPBRA | Político brasileiro | **Global** (Hegemônico/Vassalo/Parceiro/Pária/Descentralizado) |
+| Fontes | CGU, BCB, TSE, STF | **+ BIS, FMI, ICIJ, FATF, Chainalysis** |
+| Foco | Captura econômica | **Soberania digital** (cripto, chips, CBDCs) |
+
+### As 8 lentes geoestratégicas (25-32)
+
+| # | Lente | Pergunta-chave |
+|---|-------|----------------|
+| 25 | Imperial/Hegemônica | Quem dita as regras do jogo? |
+| 26 | Dependência Estrutural | Como a periferia é mantida refém? |
+| 27 | Guerra Híbrida | Onde está a desestabilização? |
+| 28 | Soberania Tecnológica | Quem controla chips, cabos, protocolos, chaves? |
+| 29 | Direito Internacional Seletivo | A lei é universal ou arma de guerra? |
+| 30 | Migratória/Demográfica | Quem fornece mão-de-obra? Quem fecha fronteiras? |
+| 31 | Alimentar/Energético Global | Quem controla sementes, lítio, gás? |
+| 32 | Financeira/Monetária Global | Quem emite a reserva? Quem controla SWIFT? |
+
+### Triângulo da Soberania Digital
+
+O foco analítico crítico da v20.0 é a interseção:
+- **Dim 53** (Criptográfica): protocolos, chaves, privacidade matemática
+- **Dim 3** (Tecnológica): infraestrutura, chips, software
+- **Dim 1** (Econômica): fluxos financeiros, dívida, moedas de reserva
+
+### Arquivos da v20.0
+
+```
+TEIA_METODOLOGIA_v20.0_GLOBAL.txt    Canônico (merge v17.0 + global)
+PROMPT_TEIA_v20.0_GLOBAL.txt         System prompt do operador global
+```
+
+A v17.0 é um caso especial da v20.0 (scope=nacional). A matriz 66×24 permanece como base; as 8 lentes geoestratégicas são uma camada adicional.
+
+Adaptação global: **SKYNETchat**.
+
+---
+
 ## Roadmap
 
 | Versão | Data | Marco |
@@ -404,6 +452,9 @@ md5sum 05_ACAO/TEIA-2026-013_v1.0_*.txt
 | v0.1 | Jul/2026 | Arquitetura inicial (kernel, drivers, APIs) |
 | v0.2 | Jul/2026 | Sistema funcional (state machine, threat model, playbooks) |
 | v0.3 | Jul/2026 | Cooptação de contribuidores (7 perfis, reputação) |
+| v17.0 | Jul/2026 | Metodologia integral (Framework → Metodologia) |
+| v17.0-INT | Jul/2026 | International Edition (EN, nation-agnostic) |
+| **v20.0** | **Jul/2026** | **Global: +8 lentes geoestratégicas, SOPBRA Global** |
 | v0.4 | Ago/2026 | Drivers detalhados (fluxogramas, formulários) |
 | v0.5 | Set/2026 | Dashboards operacionais (Python scripts) |
 | v0.6 | Out/2026 | Playbooks testados em casos reais |
