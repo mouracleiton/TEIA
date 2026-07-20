@@ -1,7 +1,7 @@
 ================================================================================
 TEIA — ÍNDICE-MESTRE DO PROJETO
 ================================================================================
-Atualizado em: 20/Julho/2026 (TEIA-102: amplificação Instagram)
+Atualizado em: 20/Julho/2026 (TEIA-103: ref. Markdown SKYNETchat)
 Repositório: https://github.com/mouracleiton/TEIA
 Versão: v22.0 (156 dim x 60 lentes = 9.360 perspectivas)
 ================================================================================
@@ -33,6 +33,7 @@ DOCUMENTAÇÃO ESSENCIAL (docs/)
   docs/TEIA_v22.0_CHEATSHEET_DIMS_LENTES.txt              103 lin     5.5K
   docs/teia_metodologia.png                                 0 lin   205.0K
   docs/teia_metodologia_schema.json                      1776 lin    38.0K
+  docs/REFERENCIA_ENGENHARIA_MARKDOWN_SKYNETchat.txt                ~250 lin    (padrão de documentação TEIA)
 
 PROMPTS SUITE MODULAR (prompts/) — NOVA FORMA RECOMENDADA
 ================================================================================
