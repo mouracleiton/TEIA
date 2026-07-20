@@ -1305,16 +1305,16 @@ Cruzamento canônico v22:
   Dim 120 Agnológica × Lente 49 Agnotologia
 
 ================================================================================
-CONTAGEM APROXIMADA DE CAMPOS NESTE DOCUMENTO
+CONTAGEM DE CAMPOS
 ================================================================================
-000: ~100 | 100: ~100 | 200: ~100 | 300: ~250 | 400: ~50
-500: ~130 | 600: ~200 | 700: ~100 | 800: ~60 | 900: ~140
-SUBTOTAL enumerado: ~1.230 campos de 1º/2º nível
-Expansão típica bibliotecária (3º-4º nível DDC/LCC): ×3 a ×4 → ~4.000+
-Ver schedules oficiais DDC23 / LCC Outline / CAPES 2024 para folhas finais.
+2º nível enumerado neste arquivo: 1237
+3º nível (folhas): 5547 em TAXONOMIA_CAMPOS_ACADEMICOS_v1.0_FOLHAS.txt
+TOTAL COMBINADO: 6784 campos
 
+Mapeamento taxonomia → dims: ver seção acima.
 Uso TEIA: alimenta Metodologia v22.0 (dims 109-156 + lentes 45-60)
 Ver: docs/TEIA_METODOLOGIA_v22.0_UNIFICADA.txt | Matriz 156×60=9.360
+Cheat-sheet: docs/TEIA_v22.0_CHEATSHEET_DIMS_LENTES.txt
 
 ================================================================================
 O dinheiro da reforma virá do trabalho.

@@ -10,7 +10,10 @@ NOTA v22.0: Matriz expandida via taxonomia acadêmica/bibliotecária
 (DDC, LCC, CAPES, OECD Frascati). Dims 109-156 + Lentes 45-60.
 Canônico: docs/TEIA_METODOLOGIA_v22.0_UNIFICADA.txt
 Prompts: docs/PROMPT_TEIA_v22.0.txt | docs/PROMPT_TEIA_v22.0_INT_EN.txt
-Taxonomia: docs/TAXONOMIA_CAMPOS_ACADEMICOS_v1.0.txt (~1.237 campos nível 1-2)
+Taxonomia 2º nível: docs/TAXONOMIA_CAMPOS_ACADEMICOS_v1.0.txt (1237 campos)
+Taxonomia 3º nível: docs/TAXONOMIA_CAMPOS_ACADEMICOS_v1.0_FOLHAS.txt (5547 folhas)
+TOTAL CAMPOS: 6784
+Cheat-sheet: docs/TEIA_v22.0_CHEATSHEET_DIMS_LENTES.txt
 v21.0 arquivada em archive/.
 
 ================================================================================
@@ -21,8 +24,10 @@ DOCUMENTAÇÃO ESSENCIAL (docs/)
   docs/MANIFESTO_PROTOCOLOS.txt                           307 lin    24.6K
   docs/PROMPT_TEIA_v22.0.txt                              666 lin    32.2K
   docs/PROMPT_TEIA_v22.0_INT_EN.txt                       659 lin    30.8K
-  docs/TAXONOMIA_CAMPOS_ACADEMICOS_v1.0.txt              1321 lin    42.4K
+  docs/TAXONOMIA_CAMPOS_ACADEMICOS_v1.0.txt              1321 lin    42.3K
+  docs/TAXONOMIA_CAMPOS_ACADEMICOS_v1.0_FOLHAS.txt       5561 lin   339.8K
   docs/TEIA_METODOLOGIA_v22.0_UNIFICADA.txt               817 lin    41.6K
+  docs/TEIA_v22.0_CHEATSHEET_DIMS_LENTES.txt              103 lin     5.5K
   docs/teia_metodologia.png                                 0 lin   205.0K
   docs/teia_metodologia_schema.json                      1776 lin    38.0K
 
