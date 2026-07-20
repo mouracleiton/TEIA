@@ -37,12 +37,15 @@ IA para detecção de anomalias em gastos públicos.
 - Padrões anômalos em emendas por parlamentar
 - Cruzamento CNPJ/CPF/parentesco
 
-### osint-toolkit/ (a implementar)
-Toolkit de coleta e cruzamento de dados abertos.
-- TSE (DivulgaCandContas)
-- CGU (Portal da Transparência)
-- BCB (SGS, REB)
-- TCU (autoriações)
+### osint-toolkit/ (TEIA-2026-098)
+Benchmark OSINT × adequação a LLM + coletores LLM-first (fontes abertas).
+```bash
+cd osint-toolkit
+python -m teia_osint.cli benchmark --markdown
+python -m teia_osint.cli collect bcb_sgs selic
+python -m teia_osint.cli collect brasilapi_cnpj 00000000000191
+```
+Ver `osint-toolkit/BENCHMARK_OSINT_POR_LLM.txt` e `osint-toolkit/README.md`.
 
 ### app-cidadao/ (a implementar)
 App móvel "Minha Cidade, Meu Dinheiro".
