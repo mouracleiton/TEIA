@@ -1,7 +1,7 @@
 ================================================================================
 TEIA — ÍNDICE-MESTRE DO PROJETO
 ================================================================================
-Atualizado em: 20/Julho/2026 (TEIA-103: ref. Markdown SKYNETchat)
+Atualizado em: 20/Julho/2026 (TEIA-104: 5 Métodos Éticos)
 Repositório: https://github.com/mouracleiton/TEIA
 Versão: v22.0 (156 dim x 60 lentes = 9.360 perspectivas)
 ================================================================================
@@ -93,6 +93,9 @@ DOSSIÊS EXECUTIVOS (05_ACAO/) — 16 PROBLEMAS COBERTOS
   TEIA-#094  TEIA-2026-094_v1.0_DOSSIE_NEGATIVADOS_ANPD.txt           181 lin
   TEIA-#095  TEIA-2026-095_v1.0_DOSSIE_PEC_BLINDAGEM_STF.txt          178 lin
   TEIA-#102  TEIA-2026-102_v1.0_AMPLIFICACAO_INSTAGRAM_16_PROBLEMAS.txt  155 lin
+
+PLANO DE EXECUÇÃO (04_PLANO/):
+  TEIA-#104  TEIA-2026-104_v1.0_5_METODOS_ETICOS_FRAMEWORK.txt          ~290 lin
 
 ================================================================================
 DIRETÓRIOS POR CATEGORIA
