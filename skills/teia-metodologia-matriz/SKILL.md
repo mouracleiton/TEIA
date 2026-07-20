@@ -1,13 +1,13 @@
 ---
-name: teia-framework-matriz
+name: teia-metodologia-matriz
 description: Aplicação da matriz 66×24=1584 perspectivas. Como usar o PET (Protocolo de Execução TEIA).
 ---
 
-# TEIA Framework — Matriz e PET
+# TEIA Metodologia — Matriz e PET
 
 ## Matriz 66×24
 66 dimensões de captura × 24 lentes analíticas = 1.584 perspectivas
-JSON Schema: teia_framework_schema.json
+JSON Schema: teia_metodologia_schema.json
 
 ## PET (Protocolo de Execução TEIA) — 5 Fases
 1. DELIMITAÇÃO: nomear fenômeno + 3-5 dims de superfície

@@ -302,7 +302,7 @@ O documento TEIA-2026-027 sofre de 7 defeitos estruturais:
 RECOMENDAÇÃO TÉCNICA:
 
 O documento deve ser reclassificado de "Plano de Qualidade de Vida" para
-"FRAMEWORK DE ADVOCACY". Como peça de advocacy que ORIENTA debate público,
+"METODOLOGIA DE ADVOCACY". Como peça de advocacy que ORIENTA debate público,
 cumpre papel legítimo. Como plano econômico executável, é defeituoso em
 todos os pontos críticos examinados.
 

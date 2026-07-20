@@ -3,7 +3,7 @@
 TEIA Link Analysis — Grafo de Conexões Político-Empresariais
 =============================================================
 Constrói grafo de rede revelando clusters de poder invisíveis.
-Usa metodologia SAT de Link Analysis (Framework v2.0, MET 3).
+Usa metodologia SAT de Link Analysis (Metodologia v2.0, MET 3).
 
 Protocolo: TEIA-2026-043
 Autor: Cleiton Moura — TEIA

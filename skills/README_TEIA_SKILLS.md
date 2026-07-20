@@ -12,7 +12,7 @@ O TEIA mantém 20 skills que codificam toda a inteligência desenvolvida no pipe
 | 14 | `teia-sistema-operacional-politico` | 9 axiomas + 12 níveis + 66 dimensões (SOPBRA) |
 | 15 | `teia-documentos-juridicos` | Petição CNJ, amicus STF, representação MPF |
 | 16 | `teia-conteudo-advocacy` | Documentário YouTube, TikTok 60s, podcast |
-| 17 | `teia-framework-matriz` | Matriz 66×24 + PET (5 fases) + Quality (32 itens) |
+| 17 | `teia-metodologia-matriz` | Matriz 66×24 + PET (5 fases) + Quality (32 itens) |
 | 18 | `teia-eleitoral-2026` | Agenda-setting, Cartão de Emendas, Compromisso TEIA |
 | 19 | `teia-transparencia-dados` | APIs CGU/BCB/TSE, dashboard, anomalias z-score |
 | 20 | `teia-protocolo-versionamento` | TEIA-AAAA-NNN, Git workflow, hashes MD5/SHA-256 |
@@ -23,7 +23,7 @@ O TEIA mantém 20 skills que codificam toda a inteligência desenvolvida no pipe
 |---|-------|-------------|
 | 1 | `pipeline-dialetico` | Estrutura do pipeline (mesma que TEIA-11) |
 | 2 | `fact-check-economico` | Fontes primárias brasileiras (BCB, STN, IBGE, TSE) |
-| 3 | `mapeamento-veto-players` | Framework Tsebelis + nomes concretos |
+| 3 | `mapeamento-veto-players` | Metodologia Tsebelis + nomes concretos |
 | 4 | `simulacao-monte-carlo` | Modelo de 8 scores + 9 estratégias |
 | 5 | `redacao-juridica-advocacy` | Tipos de documento jurídico |
 | 6 | `producao-conteudo-advocacy` | Formatos de conteúdo |
@@ -52,7 +52,7 @@ TEIA_protocolos/
 │   ├── teia-sistema-operacional-politico/SKILL.md
 │   ├── teia-documentos-juridicos/SKILL.md
 │   ├── teia-conteudo-advocacy/SKILL.md
-│   ├── teia-framework-matriz/SKILL.md
+│   ├── teia-metodologia-matriz/SKILL.md
 │   ├── teia-eleitoral-2026/SKILL.md
 │   ├── teia-transparencia-dados/SKILL.md
 │   └── teia-protocolo-versionamento/SKILL.md
@@ -72,7 +72,7 @@ TEIA_protocolos/
 
 **teia-conteudo-advocacy**: A estrutura de comunicação em 3 níveis: documentário YouTube (7 blocos), série TikTok (60 segundos com hook/corpo/CTA), e podcast quinzenal. Regras de rigor (nunca inventar dado, sempre citar fonte) e de psicologia (Sistema 1 emocional E Sistema 2 analítico).
 
-**teia-framework-matriz**: A matriz completa 66×24=1.584 perspectivas, o PET (Protocolo de Execução em 5 fases), e o Protocolo de Qualidade de 32 itens que todo documento TEIA deve passar antes de publicar.
+**teia-metodologia-matriz**: A matriz completa 66×24=1.584 perspectivas, o PET (Protocolo de Execução em 5 fases), e o Protocolo de Qualidade de 32 itens que todo documento TEIA deve passar antes de publicar.
 
 **teia-eleitoral-2026**: A estratégia eleitoral completa: 5 pilares (agenda-setting, Cartão de Emendas, coalizão, narrativa gestão vs captura, integridade), a campanha "Não É Todo Político", e o Questionário TEIA de 10 perguntas para candidatos.
 

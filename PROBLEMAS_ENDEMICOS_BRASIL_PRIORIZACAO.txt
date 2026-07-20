@@ -2,7 +2,7 @@
 OS PROBLEMAS ENDÊMICOS DO BRASIL SEGUNDO A POPULAÇÃO
 ================================================================================
 Ranking baseado em pesquisas Datafolha e Quaest (dez/2025 - jul/2026)
-cruzado com dados objetivos e framework TEIA
+cruzado com dados objetivos e metodologia TEIA
 ================================================================================
 Autor: Cleiton Moura — TEIA
 Protocolo: TEIA-2026-066
@@ -14,7 +14,7 @@ METODOLOGIA DE PRIORIZAÇÃO
 Cada problema é avaliado em 4 métricas:
   1. PREOCUPAÇÃO POPULAR (% que cita como principal problema)
   2. IMPACTO OBJETIVO (mortes/ano, R$ perdidos, pessoas afetadas)
-  3. COMPLEXIDADE TEIA (score 1-5 do framework: quantas dimensões)
+  3. COMPLEXIDADE TEIA (score 1-5 do metodologia: quantas dimensões)
   4. FACTIBILIDADE DE INTERVENÇÃO (baixa/média/alta)
 
 PRIORIDADE FINAL = média ponderada das 4 métricas
@@ -75,7 +75,7 @@ IMIGRAÇÃO     |  <1%    | BAIXO   |  2/5    | MÉDIA  |    2,0     | 15º
 O PARADOXO DA SALIÊNCIA PÚBLICA
 ================================================================================
 
-O framework TEIA revela um PARADOXO crítico:
+O metodologia TEIA revela um PARADOXO crítico:
 
 PROBLEMAS COM ALTA SALIÊNCIA PÚBLICA (mas baixa factibilidade direta):
   - Saúde (20%): a população quer mais SUS, MAS o recurso está
@@ -99,7 +99,7 @@ A CAUSA RAIZ (invisível para a população):
 
 A população NÃO cita juros, spread e Custo Brasil porque estes são
 PROBLEMAS INVISÍVEIS — operam nas Dimensões 7-12 (profundidade/
-sombra/abismo) do framework. A população sente o EFEITO (filas no
+sombra/abismo) da metodologia. A população sente o EFEITO (filas no
 SUS, desemprego, violência) mas não identifica a CAUSA.
 
 

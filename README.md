@@ -12,14 +12,14 @@
 
 ## Diagrama da Metodologia
 
-![TEIA Framework Metodologia](teia_metodologia.png)
+![TEIA Metodologia Metodologia](teia_metodologia.png)
 
 <details>
 <summary>Ver versão em texto (ASCII)</summary>
 
 ```
 ╔══════════════════════════════════════════════════════════════════════════╗
-║                    TEIA FRAMEWORK v3.2 — METODOLOGIA                     ║
+║                    TEIA METODOLOGIA v3.2 — METODOLOGIA                     ║
 ║          Do Problema à Reforma: Pipeline de Investigação Integral        ║
 ╚══════════════════════════════════════════════════════════════════════════╝
 
@@ -140,7 +140,7 @@
 
 O TEIA é um repositório de inteligência analítica que mapeia como o sistema econômico-político brasileiro captura recursos públicos e privados, identifica quem lucra com essa captura, quantifica como neutralizá-los, e fornece os documentos de ação prontos para execução.
 
-Não é um manifesto. É um **sistema operacional político** — o **SOPBRA** (Sistema Operacional Político Brasileiro) — com 29 documentos técnicos, 1.260.000 simulações matemáticas, 10 documentos de ação prontos, 10 skills metodológicas, um framework de contribuidores, e tudo versionado em Git.
+Não é um manifesto. É um **sistema operacional político** — o **SOPBRA** (Sistema Operacional Político Brasileiro) — com 29 documentos técnicos, 1.260.000 simulações matemáticas, 10 documentos de ação prontos, 10 skills metodológicas, um metodologia de contribuidores, e tudo versionado em Git.
 
 ## Os números
 
@@ -182,7 +182,7 @@ TEIA/
 
 ## SOPBRA — Sistema Operacional Político Brasileiro
 
-O SOPBRA é o núcleo do TEIA. É um framework que codifica COMO a política brasileira funciona na PRÁTICA — não como a Constituição diz que funciona, mas como realmente opera: quem tem poder, como flui o dinheiro, onde estão os pontos de alavanca, e como navegar o sistema para produzir mudança.
+O SOPBRA é o núcleo do TEIA. É um metodologia que codifica COMO a política brasileira funciona na PRÁTICA — não como a Constituição diz que funciona, mas como realmente opera: quem tem poder, como flui o dinheiro, onde estão os pontos de alavanca, e como navegar o sistema para produzir mudança.
 
 ### 7 Camadas (como um SO)
 
@@ -272,7 +272,7 @@ Ranking público mensal no GitHub. Transparência total.
 |---|-------|-----------|
 | 1 | `pipeline-dialetico` | Tese → fact-check → refutação → contra-refutação → síntese |
 | 2 | `fact-check-economico` | Verificação contra BCB, STN, IBGE, RFB, TSE, CNJ |
-| 3 | `mapeamento-veto-players` | Framework Tsebelis + nomes concretos + vulnerabilidades |
+| 3 | `mapeamento-veto-players` | Metodologia Tsebelis + nomes concretos + vulnerabilidades |
 | 4 | `simulacao-monte-carlo` | 8 scores × 9 estratégias × 10.000 iterações |
 | 5 | `redacao-juridica-advocacy` | Petição CNJ, amicus STF, representação MPF |
 | 6 | `producao-conteudo-advocacy` | Documentário, TikTok, podcast |

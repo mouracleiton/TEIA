@@ -11,7 +11,7 @@ Monitora juros, spread, emendas, custo Brasil e custo da Selic em tempo real.
 python dashboards/dashboard_orcamento.py
 python dashboards/dashboard_orcamento.py --export relatorio.txt
 ```
-Inclui detector de janela de oportunidade política (SAT 4 do Framework v2.0).
+Inclui detector de janela de oportunidade política (SAT 4 do Metodologia v2.0).
 
 ### scrappers/
 Coleta de dados públicos via APIs governamentais.
@@ -23,7 +23,7 @@ python scrappers/scraper_emendas.py --municipio "São Paulo" --export sp.csv
 ```
 
 ### link-analysis/
-Grafo de conexões político-empresariais (Link Analysis — Framework v2.0 MET 3).
+Grafo de conexões político-empresariais (Link Analysis — Metodologia v2.0 MET 3).
 Constrói rede de atores e detecta clusters de poder.
 ```bash
 python link-analysis/link_analysis.py

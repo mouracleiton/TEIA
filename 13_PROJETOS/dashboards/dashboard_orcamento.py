@@ -244,7 +244,7 @@ class DashboardTexto:
 
 class DetectorJanela:
     """
-    Detector de janela de oportunidade política (SAT 4 do Framework v2.0).
+    Detector de janela de oportunidade política (SAT 4 do Metodologia v2.0).
     Verifica indicadores diários e recomenda estratégia.
     """
 

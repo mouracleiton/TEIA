@@ -18,7 +18,7 @@ Para cada veto player, documentar:
 4. VOTAÇÕES: como votou em pautas relevantes
 5. VULNERABILIDADE: jurídica, eleitoral, financeira, ideológica
 
-## Framework Tsebelis
+## Metodologia Tsebelis
 Veto player = ator cuja concordância é necessária para mudança do status quo.
 - Institucionais: Presidente, Congresso, STF, TCU, BC
 - Fáticos: setores que capturam agências, financiam campanhas, judicializam

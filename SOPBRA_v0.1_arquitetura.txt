@@ -1,7 +1,7 @@
 ================================================================================
 SOPBRA — SISTEMA OPERACIONAL POLÍTICO BRASILEIRO
 ================================================================================
-Framework de navegação, influência e reforma da política brasileira
+Metodologia de navegação, influência e reforma da política brasileira
 ================================================================================
 Autor: Cleiton Moura — TEIA
 Data: Julho/2026
@@ -11,7 +11,7 @@ Versão: v0.1 (arquitetura inicial)
 
 O QUE É
 
-SOPBRA é um framework que codifica COMO a política brasileira funciona
+SOPBRA é um metodologia que codifica COMO a política brasileira funciona
 na PRÁTICA -- não como deveria funcionar segundo a Constituição, mas
 como realmente opera: quem tem poder, como fluxa o dinheiro, onde estão
 os pontos de alavancca, e como navegar o sistema para produzir mudança.
@@ -491,7 +491,7 @@ NÃO é operação de inteligência. Usa apenas fontes públicas.
 NÃO é violence. Não usa força física ou ameaça.
 NÃO é paternalista. Não diz ao usuário o que pensar.
 
-SOPBRA é um FRAMEWORK de navegação institucional. Como um GPS:
+SOPBRA é um METODOLOGIA de navegação institucional. Como um GPS:
 mostra o caminho, calcula a rota, alerta sobre obstáculos.
 Mas não dirige o carro. O usuário decide o destino.
 

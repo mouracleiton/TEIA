@@ -11,7 +11,7 @@ Data: Julho/2026
 VISÃO GERAL
 
 A TEIA Platform é o sistema operacional completo que transforma o
-framework analítico (66 dimensões × 24 lentes × 1.584 perspectivas)
+metodologia analítico (66 dimensões × 24 lentes × 1.584 perspectivas)
 em uma plataforma de inteligência acessível via web, mobile, API e IA.
 
 O sistema já tem componentes funcionais:
@@ -19,7 +19,7 @@ O sistema já tem componentes funcionais:
 - API REST com 9 endpoints — OPERACIONAL
 - Scraper de emendas (CGU API) — OPERACIONAL
 - Link analysis (grafo de poder) — OPERACIONAL
-- JSON Schema do framework — OPERACIONAL
+- JSON Schema do metodologia — OPERACIONAL
 
 A arquitetura abaixo integra tudo num SISTEMA ÚNICO coeso.
 
@@ -162,7 +162,7 @@ TABELAS PRINCIPAIS:
   dim_stf_decisoes (id, tipo, numero, relator, data, ementa)
   dim_licitacoes (id, orgao, municipio, valor, fornecedor, cnpj, data)
   veto_players (id, nome, partido, uf, cargo, prg, vju, vel, vfi, pod, ide, mud, ali)
-  frameworks_docs (id, protocolo, titulo, versao, categoria, hash_md5, caminho)
+  metodologias_docs (id, protocolo, titulo, versao, categoria, hash_md5, caminho)
 
 ÍNDICES:
   - GIST para dados geográficos (PostGIS)
@@ -291,7 +291,7 @@ CAMADA 4 — API GATEWAY
 4.1 REST API (FastAPI)
 ------------------------------------------------------------------------
 ARQUIVO: api/main.py
-FRAMEWORK: FastAPI (substitui Flask para produção)
+METODOLOGIA: FastAPI (substitui Flask para produção)
 DOC AUTO: /docs (Swagger/OpenAPI)
 
 ENDPOINTS ORGANIZADOS POR MÓDULO:
@@ -319,12 +319,12 @@ ENDPOINTS ORGANIZADOS POR MÓDULO:
   GET  /api/link-analysis        — grafo de poder
   GET  /api/dashboard            — dashboard completo
 
-  === FRAMEWORK ===
-  GET  /api/framework/schema     — JSON Schema completo
-  GET  /api/framework/dims       — lista de 66 dimensões
-  GET  /api/framework/lentes     — lista de 24 lentes
-  GET  /api/framework/dim/{id}   — detalhe de uma dimensão
-  GET  /api/framework/lente/{id} — detalhe de uma lente
+  === METODOLOGIA ===
+  GET  /api/metodologia/schema     — JSON Schema completo
+  GET  /api/metodologia/dims       — lista de 66 dimensões
+  GET  /api/metodologia/lentes     — lista de 24 lentes
+  GET  /api/metodologia/dim/{id}   — detalhe de uma dimensão
+  GET  /api/metodologia/lente/{id} — detalhe de uma lente
 
   === SISTEMA ===
   GET  /api/health               — health check
@@ -392,7 +392,7 @@ TELAS:
   - Alertas: notificações push de mudanças
   - Parlamentar: ficha do deputado/senador (votações, emendas, doações)
   - Denúncia: foto-denúncia de obra abandonada
-  - Framework: navegador da matriz (simplificado)
+  - Metodologia: navegador da matriz (simplificado)
 
 TECNOLOGIAS:
   - Flutter 3.x (Android + iOS)
@@ -437,7 +437,7 @@ COMANDOS:
   teia system protocol {novo} — gerar protocolo
 
 TECNOLOGIAS:
-  - Click (Python CLI framework)
+  - Click (Python CLI metodologia)
   - Rich (terminal formatting)
 
 
@@ -579,7 +579,7 @@ FASE 4 (SEMANA 7-8): WEB FRONTEND
   [ ] Dashboard principal (dark neon)
   [ ] Mapa de emendas (Leaflet)
   [ ] Grafo de poder (D3.js)
-  [ ] Framework browser (66×24)
+  [ ] Metodologia browser (66×24)
   [ ] Login + auth
 
 FASE 5 (SEMANA 9-10): MOBILE + BOT

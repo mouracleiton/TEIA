@@ -765,7 +765,7 @@ v1.0 (JUL/2027) — RELEASE ESTÁVEL
 RESUMO EXECUTIVO DO v0.2
 ================================================================================
 
-O SOPBRA v0.2 transforma o framework de v0.1 em um SISTEMA FUNCIONAL:
+O SOPBRA v0.2 transforma o metodologia de v0.1 em um SISTEMA FUNCIONAL:
 
   + STATE MACHINE: 8 estados políticos com estratégias específicas
   + DECISION TREES: 3 árvores de decisão para aprovar, neutralizar,

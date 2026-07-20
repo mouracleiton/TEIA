@@ -25,7 +25,7 @@ Premissa: TODO veto player é um ser humano com psicologia, medos, ambições
 e preço. Não existe ator irremovível — existe estratégia ainda não aplicada.
 ================================================================================
 
-FRAMEWORK ANALÍTICO
+METODOLOGIA ANALÍTICO
 
 Cada ator é avaliado em 5 dimensões psicológicas:
 

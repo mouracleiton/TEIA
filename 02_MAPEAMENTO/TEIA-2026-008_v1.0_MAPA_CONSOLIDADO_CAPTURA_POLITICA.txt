@@ -586,7 +586,7 @@ ARQUIVOS DE REFERÊNCIA GERADOS
    Fact-check dos 15 números do V2.0
 
 2. /home/kratos/refutacao_v2_brasil.txt (40,5 KB)
-   6 ataques técnicos ao framework
+   6 ataques técnicos ao metodologia
 
 3. /home/kratos/MAPEAMENTO_VETO_PLAYERS_V2.txt (31,6 KB)
    Veto players institucionais por vetor

@@ -1,5 +1,5 @@
 ================================================================================
-APLICAÇÃO DO FRAMEWORK TEIA AOS 16 PROBLEMAS DIAGNÓSTICADOS
+APLICAÇÃO DO METODOLOGIA TEIA AOS 16 PROBLEMAS DIAGNÓSTICADOS
 ================================================================================
 Matriz 66 dimensões × 24 lentes aplicada sistematicamente
 ================================================================================
@@ -342,7 +342,7 @@ P16 Blind.|     5/5     | ALTO    | MÉDIA (STF)   | ** ALTA **
 PADRÃO EMERGENTE: INTERCONEXÃO DOS 16 PROBLEMAS
 ================================================================================
 
-O framework revela que os 16 problemas NÃO são isolados. Eles formam
+O metodologia revela que os 16 problemas NÃO são isolados. Eles formam
 um SISTEMA INTERCONECTADO:
 
 CONEXÃO CENTRAL: P1 (Juros) é o NÓ que conecta mais problemas:
@@ -371,7 +371,7 @@ CONEXÃO DE OPACIDADE: P16 (Blindagem) conecta:
     ├→ P1 (Juros): sem accountability, juros continuam altos
     └→ P10 (Big Tech): sem regulação, desinformação continua
 
-O framework prova que atacar P1 (juros da dívida via Nota de Impacto
+O metodologia prova que atacar P1 (juros da dívida via Nota de Impacto
 Fiscal e prefixação) libera recursos que impactam P8, P13 e P14
 simultaneamente — e reduz o poder financeiro que sustenta P2, P5, P7.
 
