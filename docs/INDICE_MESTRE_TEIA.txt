@@ -14,6 +14,9 @@ Taxonomia 2º nível: docs/TAXONOMIA_CAMPOS_ACADEMICOS_v1.0.txt (1237 campos)
 Taxonomia 3º nível: docs/TAXONOMIA_CAMPOS_ACADEMICOS_v1.0_FOLHAS.txt (5547 folhas)
 TOTAL CAMPOS: 6784
 Cheat-sheet: docs/TEIA_v22.0_CHEATSHEET_DIMS_LENTES.txt
+Grafo interativo: docs/TAXONOMIA_GRAFO_INTERATIVO.html
+Grafo radial SVG: docs/TAXONOMIA_GRAFO_RADIAL.svg
+Grafo JSON: docs/taxonomia_grafo.json
 v21.0 arquivada em archive/.
 
 ================================================================================
