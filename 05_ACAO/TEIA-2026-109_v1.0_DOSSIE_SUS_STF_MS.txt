@@ -1,0 +1,163 @@
+================================================================================
+                    TEIA — DOSSIÊ TÉCNICO EXECUTIVO
+                    PROTOCOLO: TEIA-2026-109
+                    PROBLEMA: S3 — SAÚDE PÚBLICA SUBFINANCIADA (SUS)
+                    ENTREGA: STF / MS / CNJ / CONASS
+                    SCORE TEIA: 5/5
+                    DATA: JULHO/2026
+                    AUTOR: CLEITON MOURA (@PROFESSORCINZA) — TEIA
+================================================================================
+
+SEÇÃO 0 — RESUMO EXECUTIVO
+
+(a) DIAGNÓSTICO
+O Brasil gasta 4% do PIB em saúde (OCDE: 9%). O SUS atende 75% da população. A Instituição
+Fiscal Independente do Senado (IFI, jul/2025) confirma "crônico subfinanciamento":
+projeção de necessidade de expansão de 3,9% a.a. vs limite do arcabouço fiscal de 2,5%
+a.a. → conflito fiscal projetado a partir de 2026. Existem 1,5 milhão de brasileiros em
+fila de cirurgia eletiva (CNJ). Déficit de 60 mil médicos em áreas remotas. Enquanto o
+SUS é desmantelado por austeridade, os planos de saúde lucraram R$ 4,4 bilhões em 2024.
+
+(b) APORTOS
+EC garantindo piso de 10% da Receita da União para SUS. Programa Mais Médicos reativado.
+Telemedicina nacional com IA para triagem (reduz 40% das filas). Combate à sonegação da
+saúde suplementar. ADPF ao STF por omissão inconstitucional (art. 196 CF/88).
+
+(c) EFICIÊNCIA
+Cobertura universal efetiva. Redução de 80% na fila de cirurgia eletiva (1,5M → 300 mil
+em 5 anos). Aumento do gasto em saúde de 4% para 7% do PIB. Resolução do conflito fiscal
+SUS identificado pela IFI/Senado.
+
+(d) CUSTO
+R$ 60 bilhões/ano de incremento (R$ 30 bi piso SUS ampliado + R$ 10 bi Mais Médicos +
+R$ 10 bi telemedicina + R$ 10 bi combate sonegação saúde suplementar).
+
+(e) RESULTADO
+1,5M cirurgias/ano resolvidas. Cobertura universal efetiva. SUS reestruturado.
+Saúde como direito constitucional garantido (art. 196 CF/88).
+
+================================================================================
+
+SEÇÃO 1 — DIAGNÓSTICO
+
+1.1 DADOS FACT-CHECKED
+- Gasto em saúde: 4% do PIB (OCDE: 9%)
+- SUS atende 75% da população brasileira
+- IFI/Senado (jul/2025): "crônico subfinanciamento" confirmado
+- Projeção necessidade SUS: 3,9% a.a. (45 anos, IFI Casalecchi)
+- Limite arcabouço fiscal: 2,5% a.a. (LC 200/2023)
+- Conflito fiscal projetado: a partir de 2026
+- Fila de cirurgia eletiva: 1,5 milhão (CNJ)
+- Déficit médicos: 60 mil postos sem preenchimento em áreas remotas
+- Lucro planos de saúde 2024: R$ 4,4 bilhões (recorde)
+- Gasto per capita SUS: ~US$ 500/ano (OCDE: ~US$ 4.000)
+- EC 95/2016 (Teto de Gastos): investimento em saúde caiu 38% em 10 anos
+
+1.2 MARCO NORMATIVO
+- Art. 196 CF/88: "A saúde é direito de todos e dever do Estado"
+- Art. 198 CF/88: SUS — descentralizado, regionalizado, hierarquizado
+- Lei 8.080/1990: Lei Orgânica da Saúde
+- EC 29/2000: piso constitucional de gastos com saúde
+- EC 95/2016: teto de gastos (limitou investimento)
+- LC 200/2023: arcabouço fiscal (substituiu teto, mas manteve limite 2,5%)
+- EC 132/2023: reforma tributária (CBS+IBS) — impacto no SUS ainda incerto
+
+1.3 O PADRÃO: SUBSÍDIO CRUZADO
+O SUS funciona como SUBSÍDIO para o setor privado de saúde:
+  - SUS atende os casos mais caros (UTI, câncer, transplantes, trauma)
+  - Planos de saúde selecionam os casos mais baratos (consultas, exames simples)
+  - Quando o plano não quer cobrir, o paciente volta para o SUS
+  - O SUS absorve o risco; o plano fica com o lucro (R$ 4,4 bi em 2024)
+  - O contribuinte paga duas vezes: imposto (SUS) + mensalidade (plano)
+
+================================================================================
+
+SEÇÃO 2 — A MÁQUINA
+
+O subfinanciamento do SUS é uma MÁQUINA DE TRANSFERÊNCIA:
+  1. Teto fiscal limita gasto SUS (LC 200/2023: 2,5% a.a.)
+  2. Necessidade cresce mais rápido (IFI: 3,9% a.a.)
+  3. Resultado: filas, precariedade, desmotivação profissional
+  4. Classe média abandona o SUS → compra plano de saúde
+  5. Planos lucram (R$ 4,4 bi) com a base de clientes que o SUS perdeu
+  6. Pressão política por mais SUS diminui (classe média não usa)
+  7. Ciclo se reforça: menos SUS → mais plano → menos pressão → menos SUS
+
+NÓ CRÍTICO: O piso constitucional (EC 29/2000) estabelece 15% da Receita Corrente
+Bruta para saúde na União. Mas a Receita é manipulada e o piso não é cumprido de fato.
+
+================================================================================
+
+SEÇÃO 3 — PROPOSTAS EXECUTÁVEIS
+
+PROPOSTA 1: EC PISO DE 10% DA RFB PARA SUS
+INSTRUMENTO: Emenda Constitucional (M3).
+CONTEÚDO: Elevar piso constitucional de 15% da RCB para 10% da Receita da União (RFB).
+  Atualmente, 15% da RCB ≈ R$ 140 bi; 10% da RFB ≈ R$ 200 bi. Incremento: R$ 60 bi.
+ESTIMATIVA: R$ 60 bi/ano de incremento.
+
+PROPOSTA 2: MAIS MÉDICOS REATIVADO
+INSTRUMENTO: Portaria MS (M1).
+CONTEÚDO: Reativar programa Mais Médicos com 30 mil médicos em áreas remotas.
+  Contratação via Cuba/OPAS (modelo original) ou concurso público simplificado.
+ESTIMATIVA: R$ 10 bi/ano.
+
+PROPOSTA 3: TELEMEDICINA NACIONAL + IA
+INSTRUMENTO: Resolução CFM + Portaria MS (M1).
+CONTEÚDO: Triagem por IA em 100% das UBSs. Teleconsultas com especialistas.
+  Reduz 40% das filas de especialidades (modelo Bahia Telemedicina).
+ESTIMATIVA: R$ 10 bi/ano.
+
+PROPOSTA 4: COMBATE À SONEGAÇÃO DA SAÚDE SUPLEMENTAR
+INSTRUMENTO: ANS + Receita Federal (M1).
+CONTEÚDO: Fiscalização rigorosa de planos que negam cobertura (glosas abusivas).
+  Multa de 10x o valor do procedimento negado. Cruzamento ANS×RFB×ANS.
+ESTIMATIVA: R$ 10 bi/ano em recuperação.
+
+================================================================================
+
+SEÇÃO 4 — CUSTO E RETORNO
+
+CUSTO: R$ 60 bi/ano de incremento + R$ 30 bi/ano (programas)
+FINANCIAMENTO:
+  - TEIA-107 (Juros): R$ 340-365 bi/ano liberados = cobre integralmente
+  - Combate sonegação saúde suplementar: R$ 10 bi/ano
+RETORNO: 1,5M cirurgias/ano + cobertura universal + 30 mil médicos em áreas remotas.
+
+================================================================================
+
+SEÇÃO 5 — PETIÇÃO FORMAL AO STF
+
+EXMO. SR. MINISTRO PRESIDENTE DO SUPREMO TRIBUNAL FEDERAL
+
+    CLEITON MOURA, brasileiro, vem respeitosamente propor
+
+                    ARGUIÇÃO DE DESCUMPRIMENTO DE PRECEITO FUNDAMENTAL
+
+    objetivando o reconhecimento de que o subfinanciamento crônico do SUS,
+    confirmado pela IFI/Senado (2025), configura omissão inconstitucional
+    quanto ao dever do Estado de garantir saúde como direito de todos (art.
+    196 da CF/88).
+
+    I. DOS FATOS: 1,5 milhão em fila de cirurgia. Déficit de 60 mil médicos.
+    Gasto de 4% do PIB vs 9% OCDE. IFI confirma colapso fiscal projetado 2026.
+
+    II. DO DIREITO: Art. 196 CF — saúde é dever do Estado. Art. 198 — SUS.
+    EC 29/2000 — piso constitucional. O descumprimento sistemático do piso
+    configura omissão inconstitucional.
+
+    III. DO PEDIDO: Determinação à União para elevar o gasto em saúde ao
+    patamar de 10% da RFB. Produção de parecer técnico sobre o cumprimento
+    do art. 196 CF/88.
+
+    Brasília/DF, julho de 2026.
+
+    _______________________________________________
+    CLEITON MOURA — TEIA
+
+================================================================================
+PROTOCOLO TEIA: TEIA-2026-109
+VERSÃO: v1.0
+CATEGORIA: 05_ACAO
+STATUS: PROTOCOLO_ATIVO
+================================================================================

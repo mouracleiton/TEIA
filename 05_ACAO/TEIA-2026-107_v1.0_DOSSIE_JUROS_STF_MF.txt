@@ -1,0 +1,285 @@
+================================================================================
+                    TEIA — DOSSIÊ TÉCNICO EXECUTIVO
+                    PROTOCOLO: TEIA-2026-107
+                    PROBLEMA: E1 — JUROS E CUSTO FISCAL DA DÍVIDA PÚBLICA
+                    ENTREGA: STF / MF / BCB / CONGRESSO NACIONAL
+                    SCORE TEIA: 5/5
+                    DATA: JULHO/2026
+                    AUTOR: CLEITON MOURA (@PROFESSORCINZA) — TEIA
+================================================================================
+
+SEÇÃO 0 — RESUMO EXECUTIVO
+
+(a) DIAGNÓSTICO
+O Brasil mantém a maior taxa real de juros do mundo: SELIC a 15,00% a.a. (dez/2025,
+maior nível nominal em ~19 anos). O custo fiscal dos juros da dívida pública atingiu
+R$ 998 bilhões em 2024 (8,45% do PIB) — mais que o dobro do orçamento da educação e da
+saúde combinados. Países comparáveis operam com taxas drasticamente menores: México
+7,25%, Chile 4,50%, Colômbia 9,25%. A carga tributária brasileira (32,32% do PIB) é a
+maior da América Latina e Caribe, mas o RETORNO em bem-estar é o pior do mundo entre
+países com carga similar (IRBES). A dívida bruta do governo geral atingiu 76,1% do PIB.
+
+(b) APORTOS
+Taxa sobre Grandes Instituições Financeiras (TIGIF) via Resolução CMN: arrecadação
+estimada R$ 30-50 bilhões/ano. ADPF ao STF questionando a constitucionalidade do
+sistema SELIC à luz do art. 192 da CF/88 (Sistema Financeiro Nacional deve promover
+desenvolvimento). Controle de capitação especulativa via IOF regressivo. Redirecionamento
+de R$ 500+ bilhões/ano de juros para investimento social.
+
+(c) EFICIÊNCIA
+Redução da taxa SELIC em 5 pontos percentuais (15% → 10%) liberaria ~R$ 300 bilhões/ano
+do Orçamento. A TIGIF arrecadaria R$ 30-50 bilhões/ano adicionais. O impacto combinado
+=R$ 350-400 bilhões/ano disponíveis para saúde, educação, segurança e infraestrutura.
+
+(d) CUSTO
+R$ 0 custo fiscal (as propostas são normativas e ARRECADADORAS, não gastadoras).
+A TIGIF é fonte de receita. A ADPF é judicial (custo processual mínimo).
+
+(e) RESULTADO
+SELIC 15% → 10% em 24 meses; custo fiscal de juros R$ 998 bi → R$ 600 bi/ano;
+R$ 350-400 bilhões/ano redirecionados; Sistema Financeiro Nacional reorientado para
+desenvolvimento (art. 192 CF).
+
+================================================================================
+
+SEÇÃO 1 — DIAGNÓSTICO
+
+1.1 CONTEXTO INSTITUCIONAL
+O Banco Central do Brasil (BCB), embora formalmente autônomo desde a Lei 14.530/2023,
+opera a política monetária com foco exclusivo no regime de metas de inflação. O sistema
+é circular: o governo emite títulos públicos (NTN-B, LFT, LTN) para rolar a dívida de
+76,1% do PIB; 5 grandes instituições financeiras (Itaú, BB, Bradesco, Santander, Caixa)
+são as principais compradoras; os juros pagos pelo Tesouro são financiados pela arrecadação
+tributária (32,32% do PIB — a maior da AL); o imposto pago pelo cidadão financia o juro
+recebido pelo banco. O art. 192 da CF/88 determina que o Sistema Financeiro Nacional deve
+"promover o desenvolvimento equilibrado do País e servir aos interesses da coletividade"
+— mas a SELIC a 15% serve exclusivamente aos interesses do sistema financeiro.
+
+1.2 DADOS FACT-CHECKED
+- SELIC atual: 15,00% a.a. (dez/2025 — BCB/Copom, 10/dez/2025)
+- Maior nível nominal em ~19 anos
+- Custo fiscal dos juros: R$ 998 bilhões (2024 — BCB/Tesouro, G1 31/jan/2025)
+- Juros como % do PIB: 8,45% (2024)
+- Dívida bruta do governo geral: 76,1% do PIB (2024 — BCB)
+- Despesa primária governo central: 19,3% do PIB (2024 — STN)
+- Carga tributária: 32,32% do PIB (2024 — Tesouro Nacional, mar/2025)
+- Brasil = maior carga tributária da AL e Caribe (OCDE Revenue Statistics LAC 2024)
+- Ranking retorno em bem-estar (IRBES): pior do mundo entre países com carga similar
+- Comparação internacional (dez/2025):
+    México (Banxico): 7,25%
+    Chile (TPM): 4,50%
+    Colômbia: 9,25%
+    Diferencial Brasil vs Chile: +10,50 p.p.
+    Diferencial Brasil vs México: +7,75 p.p.
+- Lucro dos 5 maiores bancos (2024): R$ 125,6 bilhões (+20% a.a. — BCB)
+- Lucro do sistema bancário total: R$ 255 bilhões (recorde histórico — BCB, 2024)
+- Lucro Itaú: R$ 40,2 bilhões (recorde — RI Itaú)
+- Spread bancário médio: 20,7 p.p. (ago/2025 — BCB/Dados Abertos)
+
+1.3 MARCO NORMATIVO
+- Art. 192 CF/88: "O sistema financeiro nacional, estruturado de forma a promover o
+  desenvolvimento equilibrado do País e a servir os interesses da coletividade..."
+- Lei 14.530/2023: Autonomia formal do BCB (mandato fixo do presidente)
+- Lei Complementar 200/2023 (Arcabouço Fiscal): limite de crescimento da despesa 2,5% a.a.
+- EC 95/2016 (Teto de Gastos — revogada pela LC 200/2023 mas cultura de austeridade persiste)
+- Lei 4.595/1964: Reforma do Sistema Financeiro (ainda vigente em partes)
+
+1.4 IMPACTO SOCIAL
+Os R$ 998 bilhões pagos em juros em 2024 representam:
+  - 2,5x o orçamento do Ministério da Educação (R$ ~120 bi)
+  - 3x o orçamento do Ministério da Saúde (R$ ~140 bi)
+  - 10x o orçamento do Ministério da Defesa (R$ ~100 bi)
+  - 66x o Bolsa Família (R$ ~150 bi/ano)
+Cada ponto percentual de SELIC = ~R$ 60-70 bilhões/ano em custo fiscal adicional.
+A diferença entre a SELIC brasileira (15%) e a chilena (4,5%) = ~R$ 600-700 bilhões/ano
+que o cidadão brasileiro paga a mais em juros que o cidadão chileno.
+
+1.5 ATORES ENVOLVIDOS
+- Banco Central do Brasil (BCB) / Copom
+- Ministério da Fazenda (MF)
+- Tribunal de Contas da União (TCU)
+- Congresso Nacional (CMN = MF + BCB + MP)
+- 5 maiores bancos (Itaú, BB, Bradesco, Santander, Caixa)
+- ANBIMA (associação do mercado de capitais)
+- FED / Treasury EUA (contexto global de juros)
+
+1.6 CUSTO DA INAÇÃO
+Manutenção da SELIC a 15% implica:
+  - R$ 998 bi/ano em juros (crescente com a dívida)
+  - R$ 5-7 trilhões em juros acumulados na próxima década
+  - Aprofundamento da dívida (76% → 90%+ do PIB)
+  - Sufocamento do crédito produtivo (empresas pagam 30-45% para emprestar)
+  - Estagnação econômica (PIB cresce <2% a.a. há uma década)
+  - Austeridade fiscal permanente: corte de serviços sociais para pagar juros
+
+================================================================================
+
+SEÇÃO 2 — A MÁQUINA: O SISTEMA CIRCULAR
+
+A dívida pública brasileira opera como uma MÁQUINA DE TRANSFERÊNCIA DE RIQUEZA com
+5 componentes interligados:
+
+ENGENHAGEM 1 — EMISSÃO: O Tesouro emite títulos públicos (NTN-B, LFT, LTN) para rolar
+  a dívida de 76,1% do PIB. A cada ano, ~R$ 2 trilhões em títulos são emitidos.
+
+ENGENHAGEM 2 — COMPRA: As mesmas 5 instituições financeiras (CR4 = 55,3% dos ativos)
+  são as principais compradoras dos títulos. Elas têm acesso ao funding mais barato
+  (depósitos à vista = 0%) e compram títulos que pagam 15%.
+
+ENGENHAGEM 3 — JUROS: O Tesouro paga R$ 998 bilhões/ano em juros (8,45% do PIB).
+  Quem recebe esses juros? Os detentores dos títulos — majoritariamente os 5 bancos,
+  fundos de pensão e investidores institucionais.
+
+ENGENHAGEM 4 — FINANCIAMENTO: Os juros são pagos com a arrecadação tributária.
+  A carga tributária de 32,32% do PIB (a maior da AL) financia, em grande parte,
+  os juros da dívida. O imposto do cidadão paga o juro do banco.
+
+ENGENHAGEM 5 — REALIMENTAÇÃO: A alta da SELIC atrai capital especulativo (carry trade),
+  valoriza o real, prejudica exportações, desindustrializa o país (indústria caiu de
+  33% para 11% do PIB desde 1985), reduz a arrecadação, aumenta a dívida, e exige
+  mais emissão de títulos — recomeçando o ciclo.
+
+NÓ CRÍTICO: O art. 192 da CF/88 é a ALAVANCA. Ele determina que o SFN deve promover
+o desenvolvimento equilibrado. Uma SELIC de 15% que transfere R$ 998 bi/ano dos
+contribuintes para 5 bancos NÃO promove desenvolvimento — promove extração.
+A interpretação do art. 192 nunca foi levada ao STF. É o caso paradigmático.
+
+================================================================================
+
+SEÇÃO 3 — PROPOSTAS EXECUTÁVEIS
+
+PROPOSTA 1: TAXA SOBRE GRANDES INSTITUIÇÕES FINANCEIRAS (TIGIF)
+INSTRUMENTO: Resolução CMN + Medida Provisória (M1 — Via Executivo).
+CONTEÚDO: Criar taxa adicional sobre instituições financeiras com ativos >R$ 100 bi.
+  Alíquota: 0,5% ao ano sobre o total de ativos acima de R$ 100 bi.
+  Arrecadação projetada: R$ 30-50 bilhões/ano (os 5 maiores têm R$ 8+ trilhões em ativos).
+  Destinação: 50% para saúde, 30% para educação, 20% para segurança pública.
+FUNDAMENTAÇÃO: O lucro bancário de R$ 255 bi/ano (2024) é diretamente subsidiado pela
+  SELIC a 15% paga pelo Tesouro. A TIGIF internaliza esse subsídio.
+ESTIMATIVA: R$ 30-50 bi/ano de receita. R$ 0 custo.
+
+PROPOSTA 2: ADPF AO STF — ART. 192 DA CONSTITUIÇÃO
+INSTRUMENTO: Arguição de Descumprimento de Preceito Fundamental (M2 — Via Judiciário).
+CONTEÚDO: Questionar a constitucionalidade de uma política monetária que mantém a maior
+  taxa de juros real do mundo, em descumprimento do art. 192 da CF/88 ("promover o
+  desenvolvimento equilibrado do País e servir aos interesses da coletividade").
+  Pedidos:
+    (a) Reconhecimento de que a SELIC a 15% viola o art. 192 CF/88
+    (b) Determinação ao BCB para justificar tecnicamente a taxa com base em
+        desenvolvimento equilibrado, não apenas metas de inflação
+    (c) Obrigação de o CMN incluir indicadores de desenvolvimento (PIB, emprego,
+        investimento) na decisão de taxa, não apenas IPCA
+FUNDAMENTAÇÃO: Art. 192 CF/88; art. 3º CF (objetivos fundamentais: erradicar pobreza,
+  reduzir desigualdades); art. 170 CF (ordem econômica: dignidade humana, pleno emprego).
+ESTIMATIVA: Custo processual mínimo. Impacto institucional MÁXIMO.
+
+PROPOSTA 3: CONTROLE DE CAPITAÇÃO ESPECULATIVA
+INSTRUMENTO: Decreto + Resolução CMN (M1 — Via Executivo).
+CONTEÚDO: IOF regressivo sobre entradas de capital de curto prazo (<365 dias):
+    0-30 dias: 6% IOF
+    31-90 dias: 4% IOF
+    91-180 dias: 2% IOF
+    181-365 dias: 1% IOF
+    >365 dias: 0% IOF (investimento produtivo isento)
+FUNDAMENTAÇÃO: Reduz carry trade especulativo que valoriza o real e desindustrializa.
+ESTIMATIVA: R$ 10-15 bi/ano de arrecadação + proteção cambial.
+
+PROPOSTA 4: LEI DE TRANSPARÊNCIA DA DÍVIDA
+INSTRUMENTO: Projeto de Lei (M3 — Via Legislativo).
+CONTEÚDO: Obrigar o Tesouro a publicar trimestralmente:
+    - Quem são os detentores dos títulos públicos (CPF/CNPJ anonimizado por faixa)
+    - Qual % dos juros é pago a cada categoria (banco, fundo, estrangeiro, PF)
+    - Custo fiscal de cada ponto percentual de SELIC
+    - Comparação internacional de custo fiscal de juros
+FUNDAMENTAÇÃO: ADPF 509 (STF garantiu publicidade como direito fundamental).
+ESTIMATIVA: R$ 0 (normativo).
+
+================================================================================
+
+SEÇÃO 4 — CUSTO E RETORNO
+
+CUSTO TOTAL DAS 4 PROPOSTAS: R$ 0 (todas são normativas/arrecadadoras)
+  - TIGIF: arrecada R$ 30-50 bi/ano
+  - ADPF: custo processual mínimo
+  - IOF: arrecada R$ 10-15 bi/ano
+  - Transparência: R$ 0
+
+RETORNO PROJETADO:
+  - Redução de 5 p.p. na SELIC (15% → 10%): libera ~R$ 300 bi/ano
+  - TIGIF: R$ 30-50 bi/ano
+  - IOF especulativo: R$ 10-15 bi/ano
+  - TOTAL: R$ 340-365 bi/ano disponíveis para investimento social
+
+COMPARAÇÃO:
+  - R$ 340 bi = 3x orçamento da saúde
+  - R$ 340 bi = 2,5x orçamento da educação
+  - R$ 340 bi = erradicação da fome (TEIA-110: R$ 30 bi/ano)
+  - R$ 340 bi = universalização do saneamento em 7 anos (TEIA-112: R$ 50 bi/ano)
+
+CONCLUSÃO: O dinheiro para resolver os problemas do Brasil EXISTE.
+Está sendo transferido para 5 bancos sob a forma de juros da dívida.
+
+================================================================================
+
+SEÇÃO 5 — PETIÇÃO FORMAL AO SUPREMO TRIBUNAL FEDERAL
+
+EXMO. SR. MINISTRO PRESIDENTE DO SUPREMO TRIBUNAL FEDERAL
+
+    CLEITON MOURA, brasileiro, maior, analista de geopolítica e economia,
+    vem, respeitosamente, à presença de Vossa Excelência, com fundamento no
+    art. 102 da Constituição Federal, na Lei 9.882/1999, e no art. 192 da
+    Constituição Federal, propor a presente
+
+                    ARGUIÇÃO DE DESCUMPRIMENTO DE PRECEITO FUNDAMENTAL
+
+    objetivando o reconhecimento de que a manutenção da taxa SELIC em patamar
+    desproporcional (15,00% a.a., a maior taxa real de juros do mundo em
+    dezembro de 2025) configura descumprimento do preceito fundamental
+    consagrado no art. 192 da Constituição, que determina que o Sistema
+    Financeiro Nacional deve promover "o desenvolvimento equilibrado do País"
+    e servir "aos interesses da coletividade".
+
+    I. DOS FATOS
+
+    O custo fiscal dos juros da dívida pública atingiu R$ 998 bilhões em 2024
+    (8,45% do PIB), montante superior ao dobro dos orçamentos da educação e
+    saúde somados. A taxa básica de juros brasileira (15,00%) excede em 10,50
+    pontos percentuais a taxa praticada pelo Chile (4,50%) e em 7,75 pontos
+    a do México (7,25%). A carga tributária brasileira (32,32% do PIB) é a
+    maior da América Latina, mas o IRBES classifica o Brasil como o país com
+    pior retorno em bem-estar entre países de carga tributária similar.
+
+    II. DO DIREITO
+
+    O art. 192 da Constituição Federal estabelece como preceito fundamental
+    que o Sistema Financeiro Nacional deve ser estruturado de forma a promover
+    o desenvolvimento equilibrado do País e servir aos interesses da
+    coletividade. A manutenção de uma taxa de juros que transfere R$ 998
+    bilhões por ano dos contribuintes para o sistema financeiro — majoritariamente
+    para 5 instituições que auferiram R$ 125,6 bilhões em lucro em 2024 — NÃO
+    promove desenvolvimento equilibrado e NÃO serve aos interesses da
+    coletividade. Serve aos interesses do sistema financeiro.
+
+    III. DO PEDIDO
+
+    Requer ao Supremo Tribunal Federal:
+    (a) O reconhecimento da inconstitucionalidade, por omissão, da ausência
+        de critérios de desenvolvimento equilibrado na política monetária;
+    (b) A determinação ao Conselho Monetário Nacional para incluir indicadores
+        de desenvolvimento (PIB, emprego, investimento) nas decisões de taxa;
+    (c) A produção de parecer técnico sobre a compatibilidade da SELIC a 15%
+        com o art. 192 da CF/88.
+
+    Termos em que, pede deferimento.
+
+    Brasília/DF, julho de 2026.
+
+    _______________________________________________
+    CLEITON MOURA — TEIA
+
+================================================================================
+PROTOCOLO TEIA: TEIA-2026-107
+VERSÃO: v1.0
+CATEGORIA: 05_ACAO
+STATUS: PROTOCOLO_ATIVO
+================================================================================

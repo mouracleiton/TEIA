@@ -1,0 +1,177 @@
+================================================================================
+                    TEIA — DOSSIÊ TÉCNICO EXECUTIVO
+                    PROTOCOLO: TEIA-2026-108
+                    PROBLEMA: S1 — HOMICÍDIOS EM MASSA (42.590/ano)
+                    ENTREGA: MJ / CNJ / STF / SENAPPEN
+                    SCORE TEIA: 5/5
+                    DATA: JULHO/2026
+                    AUTOR: CLEITON MOURA (@PROFESSORCINZA) — TEIA
+================================================================================
+
+SEÇÃO 0 — RESUMO EXECUTIVO
+
+(a) DIAGNÓSTICO
+O Brasil registra 42.590 homicídios dolosos por ano (2024, Atlas Ipea/FBSP). 77% das
+vítimas são negras. 91% são homens. 50% têm entre 15 e 29 anos. A letalidade policial
+mata 6.243 pessoas/ano (2024, FBSP), sendo 78,9% negras — série acumulada de 60.394
+vítimas entre 2014 e 2024. A elucidação de homicídios é de apenas ~10%. O país tem
+905.316 pessoas sob sanções penais (3ª maior população carcerária do mundo), com 40%
+de presos provisórios. A arma de fogo é usada em 77% dos casos.
+
+(b) APORTOS
+Grupo de Análise de Homicídios (GAH) com meta de elucidação >50% (modelo Filadélfia,
+-60% homicídios). Desarmamento ativo: compra de armas + anistia (modelo Austrália,
+-59% homicídios armados). STF Tema 551: prisão como última ratio (reduz 100-150 mil
+presos provisórios). Reforma policial: extinção da PM militarizada → polícia comunitária
+cíclica. Câmeras corporativas obrigatórias (-60% letalidade, modelo Oakland).
+
+(c) EFICIÊNCIA
+Redução de 50% nos homicídios (21 mil vidas/ano). Redução de 50% na letalidade policial
+(3.100 vidas/ano). Redução de 39% na população carcerária (821k → 500k). Elucidação de
+50% dos homicídios (de 10% para 50% em 4 anos).
+
+(d) CUSTO
+R$ 15 bilhões/ano (R$ 8 bi GAH + R$ 3 bi desarmamento + R$ 2 bi prevenção primária +
+R$ 2 bi câmeras corporativas).
+
+(e) RESULTADO
+42.590 homicídios → 21.000 em 5 anos (-50%). Letalidade policial 6.243 → 3.000 (-50%).
+População carcerária 905k → 500k (-45%). 24 mil vidas salvas por ano.
+
+================================================================================
+
+SEÇÃO 1 — DIAGNÓSTICO
+
+1.1 DADOS FACT-CHECKED
+- Homicídios dolosos 2024: 42.590 (queda 7,4% vs 2023 — Atlas da Violência 2026, Ipea/FBSP)
+- 77% das vítimas são negras (taxa 27,3/100mil vs 10/100mil não-negros)
+- 91% são homens
+- 50% têm 15-29 anos
+- Arma de fogo: 77% dos casos
+- Letalidade policial: 6.243 mortes em intervenções (2024, FBSP 19º Anuário)
+- Queda letalidade: -3,1% vs 2023
+- 78,9% das vítimas de letalidade policial são negras (FBSP 2024)
+- Série 2014-2024: 60.394 vítimas de letalidade policial (FBSP)
+- Policiais mortos: 170 (2024), 65,4% negros (FBSP)
+- Elucidação de homicídios: ~10%
+- População carcerária: 905.316 sob sanções penais (2º sem 2024, SENAPPEN)
+- 674 mil em celas físicas + 235 mil em domiciliar
+- Déficit de vagas: 174.436 (capacidade: 488.951)
+- 3ª maior população carcerária do mundo (World Prison Brief)
+- ~40% presos provisórios (~183.806 pessoas)
+- 28% por tráfico de drogas (Lei 11.343/2006)
+- Custo prisional: R$ 2.800/preso/mês = R$ 28 bi/ano
+
+1.2 MARCO NORMATIVO
+- Código Penal (DL 2.848/1940): 86 anos sem reforma estrutural
+- Lei de Drogas (Lei 11.343/2006): responsável por 28% da população carcerária
+- Art. 144 CF/88: segurança pública competência estadual (fragmentação)
+- Lei 13.964/2019 (Pacote Anticrime): audiência de custódia (pouco implementada)
+- Lei 10.826/2003 (Estatuto do Desarmamento): desarmamento
+- STF Tema 551: prisão como última ratio (julgamento em curso)
+
+================================================================================
+
+SEÇÃO 2 — A MÁQUINA: 5 ENGENHAGENS DA MORTE
+
+ENGENHAGEM 1 — SELEÇÃO: O sistema seleciona quem morre. Jovem negro, periferia, 15-29
+  anos. TODOS OS ANOS o mesmo perfil. Não é aleatório — é tanatopolítica. O Estado decide
+  que zonas onde a polícia mata com impunidade são zonas onde a vida vale menos.
+
+ENGENHAGEM 2 — ARMAMENTO: 77% por arma de fogo. A bala é a moeda da morte. Sem arma,
+  a escala despenca. O lobby armamentista financia políticos que flexibilizam acesso.
+
+ENGENHAGEM 3 — IMPUNIDADE: 90% dos homicídios não são elucidados. Matar é grátis. A
+  falta de investigação é o NÓ MESTRE: se matar passa a ter consequência (elucidação
+  >50%), todos os loops se rompem.
+
+ENGENHAGEM 4 — LUCRO: Facções armadas, milícias, indústria da segurança privada, político
+  law-and-order, lobby armamentista — TODOS lucram com a violência. A paz é mau negócio.
+
+ENGENHAGEM 5 — NORMALIZAÇÃO: 42.590 mortes/ano sem comoção nacional. O mito "jovem negro
+  = bandido" desativa a indignação. 42.590 sem comoção = o mito funcionando.
+
+NÓ CRÍTICO: A impunidade (90% não elucidados). Se matar passa a ter consequência:
+  - Facção perde poder de recrutamento (ser membro = prisão certa)
+  - Milícia perde extorsão (denúncia leva a investigação)
+  - Polícia para de matar (cada morte é investigada)
+  - Vingança privada cai (Estado processa em vez do particular)
+
+================================================================================
+
+SEÇÃO 3 — PROPOSTAS EXECUTÁVEIS
+
+PROPOSTA 1: GRUPO DE ANÁLISE DE HOMICÍDIOS (GAH)
+INSTRUMENTO: Portaria MJ + convênio com estados (M1).
+CONTEÚDO: Criar GAH em cada município >500 mil hab. Meta: elucidação >50% em 4 anos.
+  Estrutura: 10 investigadores + 2 analistas de dados + 2 promotores + software.
+  Modelo: Filadélfia (EUA) reduziu homicídios em 60% com foco em elucidação.
+ESTIMATIVA: R$ 8 bi/ano (200 GAHs × R$ 40 mi/ano cada).
+
+PROPOSTA 2: DESARMAMENTO ATIVO
+INSTRUMENTO: Decreto + programa MJ (M1).
+CONTEÚDO: Compra voluntária de armas de fogo + anistia para posse ilegal.
+  Modelo: Austrália (1996) comprou 660 mil armas, reduziu homicídios armados 59%.
+  Meta Brasil: comprar 500 mil armas em 3 anos.
+ESTIMATIVA: R$ 3 bi/ano.
+
+PROPOSTA 3: STF TEMA 551 — PRISÃO COMO ÚLTIMA RATIO
+INSTRUMENTO: Decisão STF + Resolução CNJ (M2).
+CONTEÚDO: Prisão provisória como medida excepcional. Audiência de custódia em 24h.
+  Monitoramento eletrônico para presos provisórios. Reduz 100-150 mil presos provisórios.
+ESTIMATIVA: R$ 2 bi/ano (monitoramento + estrutura).
+
+PROPOSTA 4: REFORMA POLICIAL — PM → COMUNITÁRIA
+INSTRUMENTO: EC + leis estaduais (M3 — Via Legislativo).
+CONTEÚDO: Extinção gradual da Polícia Militar como força combatente. Transição para
+  polícia comunitária cíclica (modelo Noruega). Formação universitária obrigatória.
+  Câmeras corporativas obrigatórias (reduz 60% letalidade — Oakland EUA).
+ESTIMATIVA: R$ 2 bi/ano (câmeras + transição).
+
+PROPOSTA 5: PREVENÇÃO PRIMÁRIA
+INSTRUMENTO: Programa interministerial MJ+MEC+MDS (M1).
+CONTEÚDO: Transferência condicionada para jovens 15-24 em zonas de maior risco.
+  Programa Currículo (Bogotá): reduziu homicídios 35% em 3 anos.
+ESTIMATIVA: R$ 2 bi/ano.
+
+================================================================================
+
+SEÇÃO 4 — CUSTO E RETORNO
+
+CUSTO: R$ 15 bi/ano (5 propostas)
+COMPARAÇÃO:
+  - R$ 15 bi = 0,6% do custo dos juros da dívida (R$ 998 bi/ano, TEIA-107)
+  - R$ 15 bi = 54% do custo prisional atual (R$ 28 bi/ano)
+  - R$ 15 bi = R$ 350 mil por vida salva (24 mil vidas/ano)
+RETORNO: 24 mil vidas/ano + R$ 13 bi/ano em economia prisional (líquido: R$ 2 bi/ano)
+
+================================================================================
+
+SEÇÃO 5 — PETIÇÃO FORMAL AO CONSELHO NACIONAL DE JUSTIÇA (CNJ)
+
+EXMO. SR. PRESIDENTE DO CONSELHO NACIONAL DE JUSTIÇA
+
+    CLEITON MOURA, brasileiro, vem respeitosamente à presença de Vossa Excelência,
+    com fundamento no art. 103-B da CF/88, apresentar REPRESENTAÇÃO solicitando:
+
+    (a) META NACIONAL de julgamento de ações penais por homicídio em prazo máximo
+        de 12 meses (da denúncia à sentença);
+    (b) OBSERVATÓRIO DA JUSTIÇA CRIMINAL SOBRE HOMICÍDIOS, monitorando elucidação,
+        tempo de tramitação, taxa de condenação;
+    (c) INTEGRAÇÃO do sistema de identificação balística (IBIS) a todos os estados;
+    (d) OFÍCIO ao STF solicitando julgamento do Tema 551 (prisão como última ratio).
+
+    Fundamentação: 42.590 homicídios/ano com 10% de elucidação constitui falha
+    sistêmica do Poder Judiciário em garantir o direito à vida (art. 5º CF/88).
+
+    Brasília/DF, julho de 2026.
+
+    _______________________________________________
+    CLEITON MOURA — TEIA
+
+================================================================================
+PROTOCOLO TEIA: TEIA-2026-108
+VERSÃO: v1.0
+CATEGORIA: 05_ACAO
+STATUS: PROTOCOLO_ATIVO
+================================================================================
