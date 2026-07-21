@@ -570,10 +570,50 @@ SEÇÃO 6 — VERIFICAÇÃO DE FONTES (CHECKLIST TEIA 32 ITENS)
 
 ================================================================================
 PROTOCOLO TEIA: TEIA-2026-107
-VERSÃO: v1.0
+VERSÃO: v1.2
 CATEGORIA: 05_ACAO
-TÍTULO: Dossiê + ADPF STF — Juros, Custo Fiscal da Dívida e Art. 192 CF/88
 STATUS: PROTOCOLO_ATIVO
+================================================================================
+
+================================================================================
+ANEXO PROBATÓRIO — CITAÇÕES DE AUTORIDADES SOBRE A NECESSIDADE DE REDUZIR A SELIC
+================================================================================
+
+As seguintes citações de autoridades brasileiras corroboram a tese central deste
+dossiê de que a SELIC em patamar excessivamente alto trava o desenvolvimento e
+viola o art. 192 da CF/88. Estas citações NÃO substituem a fundamentação técnica
+— a complementam, demonstrando que o diagnóstico TEIA é consensual entre economistas
+e autoridades.
+
+1. FERNANDO HADDAD (Ministro da Fazenda)
+   "A Selic está excessivamente restritiva."
+   Fonte: Valor Econômico, 07/10/2025
+   "Somos escravos dos juros altos."
+   Fonte: Metrópoles, 2025
+
+2. LUIZ INÁCIO LULA DA SILVA (Presidente da República)
+   "O Brasil tem uma cultura de juros altos que não combina com a necessidade de
+   crescimento do país."
+   Fonte: G1, 06/02/2023
+
+3. LUIZ CARLOS BRESSER-PEREIRA (Economista, ex-Ministro da Fazenda)
+   "A economia brasileira está presa na armadilha dos juros altos e do câmbio
+   apreciado. O Brasil está preso ao círculo vicioso da quase estagnação."
+   Fonte: Artigo "A cultura dos juros altos", dez/2024
+
+4. GERALDO ALCKMIN (Vice-Presidente, Ministro do MDIC)
+   "Não há crescimento sem consumo, mas os juros elevados atrapalham esse potencial."
+   Fonte: UOL, 06/11/2025
+
+5. SIMONE DEOS E GUSTAVO CAVARZAN (Economistas, Unicamp)
+   "A taxa básica de juros praticada no Brasil estimula a especulação financeira
+   em detrimento da economia real."
+   Fonte: Seminário CONTRAFCUT, 2024
+
+CONCLUSÃO DO ANEXO:
+O diagnóstico TEIA-107 não é tese isolada. É corroborada pelo Ministro da Fazenda,
+pelo Presidente da República, por um ex-Ministro da Fazenda e economista de renome
+internacional (Bresser-Pereira), pelo Vice-Presidente, e por acadêmicos da Unicamp.
 DATA: JULHO/2026
 AUTOR: CLEITON MOURA (@PROFESSORCINZA) — TEIA
 ================================================================================
