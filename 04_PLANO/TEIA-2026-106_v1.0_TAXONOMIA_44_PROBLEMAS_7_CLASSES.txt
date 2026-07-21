@@ -34,11 +34,11 @@ CLASSE 1 — ECONÔMICA (7 PROBLEMAS)
 ────────────────────────────────────────────────────────────────────────────────
 E1 — JUROS E CUSTO FISCAL DA DÍVIDA PÚBLICA
 ────────────────────────────────────────────────────────────────────────────────
-DADO: SELIC em 10,75% (2025). Brasil paga R$ 800+ bilhões/ano em juros da dívida
-      (maior que educação + saúde combinadas). Custo fiscal acumulado 2020-2025:
-      ~R$ 4 trilhões em juros. Países comparáveis: México (Banxico 11%), Chile (5%),
-      Colômbia (9,5%). O Brasil tem a maior taxa real de juros do mundo.
-FONTE: BCB, STN, Focus Bulletin, OECD.
+DADO: SELIC em 15,00% a.a. (dez/2025 — maior nível nominal em ~19 anos). Brasil paga
+      R$ 998 bilhões/ano em juros da dívida (8,45% do PIB em 2024). Comparação:
+      México (Banxico 7,25%), Chile (4,50%), Colômbia (9,25%). Diferencial BR vs Chile:
+      +10,50 p.p. Brasil tem a maior taxa real de juros do mundo.
+FONTE: BCB/Copom (10/dez/2025), Tesouro Nacional (G1, 31/jan/2025), banxico, BCC, Banco de la República.
 NÓ CRÍTICO: A dívida paga juros para os mesmos 5 bancos que compram os títulos.
       O sistema é circular: governo emite título → banco compra → juros pagos com
       impostos → imposto paga o juro do banco.
@@ -54,11 +54,11 @@ MEDIDA DE ALTO IMPACTO:
 ────────────────────────────────────────────────────────────────────────────────
 E2 — SPREAD BANCÁRIO E LUCRACÃO EXORBITANTE
 ────────────────────────────────────────────────────────────────────────────────
-DADO: Spread médio 28-32% (2025) — cliente paga 45%, recebe 13%.
-      5 maiores bancos (Itaú, BB, Bradesco, Santander, Caixa) = 80% dos ativos.
-      Lucro líquido Itaú 2024: R$ 39 bilhões (recorde histórico).
-      Total 5 maiores: >R$ 100 bilhões/ano em lucro.
-FONTE: BCB, Demonstrações Financeiras RI, CADE.
+DADO: Spread bancário médio 20,7 p.p. (ago/2025 — alta de 2,2 p.p. em 12 meses).
+      5 maiores bancos (Itaú R$ 40,2 bi, BB R$ 25,4 bi, Bradesco R$ 19 bi, Santander
+      R$ 12,4 bi, Caixa) lucraram R$ 125,6 bilhões em 2024 (+20% a.a.). Sistema total:
+      R$ 255 bilhões (recorde histórico).
+FONTE: BCB/Dados Abertos, RI Itaú/BB/Bradesco/Santander (2024).
 NÓ CRÍTICO: Oligopólio garante spread artificial. Sem concorrência, o banco
       pode cobrar 30% quando o custo de captação é 12%.
 MEDIDA DE ALTO IMPACTO:
@@ -107,10 +107,11 @@ MEDIDA DE ALTO IMPACTO:
 ────────────────────────────────────────────────────────────────────────────────
 E5 — CONCENTRAÇÃO BANCÁRIA E CRÉDITO CARO
 ────────────────────────────────────────────────────────────────────────────────
-DADO: CR5 (5 maiores) = 80% dos ativos. Índice HHI = 2.500+ (mergulho em
-      concentração grave). Crédito/PIB Brasil: 70% (Chile: 130%, México: 85%).
-      Microempreendedor paga 60-80% ao ano para pegar crédito.
-FONTE: BCB Relatório de Estabilidade Financeira, CADE.
+DADO: CR4 (4 maiores: Itaú, BB, Bradesco, Caixa) = 55,3% dos ativos, 57,8% do crédito,
+      57,9% dos depósitos (BCB, 2023). CR5 em empréstimos >80% (ref. 2020).
+      Crédito/PIB Brasil: 70% (Chile: 130%, México: 85%). Microempreendedor paga
+      60-80% ao ano para pegar crédito.
+FONTE: BCB (FEEBPR 2023), Sinpro Campinas (fev/2025), CADE.
 NÓ CRÍTICO: Sem concorrência, o banco cobra o que quer.
 MEDIDA DE ALTO IMPACTO:
   M1 — Abertura obrigatória de dados bancários (Open Finance expansão).
@@ -163,10 +164,11 @@ CLASSE 2 — POLÍTICO-INSTITUCIONAL (7 PROBLEMAS)
 ────────────────────────────────────────────────────────────────────────────────
 P1 — ORÇAMENTO SECRETO E EMENDAS PARLAMENTARES
 ────────────────────────────────────────────────────────────────────────────────
-DADO: Emendas parlamentares 2024: R$ 36,6 bilhões (orçamento secreto + RP8+RP9).
-      Distribuição não-transparente, clientelista, sem critério técnico.
-      STF julgou inconstitucional em parte (ADPF 860/2024).
-FONTE: Congresso, STF, TCU, SIAFI.
+DADO: Emendas parlamentares 2024: R$ 53 bilhões; 2025: R$ 50,4 bilhões (até R$ 58,4 bi
+      com RP2/RP3); proposta 2026: R$ 40,8 bi. Crescimento: R$ 6,1 bi (2014) → R$ 50 bi
+      (2025) = +720% em 11 anos. Emenda de relator ("orçamento secreto") extinta pelo
+      STF (ADI 6826, 2022) mas substituída por "emenda de comissão" com mesma lógica.
+FONTE: Estadão (LOA 2024), Câmara dos Deputados/Agência Brasil (LOA 2025), IPEA (abr/2026), STF (ADI 6826).
 NÓ CRÍTICO: O orçamento secreto é moeda de troca política — parlamentares
       trocam emendas por votos do governo, blindagem e cargos.
 MEDIDA DE ALTO IMPACTO:
@@ -231,10 +233,11 @@ MEDIDA DE ALTO IMPACTO:
 P5 — CORRUPÇÃO SISTÊMICA E IMPUNIDADE
 ────────────────────────────────────────────────────────────────────────────────
 DADO: Brasil perde R$ 100-200 bi/ano com corrupção (FIESP).
-      Operação Lava Jato recuperou R$ 15 bi em 5 anos (mas foi desmantelada).
-      60% dos congressistas têm processos criminais (Congresso Transparente).
-      Ranking Transparência Internacional: Brasil 94º de 180 países (2024).
-FONTE: TI, CGU, MPF, TCU, Transparência Brasil.
+      IPC Transparency International 2024: 34 pontos / 107ª posição (PIOR da série
+      histórica desde 2012). 2025: 35 pontos / 107ª de 182 países.
+      PEC da Blindagem (PEC 3/2021): aprovada na Câmara (set/2025) mas REJEITADA por
+      unanimidade na CCJ do Senado — arquivada. Lava Jato recuperou R$ 15 bi.
+FONTE: Transparency International IPC 2024/2025, FIESP, CGU, MPF, TCU, STF.
 NÓ CRÍTICO: Impunidade é sistêmica — a Lava Jato mostrou que quando há
       punição, a corrupção cai. Mas o sistema se regenerou.
 MEDIDA DE ALTO IMPACTO:
@@ -283,9 +286,11 @@ CLASSE 3 — SOCIAL (8 PROBLEMAS)
 ────────────────────────────────────────────────────────────────────────────────
 S1 — HOMICÍDIOS EM MASSA (42.590/ano)
 ────────────────────────────────────────────────────────────────────────────────
-DADO: 42.590 homicídios em 2024 (queda 7,4% vs 2023). 77% das vítimas negras.
-      91% homens, 50% 15-29 anos. Letalidade policial: 6.200/ano. Elucidação: ~10%.
-FONTE: Atlas da Violência 2026 (Ipea/FBSP).
+DADO: 42.590 homicídios em 2024 (queda 7,4% vs 2023, Atlas da Violência 2026).
+      77% das vítimas negras. 91% homens, 50% 15-29 anos. Letalidade policial: 6.243
+      mortes em intervenções (FBSP 2024, -3,1%). Série 2014-2024: 60.394 vítimas.
+      Elucidação: ~10%. 78,9% das vítimas de letalidade policial são negras.
+FONTE: Atlas da Violência 2026 (Ipea/FBSP), FBSP 19º Anuário (2025).
 NÓ CRÍTICO: Impunidade (90% não elucidados) é o nó mestre.
 MEDIDA DE ALTO IMPACTO:
   M1 — Grupo de Análise de Homicídios (GAH) em cidades >500 mil.
@@ -299,10 +304,11 @@ MEDIDA DE ALTO IMPACTO:
 ────────────────────────────────────────────────────────────────────────────────
 S2 — FOME E INSEGURANÇA ALIMENTAR
 ────────────────────────────────────────────────────────────────────────────────
-DADO: 33 milhões de brasileiros em insegurança alimentar grave (2022, pico).
-      Recuou para 12,7 milhões (2024) mas ainda acima de 2018 (5,1 milhões).
-      4,4 milhões passam fome diariamente. Brasil retornou ao Mapa da Fome da ONU.
-FONTE: PNAD IBGE, Rede PENSSANAM, FAO.
+DADO: 6,48 milhões de brasileiros em insegurança alimentar grave/fome (PNAD 2024,
+      menor da série histórica desde 2012, -23% vs 2023). 54,7 milhões em IA total
+      (leve+moderada+grave, 24,2% dos domicílios). Pico histórico: 33 milhões (2022).
+      Brasil retornou ao Mapa da Fome da FAO em 2022, saiu parcialmente em 2024.
+FONTE: IBGE — PNAD Contínua Suplemento Segurança Alimentar 2024 (divulgado out/2025).
 NÓ CRÍTICO: Fome é PRODUTO DA DESIGUALDADE, não de escassez.
       Brasil produz alimentos para 1 bilhão de pessoas mas 33 milhões passam fome.
 MEDIDA DE ALTO IMPACTO:
@@ -317,9 +323,10 @@ MEDIDA DE ALTO IMPACTO:
 S3 — SAÚDE PÚBLICA SUBFINANCIADA (SUS)
 ────────────────────────────────────────────────────────────────────────────────
 DADO: Brasil gasta 4% do PIB em saúde (OCDE: 9%). SUS atende 75% da população.
-      Filas: 1,5 milhões em fila de cirurgia eletiva (CNJ). Déficit médicos:
-      60 mil postos sem preenchimento em áreas remotas.
-FONTE: DATASUS, CNJ, OEI Brasil, MS.
+      IFI/Senado (2025) confirma "crônico subfinanciamento": projeção de necessidade
+      de expansão 3,9% a.a. vs limite do arcabouço fiscal 2,5% a.a. → conflito fiscal
+      projetado a partir de 2026. Filas: 1,5 milhões em cirurgia eletiva (CNJ).
+FONTE: IFI/Senado (Estudo Casalecchi, jul/2025), DATASUS, CNJ, Lei 14.144/2021.
 NÓ CRÍTICO: Subfinanciamento é DECISÃO POLÍTICA, não limitação orçamentária.
 MEDIDA DE ALTO IMPACTO:
   M3 — EC garantindo piso de 10% da RFB para SUS (EC 95/2016 não cumprida).
@@ -332,10 +339,11 @@ MEDIDA DE ALTO IMPACTO:
 ────────────────────────────────────────────────────────────────────────────────
 S4 — EDUCAÇÃO EM COLAPSO
 ────────────────────────────────────────────────────────────────────────────────
-DADO: PISA 2022: Brasil 377 leitura (OCDE: 476), 366 matemática (472).
-      Atraso escolar: 40% dos estudantes do ensino médio com idade errada.
+DADO: PISA 2022: Brasil 472 matemática, 476 leitura, 485 ciências (OCDE média:
+      472/476/485 — Brasil está EXATAMENTE na média em leitura, mas >50% dos alunos
+      não atingem nível mínimo em matemática/ciências). Subiu 6 posições (65º).
       Analfabetismo: 7% (11,5 milhões). Ensino médio: evasão 23%.
-FONTE: INEP, PISA/OCDE, PNAD.
+FONTE: INEP/OCDE — PISA 2022, PNAD.
 NÓ CRÍTICO: Educação é a ALAVANCA MAIS PODEROSA para quebrar todos os outros
       ciclos. Mas o investimento caiu 38% em 10 anos (teto de gastos EC 95).
 MEDIDA DE ALTO IMPACTO:
@@ -365,10 +373,11 @@ MEDIDA DE ALTO IMPACTO:
 ────────────────────────────────────────────────────────────────────────────────
 S6 — DESIGUALDADE DE RENDA (GINI)
 ────────────────────────────────────────────────────────────────────────────────
-DADO: Gini Brasil: 0,518 (2024). 1% mais rico concentra 28,8% da renda.
-      50% mais pobre detém apenas 10%. Quase 4 milhões de pessoas em extrema
-      pobreza (renda <R$ 197/mês).
-FONTE: IBGE (PNAD Contínua), Banco Mundial, Oxfam.
+DADO: Gini Brasil: 0,506 (2024 — MENOR da série histórica PNAD desde 2012).
+      Melhora de -0,038 vs 2021 (0,544). Mas: 10% mais ricos têm 13,4x a renda dos
+      40% mais pobres. Rendimento médio domiciliar per capita: R$ 2.020 (recorde, +4,7%).
+      Quase 4 milhões em extrema pobreza.
+FONTE: IBGE — PNAD Contínua Renda 2024, Banco Mundial, Oxfam.
 NÓ CRÍTICO: Desigualdade é VETOR de todos os outros problemas.
       Gini mais baixo = menos homicídios, menos fome, mais educação.
 MEDIDA DE ALTO IMPACTO:
@@ -382,10 +391,11 @@ MEDIDA DE ALTO IMPACTO:
 ────────────────────────────────────────────────────────────────────────────────
 S7 — NEGLIGENCIAÇÃO E SEGURANÇA PÚBLICA
 ────────────────────────────────────────────────────────────────────────────────
-DADO: Brasil gasta 1,8% do PIB em segurança (OCDE: 1,7%). Mas eficiência é baixíssima.
-      6.200 mortes por policial/ano (FBSP). 77% das vítimas negras.
-      Encarceramento em massa: 821 mil presos (4ª maior população carcerária).
-FONTE: FBSP, Atlas da Violência, INFOPEN.
+DADO: Brasil gasta 1,8% do PIB em segurança (OCDE: 1,7%). 6.243 mortes em intervenções
+      policiais em 2024 (-3,1% vs 2023, FBSP). 78,9% das vítimas negras. Série 2014-2024:
+      60.394 vítimas de letalidade policial. Encarceramento: 905.316 pessoas sob sanções
+      penais (2º sem 2024, SENAPPEN) — 3ª maior do mundo. 40% presos provisórios.
+FONTE: FBSP 19º Anuário (2025), SENAPPEN/SISDEPEN 17º Ciclo (2024), Atlas Ipea/FBSP.
 NÓ CRÍTICO: A polícia mata porque tem licença para matar. A estrutura militarizada
       (PM) foi criada em 1831 para reprimir escravos. Nunca foi reformada.
 MEDIDA DE ALTO IMPACTO:
@@ -399,10 +409,11 @@ MEDIDA DE ALTO IMPACTO:
 ────────────────────────────────────────────────────────────────────────────────
 S8 — ENCARCERAMENTO EM MASSA
 ────────────────────────────────────────────────────────────────────────────────
-DADO: 821 mil presos (4ª maior do mundo). 32% presos provisórios (263 mil).
-      Superlotação: 160% da capacidade. 28% por tráfico de drogas (Lei 11.343).
-      Custo: R$ 2.800/presos/mês = R$ 28 bi/ano.
-FONTE: CNJ (Levantamento Nacional), INFOPEN, MJ.
+DADO: 905.316 pessoas sob sanções penais (2º sem 2024 — 3ª maior do mundo).
+      674 mil em celas físicas + 235 mil em domiciliar. Déficit: 174.436 vagas.
+      ~40% presos provisórios (~183.806 pessoas). 28% por tráfico (Lei 11.343).
+      Custo: R$ 2.800/preso/mês = R$ 28 bi/ano.
+FONTE: SENAPPEN/SISDEPEN 17º Ciclo (2024), CNJ, MJ.
 NÓ CRÍTICO: Encarceramento em massa é ESCOLA DO CRIME — 70% reincidem.
 MEDIDA DE ALTO IMPACTO:
   M2 — STF Tema 551: prisão como última ratio (reduz 100-150 mil presos provis.).
@@ -522,10 +533,11 @@ CLASSE 5 — AMBIENTAL (6 PROBLEMAS)
 ────────────────────────────────────────────────────────────────────────────────
 A1 — DESMATAMENTO DA AMAZÔNIA
 ────────────────────────────────────────────────────────────────────────────────
-DADO: Amazônia: 11.594 km² desmatados em 2024 (INPE/DETER). Cerrado: 8.274 km².
-      Pico: 13.038 km² (2021). Meta COP: zero desmatamento ilegal até 2028.
-      60% do desmatamento é para pecuária (MapBiomas).
-FONTE: INPE, MapBiomas, IBAMA, MMA.
+DADO: Amazônia: 6.288 km² desmatados em 2024 (PRODES INPE — queda -30,6% vs 2023).
+      Cerrado: 8.174 km² (-25,7%, 1ª queda em 4 anos, mas Cerrado lidera 52,5% das perdas).
+      MapBiomas RAD 2024: desmatamento total Brasil -32,4%. Meta: zero desmatamento
+      ilegal até 2028. 60% para pecuária.
+FONTE: INPE PRODES (ago/2023-jul/2024), MapBiomas RAD 2024, IBAMA, MMA.
 NÓ CRÍTICO: O desmatamento está conectado à cadeia da carne exportada (JBS).
 MEDIDA DE ALTO IMPACTO:
   M1 — Rastreamento obrigatório de gado (de fazenda → frigorífico → exportação).
@@ -538,10 +550,11 @@ MEDIDA DE ALTO IMPACTO:
 ────────────────────────────────────────────────────────────────────────────────
 A2 — MUDANÇAS CLIMÁTICAS E EMISSÕES
 ────────────────────────────────────────────────────────────────────────────────
-DADO: Brasil é 7º maior emissor de CO2 do mundo (2,1 Gt/ano).
-      75% das emissões vêm de desmatamento + agropecuária.
-      Meta NDC: -48% emissões até 2025 (não cumprida: -38%).
-FONTE: SEEG, Observatório do Clima, MCTI.
+DADO: Brasil emitiu 2,145 GtCO2e em 2024 (queda recorde -16,7% vs 2023, menor nível
+      desde 2009, SEEG 13). 75% das emissões vêm de desmatamento + agropecuária.
+      Meta NDC 2025: -48% vs 2005 (provavelmente NÃO cumprida). Meta 2035: -59% a -67%.
+      COP30 realizada em Belém (nov/2025).
+FONTE: SEEG 13 / Observatório do Clima, NDC Brasil, MCTI.
 NÓ CRÍTICO: O Brasil pode ser líder em energia limpa mas escolhe não ser.
 MEDIDA DE ALTO IMPACTO:
   M1 — Carbon Pricing nacional (R$ 50/tonCO2 para emissores >25kt).
@@ -554,11 +567,11 @@ MEDIDA DE ALTO IMPACTO:
 ────────────────────────────────────────────────────────────────────────────────
 A3 — SANEAMENTO BÁSICO
 ────────────────────────────────────────────────────────────────────────────────
-DADO: 35 milhões de brasileiros SEM água tratada (19%).
-      100 milhões sem coleta de esgoto (48%). Tratamento: 50% do esgoto gerado.
-      Marco do Saneamento (Lei 14.026/2020): meta universalização até 2033.
-      Doenças de veiculação hídrica: 40 mil mortes evitáveis/ano.
-FONTE: SNIS, Trata Brasil, MS.
+DADO: 84,9% da população com água tratada (15,1% sem = ~32 milhões).
+      ~50% sem coleta/tratamento de esgoto (~105 milhões). Perda de água: 37,78%.
+      Investimento necessário universalização até 2033: R$ 551 bilhões.
+      Norte recebeu apenas 4,7% dos investimentos 2020-2024. Marco (Lei 14.026/2020).
+FONTE: SNIS 2024 (base 2022), Instituto Trata Brasil, MS.
 NÓ CRÍTICO: O Marco do Saneamento privatiza mas não garante universalização.
 MEDIDA DE ALTO IMPACTO:
   M1 — Programa Nacional de Saneamento (R$ 50 bi/ano em investimento).
@@ -642,10 +655,10 @@ MEDIDA DE ALTO IMPACTO:
 ────────────────────────────────────────.......................─
 T2 — EXCLUSÃO DIGITAL
 ────────────────────────────────────────.......................─
-DADO: 28 milhões de brasileiros sem acesso à internet (TIC Domicílios 2024).
-      13 milhões nunca usaram computador. Desigualdade: 72% têm internet
-      (A) vs 42% (E). 46% das escolas públicas sem internet adequada.
-FONTE: Cetic.br/NIC.br, IBGE, INEP.
+DADO: 90,5% da população (10+) com acesso à internet em 2025 (PNAD TIC/IBGE).
+      ~20 milhões ainda sem acesso. Crescimento: 66% (2016) → 90,5% (2025).
+      Mas: desigualdade de QUALIDADE persiste (rural vs urbano = "inclusão pela metade").
+FONTE: PNAD TIC/IBGE 2025, Cetic.br/NIC.br.
 NÓ CRÍTICO: Exclusão digital = exclusão cidadã (saúde, educação, direitos).
 MEDIDA DE ALTO IMPACTO:
   M1 — Internet para Todos: 5G em 100% dos municípios até 2028.
@@ -675,10 +688,11 @@ MEDIDA DE ALTO IMPACTO:
 ────────────────────────────────────────.......................─
 T4 — BAIXO INVESTIMENTO EM P&D
 ────────────────────────────────────────.......................─
-DADO: Brasil investe 1,2% do PIB em P&D (OCDE: 2,7%).
-      Coreia do Sul: 4,8%. Israel: 5,4%. Empresas investem 0,5% (OCDE: 1,5%).
+DADO: Brasil investe 1,14-1,21% do PIB em P&D (2021, MCTI). OCDE: 2,7%.
+      Israel: 6,35%. Coreia do Sul: 4,96%. Gap: ~1,5 p.p. do PIB.
+      PINTEC relançada em maio/2026 após quase 10 anos sem edição regular.
       Fuga de cérebros: 200 mil pesquisadores brasileiros no exterior.
-FONTE: MCTI, OCDE (MSTI), CNPq, CAPES.
+FONTE: MCTI/FAPESP (2021), OCDE MSTI (2023).
 NÓ CRÍTICO: Sem P&D não há soberania tecnológica.
 MEDIDA DE ALTO IMPACTO:
   M3 — EC garantindo 2% do PIB para P&D (setor público + privado).
@@ -712,10 +726,10 @@ CLASSE 7 — INFRAESTRUTURA (5 PROBLEMAS)
 ────────────────────────────────────────.......................─
 I1 — INFRAESTRUTURA DE TRANSPORTE DEFICIENTE
 ────────────────────────────────────────.......................─
-DADO: 61% da carga por rodovias (China: 30%). Ferrovias: 30 mil km (EUA: 250 mil).
-      Portos: ranking 35º no LPI (World Bank). Aeroportos: 34 principais (privatizados).
-      Custo logístico: 12% PIB (vs 8% OCDE).
-FONTE: CNT, ANTT, ANTAC, World Bank LPI.
+DADO: Rodovias: CNT avaliou 111.853 km (2024) — apenas 26,6% ótimo/bom, 26,6% ruim/péssimo.
+      Custo recuperação: R$ 9,97 bi. Ferrovias: 30 mil km (EUA: 250 mil), ~25% do transporte
+      (meta: 32%). Custo logístico: 12% PIB (vs 8% OCDE). Rodovias: 61% da carga.
+FONTE: CNT (Pesquisa Rodoviária 2024), ANTF, ANTT, World Bank LPI.
 NÓ CRÍTICO: Monopólio rodoviário = custo cascata em toda a economia.
 MEDIDA DE ALTO IMPACTO:
   M1 — Plano Nacional Ferroviário (nova malha 25 mil km em 15 anos).
@@ -728,11 +742,11 @@ MEDIDA DE ALTO IMPACTO:
 ────────────────────────────────────────.......................─
 I2 — ENERGIA E SOBERANIA ENERGÉTICA
 ────────────────────────────────────────.......................─
-DADO: Matriz energética: 48% renovável (média mundial: 14%).
-      Mas: distribuição concentrada (risco de apagão). Tarifas entre as mais caras
-      do mundo para o consumidor. 2 milhões sem energia elétrica.
-      Minerais estratégicos: lítio (95% da reserva está em MG), nióbio (98% mundial).
-FONTE: EPE, ANEEL, MME, USGS.
+DADO: Matriz elétrica: 88,2% renovável (2024, EPE/BEN 2025). Eólica+solar: 24%.
+      Oferta Interna de Energia: 49,1% renovável (2023). Tarifas entre as mais caras
+      do mundo para o consumidor. Nióbio: Brasil tem 94% das reservas / 90% da produção
+      mundial. Lítio: 95% das reservas em MG.
+FONTE: EPE/BEN 2025 (MME), ANM, USGS, ANEEL.
 NÓ CRÍTICO: O Brasil é potência energética mas o cidadão paga caro.
 MEDIDA DE ALTO IMPACTO:
   M1 — Nacionalização do lítio (indústria de baterias no Brasil).
